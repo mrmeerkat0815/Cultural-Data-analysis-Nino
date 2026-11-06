@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Week 4 Workshop: Text and Language Models</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Faustina:ital,wght@0,400;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/guide.css">
+<style>
+  body { border-top: 6px solid #BC0031; }
+  .nbrow { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; margin: 10px 0; }
+  .nbrow .try { margin: 0; }
+  td.n { white-space: nowrap; font-weight: 700; color: #BC0031; }
+  ol.steps > li { margin: 4px 0; }
+  table.ten th.sec { background: #FBEEF1; color: #BC0031; text-align: left; }
+  table.ten td.hint { color: #555555; font-size: 15px; }
+  @media print { .noprint { display: none; } body { border-top: 0; } a { color: #1F1D21; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="small noprint"><a href="../../">&larr; All weeks and tools</a></p>
+  <h1>Workshop: text and language models</h1>
+  <p class="sub">Cultural Data Analysis &middot; Week 4: Cultural Data Forms: Text</p>
+
+  <p class="lead">This week has the <a href="#text">text workshop</a> with transformer models, and a
+  <a href="#group">group exercise</a> on language models and their APIs, with a choice of two notebooks.</p>
+  <div class="box"><p><strong>First, save your own copy.</strong> Colab keeps your changes only if the notebook is in your own Google Drive.
+Go to <strong>File &rarr; Save a copy in Drive</strong> and work in the copy that opens in a new tab.
+You find it later in Google Drive, in <em>Colab Notebooks</em>.</p></div>
+
+
+  <h2 id="text">1. Text workshop: transformers</h2>
+  <p>Sentiment analysis of social media with Hugging Face: datasets, tokenisation into characters, words or sub-words, a baseline,
+  fine-tuning a transformer model, and a second case study on whether two sentences mean the same thing. Then you redo the lecture's
+  traditional NLP steps with language models and no training: sentiment, topics, entities and a chat model.</p>
+  <p><strong>To submit,</strong> run the whole notebook and complete every cell marked <code>#Complete cell</code>. You can skip sections and cells marked <em>optional</em>.</p>
+  <div class="nbrow noprint"><a class="try primary" href="https://colab.research.google.com/github/goto4711/cda-teaching-tools/blob/main/notebooks/week4/Week4_Workshop.ipynb" target="_blank" rel="noopener">Open in Colab</a><span class="muted"><code>Week4_Workshop.ipynb</code></span></div>
+  <div class="box info"><p><strong>Before you run anything:</strong></p>
+  <ol class="steps">
+    <li>In the top menu, go to <strong>Runtime &rarr; Change runtime type</strong> and choose <strong>Python 3</strong> with hardware accelerator <strong>T4 GPU</strong>.</li>
+    <li>When asked, <strong>allow the notebook access to Google Drive</strong>. Choose the Google account you use for Colab and tick all the permissions. The notebook reads the models from the shared course cache, the <em>CDA-CACHE</em> shortcut you set up as described on Canvas.</li>
+    <li>Run the first code cell. It takes a while.</li>
+  </ol></div>
+  <h3>Hand it in</h3>
+<p>The last cell makes an HTML file of your notebook and downloads it. Save the notebook first, run the cell,
+check the HTML file and upload it to Canvas.</p>
+
+
+  <h2 id="group">2. Group exercise: language models through their APIs</h2>
+  <p>Work in groups of three or four. Each group chooses <strong>one</strong> of the two notebooks. Both start with the same
+  part on APIs, which researchers use to talk to a language model with a program instead of the chat window.</p>
+  <ul>
+    <li>Everyone runs the notebook on their own laptop, but you work through it <strong>together</strong>.</li>
+    <li>Stop at the <strong>💬 Discuss</strong> boxes and talk before you go on.</li>
+    <li>Each member keeps their own notebook, with the group members' names at the top. You do not hand it in.</li>
+  </ul>
+
+  <h3>Option A, Prompting 1: Are all LLMs the same? Whose history do language models tell?</h3>
+  <p>Five models were asked for "20 important dates in world history" in English, Dutch and Chinese, ten times each. You compare
+  their lists, check an LLM's coding of the events by hand, and ask whose history is missing.</p>
+  <div class="nbrow noprint"><a class="try primary" href="https://colab.research.google.com/github/goto4711/cda-teaching-tools/blob/main/notebooks/week4/Week4_Prompting.ipynb" target="_blank" rel="noopener">Open in Colab</a><span class="muted"><code>Week4_Prompting.ipynb</code></span></div>
+  <div class="tablewrap"><table>
+    <tr><th>Part</th><th>What you do</th></tr>
+    <tr><td>1. Talking to a model through its API</td><td>build a request, read the answer, count tokens and costs</td></tr>
+    <tr><td>2. The data and how we measure it</td><td>150 answers from five models in three languages</td></tr>
+    <tr><td>3. Are all LLMs the same?</td><td>compare the lists with the Jaccard index and tf-idf</td></tr>
+    <tr><td>4. What is missing?</td><td>check an LLM's coding by hand, measure the agreement, count regions</td></tr>
+    <tr><td>5. Your own prompt</td><td>change one thing in the prompt, and save the answers</td></tr>
+    <tr><td>Reflection</td><td>three short answers</td></tr>
+  </table></div>
+
+  <h3>Option B, Prompting 2: Frozen in time. Can LLMs forecast world events?</h3>
+  <p>A news video claims that AI models predicted the 2026 Iran war "spookily" well. You test this with forecasts from six models:
+  where each model's knowledge stops, how good its probabilities are, and what happens when a model already knows the answer.</p>
+  <div class="nbrow noprint"><a class="try primary" href="https://colab.research.google.com/github/goto4711/cda-teaching-tools/blob/main/notebooks/week4/Week4_Prompting_2.ipynb" target="_blank" rel="noopener">Open in Colab</a><span class="muted"><code>Week4_Prompting_2.ipynb</code></span></div>
+  <div class="tablewrap"><table>
+    <tr><th>Part</th><th>What you do</th></tr>
+    <tr><td>1. Talking to a model through its API</td><td>as in option A</td></tr>
+    <tr><td>2. Where does a model's knowledge stop?</td><td>probe the models with dated questions</td></tr>
+    <tr><td>3. The forecasts</td><td>the models' probabilities next to what happened</td></tr>
+    <tr><td>4. Scoring the forecasts</td><td>Brier scores against two baselines, and contamination</td></tr>
+    <tr><td>5. How do the models explain themselves?</td><td>a dictionary of continuity words and tf-idf</td></tr>
+    <tr><td>6. One answer is one sample</td><td>the spread over ten runs</td></tr>
+    <tr><td>Reflection</td><td>three short answers</td></tr>
+  </table></div>
+
+  <h3>For your group project: the toolkit and a template</h3>
+  <p>Both notebooks use <code>llm_tools.py</code>, a small toolkit for research with language models. It lets you ask a model, collect many
+  answers with their details in a CSV file, let a model code texts, check the coding by hand and compare. The template runs this
+  workflow on your own prompts. Without a key it uses the data of option A, so you can try it first.</p>
+  <div class="nbrow noprint"><a class="try" href="https://colab.research.google.com/github/goto4711/cda-teaching-tools/blob/main/notebooks/templates/LLM_Project_Template.ipynb" target="_blank" rel="noopener">Open the template in Colab</a><span class="muted"><code>LLM_Project_Template.ipynb</code></span></div>
+
+  <h3>An API key (optional, one per group is enough)</h3>
+  <p>Both notebooks work without a key, using answers we collected beforehand. With a free key you send the requests yourself.</p>
+  <ol class="steps">
+    <li>Go to <a href="https://aistudio.google.com" target="_blank" rel="noopener">aistudio.google.com</a> &rarr; <em>Get API key</em> &rarr; <em>Create API key</em>.</li>
+    <li>In Colab, click the <strong>key symbol</strong> on the left &rarr; <em>Add new secret</em>.</li>
+    <li>Name it <code>GEMINI_API_KEY</code>, paste the key as its value, and switch on <em>Notebook access</em>.</li>
+  </ol>
+  <div class="box"><p><strong>Never paste an API key into your code.</strong> Anyone who sees the notebook can use it at your
+  cost, and notebooks are shared all the time. Read the terms of the free tier. Google may use what you send to improve its
+  products, so never send personal data.</p></div>
+  
+
+  <p class="small">The code-along for this week's lecture: <a href="../../code-along/week4/">text</a>.</p>
+</div>
+</body>
+</html>

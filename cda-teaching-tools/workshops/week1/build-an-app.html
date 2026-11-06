@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Week 1 Workshop: Build an app with UvA AI Chat</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Faustina:ital,wght@0,400;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/guide.css">
+<style>
+  body { border-top: 6px solid #BC0031; }
+  ol.steps > li { margin: 6px 0; }
+  .time { font-weight: 400; font-size: 15px; color: #555555; }
+  .spec { white-space: pre-wrap; }
+  .copyrow { display: flex; gap: 10px; align-items: center; margin: 6px 0 14px; }
+  .copyrow button { font: inherit; font-size: 15px; font-weight: 600; color: #FFFFFF; background: #BC0031; border: 1px solid #BC0031; border-radius: 6px; padding: 4px 12px; cursor: pointer; }
+  .copyrow button:hover { background: #7E0021; }
+  .copyrow span { font-size: 14px; color: #555555; }
+  table.patterns td:first-child { font-weight: 700; white-space: nowrap; }
+  .box { border: 1px solid #BEC6D1; border-left: 4px solid #BC0031; padding: 8px 14px; margin: 12px 0; }
+  .grid8 { display: inline-grid; grid-template-columns: repeat(8, 14px); gap: 2px; vertical-align: middle; margin-right: 10px; }
+  .grid8 span { width: 14px; height: 14px; border: 1px solid #BEC6D1; background: #FFFFFF; }
+  .grid8 span.b { background: #1F1D21; border-color: #1F1D21; }
+  @media print { .noprint { display: none; } body { border-top: 0; } a { color: #1F1D21; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="small noprint"><a href="./">&larr; Week 1 workshop</a></p>
+  <h1>Build an app with UvA AI Chat</h1>
+  <p class="sub">Cultural Data Analysis &middot; Week 1: Python &middot; a group exercise, about 30 minutes</p>
+
+  <p class="lead">An image is an array of numbers. Your group builds an app that shows this. You draw on a grid and see the grid as 0s and 1s.
+  You write the <b>specification</b>, UvA AI Chat writes the code, and you <b>test</b> it.</p>
+
+  <p><span class="grid8" aria-hidden="true"><span></span><span class="b"></span><span class="b"></span><span class="b"></span><span class="b"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span class="b"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span class="b"></span><span></span><span></span><span></span><span></span><span class="b"></span><span class="b"></span><span class="b"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span class="b"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span class="b"></span><span></span><span></span><span></span><span class="b"></span><span class="b"></span><span class="b"></span><span class="b"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span>
+  <span class="small">Top row: [0, 1, 1, 1, 1, 0, 0, 0]</span></p>
+
+  <p class="small">One laptop per group, logged in to <a href="https://aichat.uva.nl/chat" target="_blank" rel="noopener">UvA AI Chat</a> (free, with your UvAnetID). Choose <b>Claude Sonnet</b> in the model menu.</p>
+
+  <h2>1. Write the specification <span class="time">· 5 minutes</span></h2>
+  <p>Say exactly what the app must do. Start from ours and add one thing of your own.</p>
+  <pre class="spec" id="spec">Make me a small web app that I can try here in the chat.
+
+- An 8 by 8 grid of squares, all white at the start.
+- Clicking a square switches it between white and black.
+- Below the grid, show the grid as a Python list of lists: 0 for white, 1 for black, one row per line. It changes with every click.
+- A button "Count black pixels" that shows how many squares are black.
+- A button "Clear" that makes all squares white again.
+
+Keep the code short and put a comment above each part, so that a beginner can read it.</pre>
+  <div class="copyrow noprint"><button id="copy">Copy the specification</button><span id="copied"></span></div>
+
+  <h2>2. Build it <span class="time">· 10 minutes</span></h2>
+  <ol class="steps">
+    <li>Paste the specification into UvA AI Chat and try the app next to the chat. UvA AI Chat writes such apps in React, a JavaScript library.</li>
+    <li>If something is wrong, do not edit the code. Describe the problem: <i>"A square clicked twice stays black. It should turn white."</i></li>
+    <li>Note every change you asked for.</li>
+  </ol>
+
+  <h2>3. Test it, and read the code <span class="time">· 5 minutes</span></h2>
+  <p><b>Test, do not trust.</b> Check by hand:</p>
+  <ol>
+    <li>Click the top-left square. Does the first number of the first row become 1?</li>
+    <li>Click it again. Does it go back to 0?</li>
+    <li>Draw a 3, as on the NumPy slide. Does the count match yours?</li>
+    <li>Are there 8 rows of 8 numbers, top row first?</li>
+    <li>Does <i>Clear</i> set all squares and the count to 0?</li>
+    <li>Press <i>Count black pixels</i>, then click a square. Is the count still right?</li>
+    <li>Read the chatbot's answer. What did it decide that you did not ask for?</li>
+  </ol>
+  <p>Then open the code. It is JavaScript with React, but the ideas are this week's (see <a href="../../tools/loops/">loops in four languages</a>). Find the four patterns:</p>
+  <table class="patterns">
+    <tr><td>Data structure</td><td>The grid as a list of lists, <code>[ ]</code> inside <code>[ ]</code>, often kept with <code>useState</code>.</td></tr>
+    <tr><td>Sequential</td><td>The loop that makes the 64 squares. In React it is often <code>.map(…)</code>, which runs the same code for every item of a list.</td></tr>
+    <tr><td>Event driven</td><td><code>onClick</code> says what a click does.</td></tr>
+    <tr><td>A decision</td><td><code>if</code> chooses black or white (or <code>? :</code>, a short if-else).</td></tr>
+  </table>
+
+  <h2>4. Together <span class="time">· 10 minutes</span></h2>
+  <ol class="steps">
+    <li>Two or three groups show their app, the changes they asked for and what the chatbot decided on its own. Did the same specification give different apps?</li>
+    <li>The class picks <b>one new feature</b>. Every group asks for it in the same words, for example:
+      <ul>
+        <li>a 16 by 16 grid,</li>
+        <li>a button that mirrors the picture from left to right,</li>
+        <li>greys from 0 to 16, as in the lecture's digits.</li>
+      </ul></li>
+    <li>Test it. Did every group get the same thing?</li>
+  </ol>
+
+  <h2>5. Take the app out of the chat <span class="time">· optional, at home</span></h2>
+  <p>In UvA AI Chat, others can only see your app as a shared artifact. To use it anywhere else:</p>
+  <ol class="steps">
+    <li>Ask the chatbot: <i>"Give me the same app as one standalone HTML file that runs in a web browser, with React and Babel loaded from a CDN."</i></li>
+    <li>Copy the code into a plain-text editor and save it as <code>pixel-grid.html</code>. On a Mac, use TextEdit, choose <b>Format &rarr; Make Plain Text</b> and click <b>Use .html</b> if asked. On Windows, use Notepad and set <b>Save as type</b> to <b>All files</b>.</li>
+    <li>Double-click the file. It opens in your browser, and you can send it to anyone. It needs an internet connection to load React.</li>
+    <li>To put it online for free, rename the file <code>index.html</code> and upload it to a public GitHub repository. Under <b>Settings &rarr; Pages</b>, choose your main branch. The link appears after a minute or two. If you have never used GitHub, ask the chatbot to explain each step: <i>"I have never used GitHub. How do I make a free account, a public repository and a GitHub Pages site for one HTML file, using only the website?"</i></li>
+  </ol>
+  <p>Check that the new file works like your artifact, because the chatbot has written the code again.</p>
+
+  <div class="box"><b>Why.</b> An app is made of this week's building blocks: a list, a loop, an event, an if. The chatbot writes them. You say what you want and check the result.</div>
+
+  <p class="small"><a href="../../code-along/week1/">Week 1 code-along</a> &middot; <a href="./">Week 1 workshop</a></p>
+</div>
+<script>
+document.getElementById('copy').addEventListener('click', function () {
+  var t = document.getElementById('spec').textContent, s = document.getElementById('copied');
+  var ok = function () { s.textContent = 'Copied.'; setTimeout(function () { s.textContent = ''; }, 2500); };
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(ok, function () { s.textContent = 'Select the text and copy it by hand.'; });
+  else s.textContent = 'Select the text and copy it by hand.';
+});
+</script>
+</body>
+</html>
