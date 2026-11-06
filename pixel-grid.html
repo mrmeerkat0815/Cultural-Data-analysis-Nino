@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pixel Grid</title>
+<!-- React and Babel come from a CDN, so this file needs an internet connection -->
+<script src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone@7.26.4/babel.min.js"></script>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 16px; color: #1f1d21; background: #fff; }
+  .grid { display: inline-grid; grid-template-columns: repeat(8, 32px); gap: 2px; background: #bec6d1; border: 2px solid #bec6d1; }
+  .square { width: 32px; height: 32px; padding: 0; border: 0; cursor: pointer; }
+  .buttons { margin: 12px 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  .buttons button { font: inherit; padding: 4px 10px; cursor: pointer; }
+  pre { font-size: 14px; margin: 8px 0; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel">
+const SIZE = 8;
+
+// Make a grid of 0s: a list of 8 rows, each a list of 8 numbers
+function emptyGrid() {
+  return Array.from({ length: SIZE }, () => Array(SIZE).fill(0));
+}
+
+function App() {
+  // DATA STRUCTURE: the grid as a list of lists, kept with useState
+  const [grid, setGrid] = React.useState(emptyGrid);
+  // Has someone pressed "Count black pixels"?
+  const [showCount, setShowCount] = React.useState(false);
+
+  // EVENT: what a click on square (r, c) does: switch it between 0 and 1
+  function toggle(r, c) {
+    const next = grid.map(row => [...row]);
+    // DECISION: if the square is black it becomes white, otherwise black
+    if (next[r][c] === 1) {
+      next[r][c] = 0;
+    } else {
+      next[r][c] = 1;
+    }
+    setGrid(next);
+  }
+
+  // Count the black squares again from the grid, so the count is never out of date
+  const count = grid.flat().filter(value => value === 1).length;
+
+  // Show the grid as a Python list of lists, one row per line
+  const asPython =
+    "[\n" + grid.map(row => "  [" + row.join(", ") + "]").join(",\n") + "\n]";
+
+  return (
+    <div>
+      {/* SEQUENTIAL: .map runs the same code for every row and every square: 64 squares */}
+      <div className="grid">
+        {grid.map((row, r) =>
+          row.map((value, c) => (
+            <button
+              key={r + "-" + c}
+              className="square"
+              aria-label={"row " + r + ", column " + c}
+              aria-pressed={value === 1}
+              style={{ background: value === 1 ? "black" : "white" }}
+              onClick={() => toggle(r, c)}
+            />
+          ))
+        )}
+      </div>
+
+      <pre id="output">{asPython}</pre>
+
+      {/* The buttons */}
+      <div className="buttons">
+        <button onClick={() => setShowCount(true)}>Count black pixels</button>
+        <button onClick={() => setGrid(emptyGrid())}>Clear</button>
+        {/* Our own addition in step 1: swap black and white */}
+        <button onClick={() => setGrid(grid.map(row => row.map(value => 1 - value)))}>Invert</button>
+        {/* The new feature of step 4: mirror each row from left to right */}
+        <button onClick={() => setGrid(grid.map(row => [...row].reverse()))}>Mirror</button>
+      </div>
+
+      {showCount && <p id="count">Black pixels: {count}</p>}
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>
