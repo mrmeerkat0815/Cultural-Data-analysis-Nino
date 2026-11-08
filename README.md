@@ -1,2 +1,1 @@
-# Cultural-Data-analysis-Nino
-che cazzo
+# Cultural-Data-analysis-Group 14
