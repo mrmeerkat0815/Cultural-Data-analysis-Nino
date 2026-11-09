@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "country": "IT",
+  "artist": "Ricchi e Poveri",
+  "song": "Questo amore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/96JYOhhVW2A",
+    "https://www.youtube-nocookie.com/embed/pWLH49vwXMM"
+  ],
+  "bpm": 165,
+  "tone": "G minor",
+  "artistPeople": [
+    "Angela Brambati",
+    "Angelo Sotgiu",
+    "Franco Gatti",
+    "Marina Occhiena"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dario Farina",
+    "Mauro Lusini"
+  ],
+  "conductor": "Nicola Samale",
+  "lyricists": [
+    "Sergio Bardotti"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
+}

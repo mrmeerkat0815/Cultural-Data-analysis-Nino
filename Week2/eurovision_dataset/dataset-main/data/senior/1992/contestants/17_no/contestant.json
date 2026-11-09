@@ -1,0 +1,39 @@
+{
+  "id": 17,
+  "country": "NO",
+  "artist": "Merethe Trøan",
+  "song": "Visjoner",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qXwOpjX1Cu4",
+    "https://www.youtube-nocookie.com/embed/TTnfYyq9h88",
+    "https://www.youtube-nocookie.com/embed/Glq3puxs2gs"
+  ],
+  "bpm": 123,
+  "tone": "C minor",
+  "artistPeople": [
+    "Merethe Trøan"
+  ],
+  "backings": [
+    "Berit Lohne",
+    "Hilde Kjeldsen",
+    "Leif Digernes",
+    "Marian Lisland",
+    "Per Øystein Sørensen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Robert Morley"
+  ],
+  "conductor": "Rolf Løvland",
+  "lyricists": [
+    "Eva Jansen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

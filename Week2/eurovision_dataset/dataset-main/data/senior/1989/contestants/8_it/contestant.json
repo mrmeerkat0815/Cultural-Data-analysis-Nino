@@ -1,0 +1,34 @@
+{
+  "id": 8,
+  "country": "IT",
+  "artist": "Anna Oxa & Fausto Leali",
+  "song": "Avrei voluto",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J3lDsE4Ivjs",
+    "https://www.youtube-nocookie.com/embed/tbqnL7Rbqao"
+  ],
+  "bpm": 136,
+  "tone": "D major",
+  "artistPeople": [
+    "Anna Hoxha",
+    "Fausto Leali"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Franco Fasano"
+  ],
+  "conductor": "Mario Natale",
+  "lyricists": [
+    "Fabrizio Berlincioni",
+    "Franco Ciani"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Gabriella Carlucci"
+  ],
+  "jury": null,
+  "spokesperson": "Peppi Franzelin"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2,
+  "country": "IL",
+  "artist": "Duo Datz",
+  "song": "Kan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xz8TY1GlPVE",
+    "https://www.youtube-nocookie.com/embed/VFgenoymBV8",
+    "https://www.youtube-nocookie.com/embed/DyV2MKwFLh4",
+    "https://www.youtube-nocookie.com/embed/wgJbvmy8smk"
+  ],
+  "bpm": 120,
+  "tone": "B minor",
+  "artistPeople": [
+    "Moshe Datz",
+    "Orna Datz"
+  ],
+  "backings": [
+    "Ellinor Aharon"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Kobi Oshrat",
+  "lyricists": null,
+  "writers": [
+    "Uzi Hitman"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": [
+    "Shaul Adar"
+  ],
+  "spokesperson": "Yitzhak Shim'oni"
+}

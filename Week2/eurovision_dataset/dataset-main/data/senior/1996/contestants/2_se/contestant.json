@@ -1,0 +1,41 @@
+{
+  "id": 2,
+  "country": "SE",
+  "artist": "One More Time",
+  "song": "Den vilda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8T7taFxLRvk",
+    "https://www.youtube-nocookie.com/embed/VW9ciJcEauw",
+    "https://www.youtube-nocookie.com/embed/bm92xmBXZH8",
+    "https://www.youtube-nocookie.com/embed/w7f8Y1d8x0Y",
+    "https://www.youtube-nocookie.com/embed/5k_-iMy1dH8"
+  ],
+  "bpm": 165,
+  "tone": "C major",
+  "artistPeople": [
+    "Maria Rådsten",
+    "Marianne Elisabeth Grönvall",
+    "Peter Grönvall"
+  ],
+  "backings": [
+    "Joachim Dominique",
+    "Magnus Bengtsson",
+    "Thomas Bergqvist"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Grönvall"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Nanne Grönvall"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Björn Kjellman"
+  ],
+  "jury": null,
+  "spokesperson": "Ulla Rundquist"
+}

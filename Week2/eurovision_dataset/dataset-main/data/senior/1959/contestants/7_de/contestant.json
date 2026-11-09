@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Alice and Ellen Kessler",
+  "song": "Heut' woll'n wir tanzen geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aJSN68U31l4",
+    "https://www.youtube-nocookie.com/embed/_-uySoGcLr8",
+    "https://www.youtube-nocookie.com/embed/b_NLJyHlRfg",
+    "https://www.youtube-nocookie.com/embed/LsAgA_sNMlw"
+  ],
+  "bpm": 136,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Alice Kessler",
+    "Ellen Kessler"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Helmut Zander"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Astrid Voltmann"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Elena Gerhard"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Andreas Schwarz"
+}

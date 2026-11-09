@@ -1,0 +1,37 @@
+{
+  "id": 10,
+  "country": "GR",
+  "artist": "Marinella",
+  "song": "Krassi, thalassa ke t' agori mou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Bxw9lsDiYA4",
+    "https://www.youtube-nocookie.com/embed/UzblKql4STI"
+  ],
+  "bpm": 103,
+  "tone": "C major",
+  "artistPeople": [
+    "Kyriaki Papadopoulou (Κυριακή Παπαδοπούλου)"
+  ],
+  "backings": [
+    "Damianos Serefoglou",
+    "Mitsa Routsi",
+    "Stamatis Giouzelis",
+    "Theoni Vasilaki"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giorgos Katsaros"
+  ],
+  "conductor": "Giorgos Katsaros",
+  "lyricists": [
+    "Pythagoras"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Irini Gavala"
+}

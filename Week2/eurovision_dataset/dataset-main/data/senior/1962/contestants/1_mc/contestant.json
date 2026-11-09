@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "country": "MC",
+  "artist": "François Deguelt",
+  "song": "Dis rien",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Qeyse4ot0h0",
+    "https://www.youtube-nocookie.com/embed/UbRefhOsVJI"
+  ],
+  "bpm": 78,
+  "tone": "A major",
+  "artistPeople": [
+    "Louis Deghelt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Henri Salvador"
+  ],
+  "conductor": "Raymond Lefèvre",
+  "lyricists": [
+    "René Rouzaud"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

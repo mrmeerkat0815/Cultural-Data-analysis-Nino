@@ -1,0 +1,32 @@
+{
+  "id": 0,
+  "country": "IE",
+  "artist": "Paul Harrington & Charlie McGettigan",
+  "song": "Rock 'n' Roll Kids",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DBbF2ZHMeog",
+    "https://www.youtube-nocookie.com/embed/5POsrjc13yo",
+    "https://www.youtube-nocookie.com/embed/vPO6279gEh8"
+  ],
+  "bpm": 124,
+  "tone": "E major",
+  "artistPeople": [
+    "Charles Joseph McGettigan",
+    "Paul Harrington"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

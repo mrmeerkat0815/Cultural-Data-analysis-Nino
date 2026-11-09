@@ -1,0 +1,37 @@
+{
+  "id": 10,
+  "country": "CY",
+  "artist": "Evridiki",
+  "song": "Ime Anthropos Ke Ego",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/i_yif17TztQ",
+    "https://www.youtube-nocookie.com/embed/d2RHwv-SgT8",
+    "https://www.youtube-nocookie.com/embed/rDd9tJ5qip0"
+  ],
+  "bpm": 108,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Evridiki Theokleous"
+  ],
+  "backings": [
+    "Demos van Beke",
+    "Eva Tselidou",
+    "Haris Halkitis",
+    "Joanna Barrington",
+    "Kyriakos Zymboulakis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Giorgos Theophanous",
+  "lyricists": null,
+  "writers": [
+    "Giorgos Theophanous"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

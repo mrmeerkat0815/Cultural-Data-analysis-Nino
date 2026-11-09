@@ -1,0 +1,39 @@
+{
+  "id": 6,
+  "country": "YU",
+  "artist": "Tajči",
+  "song": "Hajde da ludujemo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ksPXBLCwaL4",
+    "https://www.youtube-nocookie.com/embed/pQ1ZMHceah0",
+    "https://www.youtube-nocookie.com/embed/-07kDu19QcU",
+    "https://www.youtube-nocookie.com/embed/ZZgPRzViIMU",
+    "https://www.youtube-nocookie.com/embed/NfuTbYSV5Nc"
+  ],
+  "bpm": 133,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Tatjana Matejaš"
+  ],
+  "backings": [
+    "Milana Vlaović"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Zrinko Tutić"
+  ],
+  "conductor": "Stjepan Mihaljineć",
+  "lyricists": [
+    "Alka Vuica"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Branko Uvodić",
+    "Miša Molk",
+    "Mladen Popović"
+  ],
+  "jury": null,
+  "spokesperson": "Drago Čulina"
+}

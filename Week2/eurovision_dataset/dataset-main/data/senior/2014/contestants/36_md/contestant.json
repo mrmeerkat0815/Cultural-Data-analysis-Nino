@@ -1,0 +1,45 @@
+{
+  "id": 36,
+  "country": "MD",
+  "artist": "Cristina Scarlat",
+  "song": "Wild Soul",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l9ZfGttI4P0",
+    "https://www.youtube-nocookie.com/embed/z_E12QokqAs",
+    "https://www.youtube-nocookie.com/embed/rW04AWysDSI",
+    "https://www.youtube-nocookie.com/embed/yRIiuVp6YO4"
+  ],
+  "bpm": 140,
+  "tone": "D minor",
+  "artistPeople": [
+    "Cristina Scarlat"
+  ],
+  "backings": null,
+  "dancers": [
+    "Dragos Hioara",
+    "Eugen Simac",
+    "Lilian Caraus",
+    "Vadim Bianchin"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Ivan Aculov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Lidia Scarlat"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Daniela Babici"
+  ],
+  "jury": [
+    "Anatol Chiriac",
+    "Andrei Tostogan",
+    "Iurie Badicu",
+    "Nelly Ciobanu",
+    "Tatiana Postolachi"
+  ],
+  "spokesperson": "Olivia Furtună"
+}

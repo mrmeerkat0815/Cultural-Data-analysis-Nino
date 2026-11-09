@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "country": "IT",
+  "artist": "Tonina Torielli",
+  "song": "Amami se vuoi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/k19AnMpqnE4",
+    "https://www.youtube-nocookie.com/embed/6tNxDrL-Rso",
+    "https://www.youtube-nocookie.com/embed/9WDXszyCzmI"
+  ],
+  "bpm": 110,
+  "tone": "F major",
+  "artistPeople": [
+    "Tonina Torrielli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vittorio Mascheroni"
+  ],
+  "conductor": "Gian Stellari",
+  "lyricists": [
+    "Mario Panzeri"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

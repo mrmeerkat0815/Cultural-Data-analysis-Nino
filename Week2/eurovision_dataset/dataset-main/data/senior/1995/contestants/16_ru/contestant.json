@@ -1,0 +1,31 @@
+{
+  "id": 16,
+  "country": "RU",
+  "artist": "Philipp Kirkorov",
+  "song": "Kolybelnaya Dlya Vulkana",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YX5O4Ems3Pg",
+    "https://www.youtube-nocookie.com/embed/HyRKNLawyiU",
+    "https://www.youtube-nocookie.com/embed/-eeHUgjOd1Y"
+  ],
+  "bpm": 129,
+  "tone": "D major",
+  "artistPeople": [
+    "Philipp Bedrosovich Kirkorov (Фили́пп Бедро́сович Кирко́ров)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ilya Bershadskiy"
+  ],
+  "conductor": "Michael Finberg",
+  "lyricists": [
+    "Ilya Resnik"
+  ],
+  "writers": null,
+  "broadcaster": "ORT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Marina Danielyan"
+}

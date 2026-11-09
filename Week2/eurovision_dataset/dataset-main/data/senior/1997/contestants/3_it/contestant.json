@@ -1,0 +1,37 @@
+{
+  "id": 3,
+  "country": "IT",
+  "artist": "Jalisse",
+  "song": "Fiumi di parole",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S24gn5Y6wB0",
+    "https://www.youtube-nocookie.com/embed/Gy6WdGLktdg",
+    "https://www.youtube-nocookie.com/embed/LLo04ix_UQU"
+  ],
+  "bpm": 91,
+  "tone": "G major",
+  "artistPeople": [
+    "Alessandra Drusian",
+    "Fabio Ricci"
+  ],
+  "backings": [
+    "Lilla Costarelli"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fabio Ricci"
+  ],
+  "conductor": "Lucio Fabbri",
+  "lyricists": [
+    "Alessandra Drusian",
+    "Carmen Di Domenico"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Ettore Andenna"
+  ],
+  "jury": null,
+  "spokesperson": "Peppi Franzelin"
+}

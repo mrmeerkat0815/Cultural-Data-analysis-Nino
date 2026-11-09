@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "country": "BE",
+  "artist": "Jean Vallée",
+  "song": "Viens l'oublier",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1uK41BM4c44",
+    "https://www.youtube-nocookie.com/embed/PIJio5M3XSo"
+  ],
+  "bpm": 92,
+  "tone": "E major",
+  "artistPeople": [
+    "Paul Goeders"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jack Say",
+  "lyricists": null,
+  "writers": [
+    "Jean Vallée"
+  ],
+  "broadcaster": "RTB",
+  "commentators": [
+    "Claude Delacroix",
+    "Jan Theys",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
+}

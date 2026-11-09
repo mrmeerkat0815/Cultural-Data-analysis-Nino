@@ -1,0 +1,39 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Sergio & Estíbaliz",
+  "song": "Tú volverás",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sZ2IljyBKYY",
+    "https://www.youtube-nocookie.com/embed/VD5bu22IKZM",
+    "https://www.youtube-nocookie.com/embed/adwyr8hZw6w",
+    "https://www.youtube-nocookie.com/embed/rVwtfJcbmsI",
+    "https://www.youtube-nocookie.com/embed/X03nvJ1CHcM"
+  ],
+  "bpm": 91,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Estíbaliz Uranga Amézaga",
+    "Sergio Blanco Rivas"
+  ],
+  "backings": [
+    "Carlos",
+    "Francisco",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Carlos Calderón López De Arroyabe",
+  "lyricists": null,
+  "writers": [
+    "Juan Carlos Calderón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "José María Íñigo"
+}

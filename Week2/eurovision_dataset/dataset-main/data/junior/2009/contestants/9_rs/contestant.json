@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "RS",
+  "artist": "Ništa Lično",
+  "song": "Onaj pravi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DVjf4uUGIVM",
+    "https://www.youtube-nocookie.com/embed/0WDu3STzUIk"
+  ],
+  "bpm": 130,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Ništa Lično"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aleksandar Graić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Aleksandar Graić",
+    "Anica Cvetković"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

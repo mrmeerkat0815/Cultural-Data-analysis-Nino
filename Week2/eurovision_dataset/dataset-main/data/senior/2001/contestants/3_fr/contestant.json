@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Natasha Saint-Pier",
+  "song": "Je n'ai que mon âme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xk2z_vBJkPw"
+  ],
+  "bpm": 129,
+  "tone": "C minor",
+  "artistPeople": [
+    "Natasha St-Pier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "J. Kapler"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "M. Jones",
+    "J. Kapler"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Marc-Olivier Fogiel",
+    "Dave"
+  ],
+  "jury": null,
+  "spokesperson": "Corinne Hermès"
+}

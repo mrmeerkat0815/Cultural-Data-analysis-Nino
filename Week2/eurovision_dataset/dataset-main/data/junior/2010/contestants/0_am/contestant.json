@@ -1,0 +1,29 @@
+{
+  "id": 0,
+  "country": "AM",
+  "artist": "Vladimir Arzumanyan",
+  "song": "Mama",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YpwkMlfxFs8",
+    "https://www.youtube-nocookie.com/embed/oZur-7OO9BM",
+    "https://www.youtube-nocookie.com/embed/3bX7rfPmROQ"
+  ],
+  "bpm": 118,
+  "tone": "A minor",
+  "artistPeople": [
+    "Vladimir Arzumanyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Vladimir Arzumanyan"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

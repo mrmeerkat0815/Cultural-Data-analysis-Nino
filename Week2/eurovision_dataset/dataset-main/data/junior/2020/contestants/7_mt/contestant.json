@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "MT",
+  "artist": "Chanel Monseigneur",
+  "song": "Chasing Sunsets",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xqg5-BjhKLY",
+    "https://www.youtube-nocookie.com/embed/kfTg7UUgOtc",
+    "https://www.youtube-nocookie.com/embed/qNiI8Ua0lfc",
+    "https://www.youtube-nocookie.com/embed/ZDrqElrMwsI"
+  ],
+  "bpm": 140,
+  "tone": "G major",
+  "artistPeople": [
+    "Chanel Monseigneur"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aleandro Spiteri Monseigneur",
+    "Joe Roscoe",
+    "Peter Borg"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Emil Calleja Bayliss"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

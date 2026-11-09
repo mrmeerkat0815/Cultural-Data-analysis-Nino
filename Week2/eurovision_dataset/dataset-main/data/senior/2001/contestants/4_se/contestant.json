@@ -1,0 +1,42 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Friends",
+  "song": "Listen To Your Heartbeat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xR4BFQYFzMU",
+    "https://www.youtube-nocookie.com/embed/7Nut0zMnNTw"
+  ],
+  "bpm": 139,
+  "tone": "E major",
+  "artistPeople": [
+    "Kim Kärnfalk",
+    "Kristian Hermanson",
+    "Nina Karin Elise Inhammar",
+    "Stefan Mats Erik Brunzell",
+    "Tony Kristian Erland Haglund"
+  ],
+  "backings": [
+    "Jaana Vähämäki"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Daniël Ditmar",
+    "Henrik Sethsson",
+    "John Terra",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Henrik Sethsson",
+    "Thomas G:son"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Henrik Olsson"
+  ],
+  "jury": null,
+  "spokesperson": "Josefine Sundström"
+}

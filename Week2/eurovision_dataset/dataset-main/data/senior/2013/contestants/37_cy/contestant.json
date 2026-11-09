@@ -1,0 +1,31 @@
+{
+  "id": 37,
+  "country": "CY",
+  "artist": "Despina Olympiou",
+  "song": "An Me Thimasai",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ekx8mT-fR80"
+  ],
+  "bpm": 128,
+  "tone": "C major",
+  "artistPeople": [
+    "Despina Olympiou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Maria Liraraki",
+  "composers": [
+    "Andreas Georgallis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Zenon Zindilis"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
+}

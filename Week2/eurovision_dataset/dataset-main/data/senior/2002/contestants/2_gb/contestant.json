@@ -1,0 +1,32 @@
+{
+  "id": 2,
+  "country": "GB",
+  "artist": "Jessica Garlick",
+  "song": "Come Back",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8PSqyaRG_Ug",
+    "https://www.youtube-nocookie.com/embed/t33WrydN0k8",
+    "https://www.youtube-nocookie.com/embed/yGzcC8Gkj1I",
+    "https://www.youtube-nocookie.com/embed/MIZXxzziGfM"
+  ],
+  "bpm": 124,
+  "tone": "F major",
+  "artistPeople": [
+    "Jessica Garlick"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Shaun Fernandes",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Martyn Baylay"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

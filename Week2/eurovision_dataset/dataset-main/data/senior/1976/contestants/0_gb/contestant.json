@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "GB",
+  "artist": "Brotherhood of Man",
+  "song": "Save Your Kisses for Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5yJUi6ke71I",
+    "https://www.youtube-nocookie.com/embed/5h_G2-pdHC4",
+    "https://www.youtube-nocookie.com/embed/SlwY8q5270k",
+    "https://www.youtube-nocookie.com/embed/vcO-uGqoGyU",
+    "https://www.youtube-nocookie.com/embed/ytqW_8hLZ00",
+    "https://www.youtube-nocookie.com/embed/ANCYx_7kwrI"
+  ],
+  "bpm": 97,
+  "tone": "G major",
+  "artistPeople": [
+    "Roger Pritchard",
+    "Martin Barnes",
+    "Helen Maria Thomas",
+    "Sandra Stevens"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "lyricists": null,
+  "writers": [
+    "Lee Sheriden",
+    "Martin Barnes",
+    "Martin Lee",
+    "Tony Hiller"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Michael Aspel"
+  ],
+  "jury": null,
+  "spokesperson": "Ray Moore"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 11,
+  "country": "RS",
+  "artist": "Maja Mazić",
+  "song": "Uvek kad u nebo pogledam",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_Sktd1LGWl0",
+    "https://www.youtube-nocookie.com/embed/EZeRq4Az9e4",
+    "https://www.youtube-nocookie.com/embed/fWrq0QzJdFM"
+  ],
+  "bpm": 180,
+  "tone": "D major",
+  "artistPeople": [
+    "Maja Mazić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

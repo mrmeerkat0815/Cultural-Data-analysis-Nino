@@ -1,0 +1,33 @@
+{
+  "id": 16,
+  "country": "BE",
+  "artist": "Lize Marke",
+  "song": "Als het weer lente is",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BxoXZOwzJOw",
+    "https://www.youtube-nocookie.com/embed/jQutkiIHdms"
+  ],
+  "bpm": 118,
+  "tone": "D major",
+  "artistPeople": [
+    "Liliane Couck"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jef van den Berg"
+  ],
+  "conductor": "Gaston Nuyts",
+  "lyricists": [
+    "Jaak Dreesen"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
+}

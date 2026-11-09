@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "country": "DK",
+  "artist": "Birthe Kjær",
+  "song": "Vi maler byen rød",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/libbfmMqabQ",
+    "https://www.youtube-nocookie.com/embed/Gma8DMyIHqw",
+    "https://www.youtube-nocookie.com/embed/W0zjUn0MOtc",
+    "https://www.youtube-nocookie.com/embed/waLmkdRmOgY"
+  ],
+  "bpm": 93,
+  "tone": "A minor",
+  "artistPeople": [
+    "Birthe Kjær"
+  ],
+  "backings": [
+    "Henrik Krogsgaard",
+    "Keld Heick",
+    "Lei Moe",
+    "Lupe Moe",
+    "Søren Bundgaard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Søren Bundgaard"
+  ],
+  "conductor": "Benoît Kaufman, Henrik Krogsgaard",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

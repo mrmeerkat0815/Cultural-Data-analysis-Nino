@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "country": "IT",
+  "artist": "Massimo Ranieri",
+  "song": "Chi sarà con te",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kLzvr3JuOEY",
+    "https://www.youtube-nocookie.com/embed/-_uq808iElw",
+    "https://www.youtube-nocookie.com/embed/UC95V-tKhBo"
+  ],
+  "bpm": 126,
+  "tone": "G major",
+  "artistPeople": [
+    "Giovanni Calone"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Enrico Polito",
+    "Gaetano Savio"
+  ],
+  "conductor": "Enrico Polito",
+  "lyricists": [
+    "Giancarlo Bigazzi"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

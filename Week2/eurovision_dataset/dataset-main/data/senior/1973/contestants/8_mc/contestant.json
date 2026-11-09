@@ -1,0 +1,33 @@
+{
+  "id": 8,
+  "country": "MC",
+  "artist": "Marie",
+  "song": "Un train qui part",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iE6u3zpgyg0",
+    "https://www.youtube-nocookie.com/embed/IxW3XF82yuQ",
+    "https://www.youtube-nocookie.com/embed/F1EctZBqU0w"
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Marie-France Dufour"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bernard Liamis"
+  ],
+  "conductor": "Jean-Claude Vannier",
+  "lyricists": [
+    "Boris Bergman"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

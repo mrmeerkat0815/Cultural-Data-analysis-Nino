@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "country": "DE",
+  "artist": "Heidi Brühl",
+  "song": "Marcel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7huFUkPV0V4",
+    "https://www.youtube-nocookie.com/embed/PPYosIy23Dk",
+    "https://www.youtube-nocookie.com/embed/Wjr4ePUHIpo"
+  ],
+  "bpm": 136,
+  "tone": "F minor",
+  "artistPeople": [
+    "Heidi Rosemarie Brühl"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Willy Berking",
+  "lyricists": null,
+  "writers": [
+    "Charly Niessen"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hanns Joachim Friedrichs"
+  ],
+  "jury": null,
+  "spokesperson": "Werner Veigel"
+}

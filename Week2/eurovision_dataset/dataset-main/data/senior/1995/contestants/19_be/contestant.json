@@ -1,0 +1,38 @@
+{
+  "id": 19,
+  "country": "BE",
+  "artist": "Frédéric Etherlinck",
+  "song": "La voix est libre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YtcH83cV2Dg",
+    "https://www.youtube-nocookie.com/embed/K0Bf9hzO2kY",
+    "https://www.youtube-nocookie.com/embed/iVNDtTaC520"
+  ],
+  "bpm": 154,
+  "tone": "A major",
+  "artistPeople": [
+    "Frédéric Maeterlinck"
+  ],
+  "backings": [
+    "Angelo Crisci",
+    "Anne Theunis",
+    "Emilio Raponi",
+    "Jean-Paul Furnémont",
+    "Pierre Theunis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alec Mansion",
+  "lyricists": null,
+  "writers": [
+    "Pierre Theunis"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Marie-Françoise Renson"
+}

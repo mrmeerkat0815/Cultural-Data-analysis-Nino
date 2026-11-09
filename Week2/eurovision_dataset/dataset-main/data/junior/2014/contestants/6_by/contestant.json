@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "country": "BY",
+  "artist": "Nadezhda Misyakova",
+  "song": "Sokal",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TUJw7UuN9DY",
+    "https://www.youtube-nocookie.com/embed/StP4W-7gDcQ",
+    "https://www.youtube-nocookie.com/embed/dChwZPjrs8c"
+  ],
+  "bpm": 94,
+  "tone": "F major",
+  "artistPeople": [
+    "Nadezhda Misyakova"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nadezhda Misyakova",
+    "Uzari"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nadezhda Misyakova"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

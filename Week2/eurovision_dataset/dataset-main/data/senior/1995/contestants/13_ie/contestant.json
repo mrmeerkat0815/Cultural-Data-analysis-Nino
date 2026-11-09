@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "country": "IE",
+  "artist": "Eddie Friel",
+  "song": "Dreamin'",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CRZxY4rLbvM",
+    "https://www.youtube-nocookie.com/embed/dTcQc_5rPgw",
+    "https://www.youtube-nocookie.com/embed/m8PXeIg6jbQ"
+  ],
+  "bpm": 89,
+  "tone": "A major",
+  "artistPeople": [
+    "Eddie Friel"
+  ],
+  "backings": [
+    "Eamonn Toal"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Barry Woods",
+    "Richard Abbott"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

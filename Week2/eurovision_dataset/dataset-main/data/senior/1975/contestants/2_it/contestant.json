@@ -1,0 +1,42 @@
+{
+  "id": 2,
+  "country": "IT",
+  "artist": "Wess & Dori Ghezzi",
+  "song": "Era",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xp5xejPoOgY",
+    "https://www.youtube-nocookie.com/embed/eQgdli0Q7tA",
+    "https://www.youtube-nocookie.com/embed/wAzCyUYmmcE",
+    "https://www.youtube-nocookie.com/embed/zxxmTMXsG4Q",
+    "https://www.youtube-nocookie.com/embed/arcHa7La6uU",
+    "https://www.youtube-nocookie.com/embed/jGnkc7vEQII"
+  ],
+  "bpm": 139,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Dori Ghezzi",
+    "Wess Johnson"
+  ],
+  "backings": [
+    "Lalla Francia",
+    "Mirella Bossi",
+    "Paola Orlandi",
+    "Silvia Annichiarico"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Shel Shapiro"
+  ],
+  "conductor": "Pier Natale Massara",
+  "lyricists": [
+    "Andrea Lo Vecchio"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Silvio Noto"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Maria Gambineri"
+}

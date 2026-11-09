@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "country": "SE",
+  "artist": "Alice Babs",
+  "song": "Lilla stjärna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z486v131XwQ",
+    "https://www.youtube-nocookie.com/embed/-oEVBtUc77k"
+  ],
+  "bpm": 178,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Hildur Alice Sjöblom"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Åke Gerhard"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Åke Gerhard",
+    "Gunnar Wersén"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "jury": null,
+  "spokesperson": "Tage Danielsson"
+}

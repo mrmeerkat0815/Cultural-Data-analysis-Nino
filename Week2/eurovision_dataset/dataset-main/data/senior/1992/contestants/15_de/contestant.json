@@ -1,0 +1,39 @@
+{
+  "id": 15,
+  "country": "DE",
+  "artist": "Wind",
+  "song": "Träume sind für alle da",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6py727DzyPQ",
+    "https://www.youtube-nocookie.com/embed/Mb8lKur2VGk",
+    "https://www.youtube-nocookie.com/embed/KG_-8J6YKS8",
+    "https://www.youtube-nocookie.com/embed/BOik9EKABwg"
+  ],
+  "bpm": 148,
+  "tone": "F major",
+  "artistPeople": [
+    "Albert Oberloher",
+    "Oliver Hahn",
+    "Petra Scheeser",
+    "Sami Kalifa",
+    "Stefan Erz",
+    "Tina Hierstetter"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Norbert Daum",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Jan Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Carmen Nebel"
+}

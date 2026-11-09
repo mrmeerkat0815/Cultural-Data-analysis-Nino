@@ -1,0 +1,37 @@
+{
+  "id": 17,
+  "country": "AT",
+  "artist": "Manuel Ortega",
+  "song": "Say A Word",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/raLn9d5MNHw",
+    "https://www.youtube-nocookie.com/embed/iKe5csrrNSc",
+    "https://www.youtube-nocookie.com/embed/HySiuC0bczE",
+    "https://www.youtube-nocookie.com/embed/UvVsLSRTd-U"
+  ],
+  "bpm": 130,
+  "tone": "D major",
+  "artistPeople": [
+    "Manuel Ortega"
+  ],
+  "backings": [
+    "Monika Ballwein",
+    "Stephan Gleixner"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alexander Kahr"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Robert Pfluger"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Dodo Roščić"
+}

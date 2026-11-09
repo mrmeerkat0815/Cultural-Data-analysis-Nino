@@ -1,0 +1,30 @@
+{
+  "id": 5,
+  "country": "BE",
+  "artist": "X!NK",
+  "song": "De vriendschapsband",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vE4XmNA94qU",
+    "https://www.youtube-nocookie.com/embed/vhczdpmn4C8",
+    "https://www.youtube-nocookie.com/embed/mDyi0gqWsio"
+  ],
+  "bpm": 135,
+  "tone": "Eb major",
+  "artistPeople": [
+    "X!NK"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jonas Meukens",
+    "Thomas Valkiers"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

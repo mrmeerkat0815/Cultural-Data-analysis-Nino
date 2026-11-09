@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "country": "CH",
+  "artist": "Lys Assia",
+  "song": "L'Enfant que j'étais",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/16ltDhw2lxs",
+    "https://www.youtube-nocookie.com/embed/GL2DDgtMSzU"
+  ],
+  "bpm": 120,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Géo Voumard"
+  ],
+  "conductor": "Willy Berking",
+  "lyricists": [
+    "Émile Gardaz"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Mäni Weber"
+}

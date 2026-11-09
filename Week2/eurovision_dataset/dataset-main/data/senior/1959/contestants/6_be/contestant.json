@@ -1,0 +1,33 @@
+{
+  "id": 6,
+  "country": "BE",
+  "artist": "Bob Benny",
+  "song": "Hou toch van mij",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ckaxz47Jgbc",
+    "https://www.youtube-nocookie.com/embed/fTBfNWQ2uMU"
+  ],
+  "bpm": 119,
+  "tone": "C major",
+  "artistPeople": [
+    "Emiel Wagemans"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hans Flower"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Ke Riema"
+  ],
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Nic Bal",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Bert Leysen"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20,
+  "country": "DE",
+  "artist": "Corinna May",
+  "song": "I Can't Live Without Music",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZDSd_T_Sthk",
+    "https://www.youtube-nocookie.com/embed/uqqG-nPLN34",
+    "https://www.youtube-nocookie.com/embed/i431XBz7Q34"
+  ],
+  "bpm": 124,
+  "tone": "C major",
+  "artistPeople": [
+    "Corinna Meyer"
+  ],
+  "backings": [
+    "Dawn Schonherz",
+    "Filiz Aktepe",
+    "Kisha Parker",
+    "Nadine Kraft",
+    "Tulay Sanlav"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Axel Bulthaupt"
+}

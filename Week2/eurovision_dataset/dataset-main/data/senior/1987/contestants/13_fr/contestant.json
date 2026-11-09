@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "FR",
+  "artist": "Christine Minier",
+  "song": "Les mots d'amour n'ont pas de dimanche",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wrVTbskBNBA",
+    "https://www.youtube-nocookie.com/embed/E08kJqA8d6g"
+  ],
+  "bpm": 144,
+  "tone": "D major",
+  "artistPeople": [
+    "Christine Minier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gerard Curci"
+  ],
+  "conductor": "Jean-Claude Petit",
+  "lyricists": [
+    "Marc Minier"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Patrick Simpson-Jones"
+  ],
+  "jury": null,
+  "spokesperson": "Lionel Cassan"
+}

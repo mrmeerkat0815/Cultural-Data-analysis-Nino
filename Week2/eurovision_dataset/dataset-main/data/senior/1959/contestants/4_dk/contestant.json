@@ -1,0 +1,32 @@
+{
+  "id": 4,
+  "country": "DK",
+  "artist": "Birthe Wilke",
+  "song": "Uh, jeg ville ønske jeg var dig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KZCLte3YzgM",
+    "https://www.youtube-nocookie.com/embed/de5unw9xdeM"
+  ],
+  "bpm": 122,
+  "tone": "C major",
+  "artistPeople": [
+    "Birthe Wilke"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Otto Lington"
+  ],
+  "conductor": "Kai Mortensen",
+  "lyricists": [
+    "Carl Andersen"
+  ],
+  "writers": null,
+  "broadcaster": "DSR",
+  "commentators": [
+    "Sejr Volmer-Sørensen"
+  ],
+  "jury": null,
+  "spokesperson": "Svend Pedersen"
+}

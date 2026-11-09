@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "CY",
+  "artist": "Island",
+  "song": "Monika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0bswWf-T300",
+    "https://www.youtube-nocookie.com/embed/sc4LC3IuAiA",
+    "https://www.youtube-nocookie.com/embed/r6ESJSUloNc"
+  ],
+  "bpm": 172,
+  "tone": "F major",
+  "artistPeople": [
+    "Alexia",
+    "Areti Kassapi",
+    "Aristos Moskovakis",
+    "Doros Georgiadis",
+    "Haralbidou",
+    "Roger Lee"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Doros Georgiadis"
+  ],
+  "conductor": "Michalis Rozakis",
+  "lyricists": [
+    "Stavros Sideras"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Fryni Papadopoulou"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

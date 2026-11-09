@@ -1,0 +1,37 @@
+{
+  "id": 29,
+  "country": "ME",
+  "artist": "Who See",
+  "song": "Igranka",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FR9rtB2ilZU",
+    "https://www.youtube-nocookie.com/embed/8BmHI_57vJk"
+  ],
+  "bpm": 130,
+  "tone": "C minor",
+  "artistPeople": [
+    "Dejan Dedović",
+    "Nina Žižić",
+    "Mario Đorđević"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Zoran Marković Zonjo",
+  "composers": [
+    "Đorđe Miljenović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dejan Dedović",
+    "Đorđe Miljenović",
+    "Mario Đorđević"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Ivana Sebek"
+}

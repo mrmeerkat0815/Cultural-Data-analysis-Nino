@@ -1,0 +1,41 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Harmony",
+  "song": "'t Is OK",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-e7rmIjnna8",
+    "https://www.youtube-nocookie.com/embed/DhtWjJhL4AY",
+    "https://www.youtube-nocookie.com/embed/TwnFmF7wcLI",
+    "https://www.youtube-nocookie.com/embed/BMjTlmtMf7w"
+  ],
+  "bpm": 141,
+  "tone": "B minor",
+  "artistPeople": [
+    "Ab van Woudenberg",
+    "Donald Lieveld",
+    "Rosina Louwaars"
+  ],
+  "backings": [
+    "Lisa Boray",
+    "Titia Dekker",
+    "Ton op 't Hof"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eddy Ouwens"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Dick Kooiman",
+    "Toon Gispen"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
+}

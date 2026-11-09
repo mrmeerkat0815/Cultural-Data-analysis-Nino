@@ -1,0 +1,44 @@
+{
+  "id": 37,
+  "country": "SI",
+  "artist": "Ansambel Žlindra & Kalamari",
+  "song": "Narodnozabavni rock",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2faHkE1JZwc",
+    "https://www.youtube-nocookie.com/embed/cVH7zO7iAek",
+    "https://www.youtube-nocookie.com/embed/fMCjk6b-bsI"
+  ],
+  "bpm": 130,
+  "tone": "A major",
+  "artistPeople": [
+    "Barbara Ogrinc",
+    "Jože Pepi Jež",
+    "Matjaž Švagelj",
+    "Nejc Drobnič",
+    "Rok Modic",
+    "Rok Žlindra"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marino Legovič"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Leon Oblak"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Dušan Hren",
+    "Matjaž Bogataj",
+    "Miroslav Akrapovič",
+    "Sandra Feketija",
+    "Urša Vlašič"
+  ],
+  "spokesperson": "Andrea F"
+}

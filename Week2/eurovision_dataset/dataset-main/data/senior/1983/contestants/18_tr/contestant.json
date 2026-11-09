@@ -1,0 +1,41 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Çetin Alp and the Short Wave",
+  "song": "Opera",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vm3_9RVDk2U",
+    "https://www.youtube-nocookie.com/embed/-q4iC8KT490",
+    "https://www.youtube-nocookie.com/embed/9fGfXAYvGlI",
+    "https://www.youtube-nocookie.com/embed/CbyqI9QK7Jk",
+    "https://www.youtube-nocookie.com/embed/KIpjXAljpCs"
+  ],
+  "bpm": 91,
+  "tone": "D major",
+  "artistPeople": [
+    "Çetin Alp"
+  ],
+  "backings": [
+    "Ali Uyar",
+    "Bisan Yorulmaz",
+    "Gül Aktuğ",
+    "Recep Aktuğ",
+    "Sema Uğur"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Buğra Uğur"
+  ],
+  "conductor": "Buğra Uğur",
+  "lyricists": [
+    "Aysel Gürel"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "jury": null,
+  "spokesperson": "Fatih Orbay"
+}

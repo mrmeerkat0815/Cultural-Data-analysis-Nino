@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "ES",
+  "artist": "Salomé",
+  "song": "Vivo cantando",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/POj0U2W6MnE",
+    "https://www.youtube-nocookie.com/embed/9MV6_muZhqU",
+    "https://www.youtube-nocookie.com/embed/n3OY_uje4xw",
+    "https://www.youtube-nocookie.com/embed/-w-JPlXtrlg",
+    "https://www.youtube-nocookie.com/embed/iDrl1xH_9MI",
+    "https://www.youtube-nocookie.com/embed/AAMTv58k4oU"
+  ],
+  "bpm": 147,
+  "tone": "C minor",
+  "artistPeople": [
+    "María Rosa Marco Poquet"
+  ],
+  "backings": [
+    "Bernat Estaràs",
+    "Rafael Estaràs",
+    "Tomeu Estaràs"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Maria José de Cerato"
+  ],
+  "conductor": "Augusto Algueró",
+  "lyricists": [
+    "Aniano Alcalde"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Joaquín Prat"
+}

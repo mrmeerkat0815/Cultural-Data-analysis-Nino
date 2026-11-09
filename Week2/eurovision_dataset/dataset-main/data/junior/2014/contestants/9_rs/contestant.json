@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "RS",
+  "artist": "Emilija Đonin",
+  "song": "Svet u mojim očima",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Wo9vCTAr-7M",
+    "https://www.youtube-nocookie.com/embed/gSukwckKo7s"
+  ],
+  "bpm": 83,
+  "tone": "D major",
+  "artistPeople": [
+    "Emilija Đonin"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dragan Ilić",
+    "Emilija Djonin"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nikola Čuturilo"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

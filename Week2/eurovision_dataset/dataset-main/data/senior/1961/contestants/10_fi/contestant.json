@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "country": "FI",
+  "artist": "Laila Kinnunen",
+  "song": "Valoa ikkunassa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xMu44znU-8A",
+    "https://www.youtube-nocookie.com/embed/pJuWlBHtp8g",
+    "https://www.youtube-nocookie.com/embed/aNTEW5V0gkg"
+  ],
+  "bpm": 100,
+  "tone": "G major",
+  "artistPeople": [
+    "Laura Kinnunen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eino Hurme"
+  ],
+  "conductor": "George de Godzinsky",
+  "lyricists": [
+    "Sauvo Puhtila"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

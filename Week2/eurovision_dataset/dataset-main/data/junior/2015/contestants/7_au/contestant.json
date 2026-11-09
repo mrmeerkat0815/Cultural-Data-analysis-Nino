@@ -1,0 +1,30 @@
+{
+  "id": 7,
+  "country": "AU",
+  "artist": "Bella Paige",
+  "song": "My Girls",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/t3B8swgwt64",
+    "https://www.youtube-nocookie.com/embed/7st7GcfRQo8"
+  ],
+  "bpm": 92,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Bella Paige"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Delta Goodrem",
+    "Mitch Allan",
+    "Vince Pizzinga"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

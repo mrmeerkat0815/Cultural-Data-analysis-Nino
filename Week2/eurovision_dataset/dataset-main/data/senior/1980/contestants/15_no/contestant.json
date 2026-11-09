@@ -1,0 +1,35 @@
+{
+  "id": 15,
+  "country": "NO",
+  "artist": "Sverre Kjellsberg & Mattis Hætta",
+  "song": "Sámiid ædnan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/b0L81ql8QGY",
+    "https://www.youtube-nocookie.com/embed/javlJkdj-EQ",
+    "https://www.youtube-nocookie.com/embed/Ufhy6QaKDaI",
+    "https://www.youtube-nocookie.com/embed/13-mfHdpryw"
+  ],
+  "bpm": 91,
+  "tone": "D major",
+  "artistPeople": [
+    "Mattis Hætta",
+    "Sverre Kjelsberg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sverre Kjelsberg"
+  ],
+  "conductor": "Sigurd Jansen",
+  "lyricists": [
+    "Ragnar Olsen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Knut Aunbu"
+  ],
+  "jury": null,
+  "spokesperson": "Roald Øyen"
+}

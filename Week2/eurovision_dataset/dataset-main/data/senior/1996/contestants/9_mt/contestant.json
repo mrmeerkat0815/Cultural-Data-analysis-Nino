@@ -1,0 +1,35 @@
+{
+  "id": 9,
+  "country": "MT",
+  "artist": "Miriam Christine",
+  "song": "In A Woman's Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8Wkiem4gBpo",
+    "https://www.youtube-nocookie.com/embed/TLSkvxHkeWs",
+    "https://www.youtube-nocookie.com/embed/k4t_c_6HS2o"
+  ],
+  "bpm": 104,
+  "tone": "A minor",
+  "artistPeople": [
+    "Miriam Christine Borg"
+  ],
+  "backings": [
+    "Georgina Abela"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Abela"
+  ],
+  "conductor": "Paul Abela",
+  "lyricists": [
+    "Alfred C. Sant"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Charles Saliba"
+  ],
+  "jury": null,
+  "spokesperson": "Ruth Amaira"
+}

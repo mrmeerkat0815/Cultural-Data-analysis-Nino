@@ -1,0 +1,39 @@
+{
+  "id": 36,
+  "country": "LV",
+  "artist": "PeR",
+  "song": "Here We Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xze_ilAXwWE",
+    "https://www.youtube-nocookie.com/embed/kFho4GEMHgI",
+    "https://www.youtube-nocookie.com/embed/e5PtwOA2IlM"
+  ],
+  "bpm": 100,
+  "tone": "F major",
+  "artistPeople": [
+    "Edmunds Rasmanis",
+    "Ralfs Eilands"
+  ],
+  "backings": [
+    "Arturas Burke",
+    "Lauris Valters"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Arturas Burke",
+    "Ralfs Eilands"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ralfs Eilands"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Būmeisters",
+    "Valters Frīdenbergs"
+  ],
+  "jury": null,
+  "spokesperson": "Anmary"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29,
+  "country": "AL",
+  "artist": "Aurela Gaçe",
+  "song": "Feel The Passion",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Mq0H6gY2jq4",
+    "https://www.youtube-nocookie.com/embed/35yy7Ls3ptc",
+    "https://www.youtube-nocookie.com/embed/RDTwKHKEvv8"
+  ],
+  "bpm": 99,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Aurela Gaçe"
+  ],
+  "backings": [
+    "Beverly",
+    "Bledar Sejko",
+    "Emiljano Dhimo",
+    "Lamont Van Hook",
+    "Monet"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Shpëtim Saraçi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sokol Marsi"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "jury": null,
+  "spokesperson": "Leon Menkshi"
+}

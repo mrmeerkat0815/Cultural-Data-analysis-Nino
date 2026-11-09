@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "country": "LU",
+  "artist": "Géraldine",
+  "song": "Toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cowZzbKD9w4",
+    "https://www.youtube-nocookie.com/embed/zTT-ewMOzXE",
+    "https://www.youtube-nocookie.com/embed/VTqMRJu4LsA",
+    "https://www.youtube-nocookie.com/embed/mj4_JAGR1ts"
+  ],
+  "bpm": 114,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Geraldine Brannigan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bill Martin",
+    "Phil Coulter"
+  ],
+  "conductor": "Phil Coulter",
+  "lyricists": [
+    "Bill Martin",
+    "Phil Coulter",
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

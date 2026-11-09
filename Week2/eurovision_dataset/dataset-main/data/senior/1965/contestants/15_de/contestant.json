@@ -1,0 +1,32 @@
+{
+  "id": 15,
+  "country": "DE",
+  "artist": "Ulla Wiesner",
+  "song": "Paradies, wo bist du",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O6WrGoP1rpU",
+    "https://www.youtube-nocookie.com/embed/2mLqEPpfTgM",
+    "https://www.youtube-nocookie.com/embed/HRA0JApCcWo"
+  ],
+  "bpm": 110,
+  "tone": "C major",
+  "artistPeople": [
+    "Ulla Wiesner"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alfred Hause",
+  "lyricists": null,
+  "writers": [
+    "Barbara Kist",
+    "Hans Blum"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hermann Rockmann"
+  ],
+  "jury": null,
+  "spokesperson": "Lia Wöhr"
+}

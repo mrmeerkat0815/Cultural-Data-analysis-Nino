@@ -1,0 +1,47 @@
+{
+  "id": 25,
+  "country": "SE",
+  "artist": "Anna Bergendahl",
+  "song": "This Is My Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hNk6CZ77ags",
+    "https://www.youtube-nocookie.com/embed/psEtXw8Ce5M",
+    "https://www.youtube-nocookie.com/embed/5P1neQKN-1k",
+    "https://www.youtube-nocookie.com/embed/yoJL6LPTSxk"
+  ],
+  "bpm": 165,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Anna Bergendahl"
+  ],
+  "backings": [
+    "Anna Lundström",
+    "Emmalisa Norrhamn",
+    "Jessica Marberger",
+    "Kristian Tåje",
+    "Martin Kagemark"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Ljunggren"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kristian Lagerström"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Christine Meltzer Lind",
+    "Edward af Sillén"
+  ],
+  "jury": [
+    "Andreas Lundstedt",
+    "Anna Charlotta Gunnarson",
+    "Eric Saade",
+    "Hélène Benno",
+    "Michael Cederberg"
+  ],
+  "spokesperson": "Eric Saade"
+}

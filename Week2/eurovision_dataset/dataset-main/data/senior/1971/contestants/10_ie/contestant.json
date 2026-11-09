@@ -1,0 +1,32 @@
+{
+  "id": 10,
+  "country": "IE",
+  "artist": "Angela Farrell",
+  "song": "One Day Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9z2gCmhpdzM",
+    "https://www.youtube-nocookie.com/embed/luhbk13kRYM",
+    "https://www.youtube-nocookie.com/embed/ewlvPmAp8vY"
+  ],
+  "bpm": 114,
+  "tone": "E major",
+  "artistPeople": [
+    "Angela Farrell"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Donald Martin",
+    "Ita Flynn"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Noel Andrews"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

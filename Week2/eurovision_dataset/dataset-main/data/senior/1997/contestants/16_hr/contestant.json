@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "country": "HR",
+  "artist": "ENI",
+  "song": "Probudi me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qgFOLokXTwE",
+    "https://www.youtube-nocookie.com/embed/iVfEhkug7Qo",
+    "https://www.youtube-nocookie.com/embed/J13H7iFz65g",
+    "https://www.youtube-nocookie.com/embed/jYLT6YC8JlU",
+    "https://www.youtube-nocookie.com/embed/hHujW2_aGCs"
+  ],
+  "bpm": 114,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Elena Tomecek",
+    "Iva Mocibob",
+    "Ivona Maričić",
+    "Nikolina Tomljanović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Davor Tolja"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alida Šarar"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Davor Meštrović"
+}

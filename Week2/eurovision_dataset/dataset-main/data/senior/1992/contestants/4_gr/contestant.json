@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "country": "GR",
+  "artist": "Cleopatra",
+  "song": "Olou Tou Kosmou tin Elpida",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HQQI_xt-j-g",
+    "https://www.youtube-nocookie.com/embed/CONrIDVno6o",
+    "https://www.youtube-nocookie.com/embed/pxAxmZ6S0BY"
+  ],
+  "bpm": 108,
+  "tone": "B major",
+  "artistPeople": [
+    "Cleopatra Pantazi"
+  ],
+  "backings": [
+    "Christos Lagos",
+    "Dimitris Vlagiannis",
+    "George Calogeropoulos",
+    "Panagiotis Dracopoulos",
+    "Stelios Zachariou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Haris Andreadis",
+  "lyricists": null,
+  "writers": [
+    "Christos Lagos"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 19,
+  "country": "BE",
+  "artist": "Morgane",
+  "song": "Nous, on veut des violons",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/u60o-w4uSms",
+    "https://www.youtube-nocookie.com/embed/hXl6LTlc4Lk",
+    "https://www.youtube-nocookie.com/embed/w86XzAK2pWw"
+  ],
+  "bpm": 124,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Ingrid Simonis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claude Barzotti"
+  ],
+  "conductor": "Frank Fiévez",
+  "lyricists": [
+    "Anne-Marie Gaspard"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

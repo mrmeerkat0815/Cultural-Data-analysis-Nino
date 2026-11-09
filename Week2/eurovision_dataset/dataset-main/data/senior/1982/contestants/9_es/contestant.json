@@ -1,0 +1,33 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Lucía",
+  "song": "Él",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DYxaX8Jv7jA",
+    "https://www.youtube-nocookie.com/embed/8JkfXUB9FqY",
+    "https://www.youtube-nocookie.com/embed/P_M8wU8924g"
+  ],
+  "bpm": 130,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "María Isabel Lineros Rodríguez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Francisco 'Paco' Cepero"
+  ],
+  "conductor": "Miguel Ángel Varona",
+  "lyricists": [
+    "Ignacio Román"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "jury": null,
+  "spokesperson": "Marisa Naranjo"
+}

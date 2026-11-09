@@ -1,0 +1,26 @@
+{
+  "id": 7,
+  "country": "AM",
+  "artist": "Monica",
+  "song": "Im ergi hnchyune",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HoXlKsYpP3s",
+    "https://www.youtube-nocookie.com/embed/Ks_xyk3m10w"
+  ],
+  "bpm": 78,
+  "tone": "C major",
+  "artistPeople": [
+    "Monica"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

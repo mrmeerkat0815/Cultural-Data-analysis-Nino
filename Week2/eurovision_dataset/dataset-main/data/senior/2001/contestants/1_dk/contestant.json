@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "country": "DK",
+  "artist": "Rollo & King",
+  "song": "Never Ever Let You Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3SW8MohKPPM",
+    "https://www.youtube-nocookie.com/embed/oONF6oxNRDY",
+    "https://www.youtube-nocookie.com/embed/sehN63M7lt4",
+    "https://www.youtube-nocookie.com/embed/J-FPVn8ZxJo"
+  ],
+  "bpm": 108,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Signe Svendsen",
+    "Søren Poppe",
+    "Stefan Teilmann Laub Nielsen"
+  ],
+  "backings": [
+    "Jarno Varsted",
+    "Johnny Jørgensen",
+    "Lei Moe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Søren Poppe"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Stefan Teilmann Laub Nielsen",
+    "Thomas Brekling"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Hans Otto Bisgaard",
+    "Hilda Heick"
+  ],
+  "jury": null,
+  "spokesperson": "Gry Johansen"
+}

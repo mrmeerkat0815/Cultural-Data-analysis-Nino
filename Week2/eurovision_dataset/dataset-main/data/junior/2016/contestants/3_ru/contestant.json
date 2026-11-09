@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "country": "RU",
+  "artist": "The Water of Life Project",
+  "song": "Water of Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Pjf_KcvqIl8",
+    "https://www.youtube-nocookie.com/embed/3haUyqJ69sw",
+    "https://www.youtube-nocookie.com/embed/b-2LzbSvwhE",
+    "https://www.youtube-nocookie.com/embed/vEAo36fl08s"
+  ],
+  "bpm": 66,
+  "tone": "D major",
+  "artistPeople": [
+    "Sofya Fisenko",
+    "Sasha Abramseva",
+    "Christina Abramova",
+    "Madonna Abramova"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Rita Dakota"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

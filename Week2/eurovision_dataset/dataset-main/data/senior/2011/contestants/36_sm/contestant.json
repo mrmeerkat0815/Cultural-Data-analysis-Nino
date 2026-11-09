@@ -1,0 +1,43 @@
+{
+  "id": 36,
+  "country": "SM",
+  "artist": "Senit",
+  "song": "Stand By",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TTCBm8Z2CrY",
+    "https://www.youtube-nocookie.com/embed/Owh0pnNzh0Y"
+  ],
+  "bpm": 150,
+  "tone": "F major",
+  "artistPeople": [
+    "Senhit Zadik Zadik"
+  ],
+  "backings": [
+    "Adam Evans",
+    "Ben Epstein",
+    "Gino Emnes",
+    "Katarzyna Walczak",
+    "Monica Sarti"
+  ],
+  "dancers": null,
+  "stageDirector": "Shaun Fernandes",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Radiosa Romani"
+  ],
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Chiara Masi",
+    "Cristina Polverelli",
+    "Cristina Polverelli",
+    "Massimiliano Messieri",
+    "Sonia Tura"
+  ],
+  "spokesperson": "Nicola Della Valle"
+}

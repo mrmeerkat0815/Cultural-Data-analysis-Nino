@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Imaani",
+  "song": "Where Are You?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z745-juFlck",
+    "https://www.youtube-nocookie.com/embed/ogkXVUMIBZk",
+    "https://www.youtube-nocookie.com/embed/RPNncLEoaP4"
+  ],
+  "bpm": 126,
+  "tone": "G minor",
+  "artistPeople": [
+    "Melanie Crosdale"
+  ],
+  "backings": [
+    "Unknown",
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "James McMillan",
+  "lyricists": null,
+  "writers": [
+    "Phil Manikiza",
+    "Scott English",
+    "Simon Stirling"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Ken Bruce"
+}

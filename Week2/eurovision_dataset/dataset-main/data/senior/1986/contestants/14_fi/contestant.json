@@ -1,0 +1,38 @@
+{
+  "id": 14,
+  "country": "FI",
+  "artist": "Kari Kuivalainen",
+  "song": "Päivä kahden ihmisen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fOEmzo4UxhI",
+    "https://www.youtube-nocookie.com/embed/qboH7vORGOQ",
+    "https://www.youtube-nocookie.com/embed/U-laGTiz10A",
+    "https://www.youtube-nocookie.com/embed/h7qEbuolgog"
+  ],
+  "bpm": 143,
+  "tone": "D major",
+  "artistPeople": [
+    "Kari Ilmari Kuivalainen"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Jokke Seppälä",
+    "Kati Bergman",
+    "Rele Kosunen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ossi Runne",
+  "lyricists": null,
+  "writers": [
+    "Kari Kuivalainen"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Harma",
+    "Kari Lumikero"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

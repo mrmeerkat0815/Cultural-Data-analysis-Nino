@@ -1,0 +1,33 @@
+{
+  "id": 8,
+  "country": "IE",
+  "artist": "The Swarbriggs",
+  "song": "That's What Friends Are For",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sT34ZLdAg2U",
+    "https://www.youtube-nocookie.com/embed/un2-wcn7NYc",
+    "https://www.youtube-nocookie.com/embed/BxV5T47icco"
+  ],
+  "bpm": 185,
+  "tone": "E major",
+  "artistPeople": [
+    "John James Swarbrigg",
+    "Thomas Sheridan Swarbrigg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Colman Pearce",
+  "lyricists": null,
+  "writers": [
+    "Jimmy Swarbrigg",
+    "Tommy Swarbrigg"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "Brendan Balfe"
+}

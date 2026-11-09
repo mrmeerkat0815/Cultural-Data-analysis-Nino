@@ -1,0 +1,34 @@
+{
+  "id": 9,
+  "country": "IE",
+  "artist": "Red Hurley",
+  "song": "When",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yhOwK6ztiBY",
+    "https://www.youtube-nocookie.com/embed/ZfngmRzGrGg"
+  ],
+  "bpm": 153,
+  "tone": "A major",
+  "artistPeople": [
+    "Vincent Hurley"
+  ],
+  "backings": [
+    "Lola Kerr",
+    "Nicola Kerr",
+    "Pat Reilly"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "Brendan Balfe"
+}

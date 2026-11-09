@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "country": "NL",
+  "artist": "Fource",
+  "song": "Love Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DNma35lc9tI",
+    "https://www.youtube-nocookie.com/embed/oOSmrgkbsIw",
+    "https://www.youtube-nocookie.com/embed/-6b0zSiDsPw"
+  ],
+  "bpm": 107,
+  "tone": "A minor",
+  "artistPeople": [
+    "Max Mies",
+    "Niels Schlimback",
+    "Jannes Heuvelmans",
+    "Ian Kuyper"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Joost Griffioen",
+    "Stas Swaczyna"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Joost Griffioen"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

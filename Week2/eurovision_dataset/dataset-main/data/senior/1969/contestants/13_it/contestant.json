@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "IT",
+  "artist": "Iva Zanicchi",
+  "song": "Due grosse lacrime bianche",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uL1QLj1aRM8",
+    "https://www.youtube-nocookie.com/embed/UMlC-F_u_CM"
+  ],
+  "bpm": 86,
+  "tone": "F major",
+  "artistPeople": [
+    "Iva Zanicchi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Piero Soffici"
+  ],
+  "conductor": "Ezio Leoni",
+  "lyricists": [
+    "Carlo Daiano"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Mike Bongiorno"
+}

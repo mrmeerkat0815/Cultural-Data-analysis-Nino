@@ -1,0 +1,34 @@
+{
+  "id": 9,
+  "country": "DE",
+  "artist": "Siw Malmkvist",
+  "song": "Primaballerina",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3qYJzDQPhpg",
+    "https://www.youtube-nocookie.com/embed/PTytKtsUObY",
+    "https://www.youtube-nocookie.com/embed/18AJ1l2dmug",
+    "https://www.youtube-nocookie.com/embed/VFMnPTTkibY",
+    "https://www.youtube-nocookie.com/embed/8cFFv8ssdyQ",
+    "https://www.youtube-nocookie.com/embed/FCIticxWEFU"
+  ],
+  "bpm": 121,
+  "tone": "A minor",
+  "artistPeople": [
+    "Siw Malmkvist"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hans Blum",
+  "lyricists": null,
+  "writers": [
+    "Hans Blum"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hans-Joachim Rauschenbach"
+  ],
+  "jury": null,
+  "spokesperson": "Hans-Otto Grünefeldt"
+}

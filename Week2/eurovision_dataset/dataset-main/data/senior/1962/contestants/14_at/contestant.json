@@ -1,0 +1,28 @@
+{
+  "id": 14,
+  "country": "AT",
+  "artist": "Eleonore Schwarz",
+  "song": "Nur in der Wiener Luft",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1cRmfgPeK40",
+    "https://www.youtube-nocookie.com/embed/Ipv5MG1hApM"
+  ],
+  "bpm": 165,
+  "tone": "D major",
+  "artistPeople": [
+    "Eleonore Schwarz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Bruno Uher",
+  "lyricists": null,
+  "writers": [
+    "Bruno Uher"
+  ],
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 11,
+  "country": "IE",
+  "artist": "Aimee Banks",
+  "song": "Réalta na Mara",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/n9qTAPhtFd0",
+    "https://www.youtube-nocookie.com/embed/xIDFsC4NQ-k"
+  ],
+  "bpm": 86,
+  "tone": "B minor",
+  "artistPeople": [
+    "Aimee Banks"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aimee Banks",
+    "Brendan McCarthy",
+    "Jonas Gladnikoff",
+    "Niall Mooney"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Aimee Banks"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

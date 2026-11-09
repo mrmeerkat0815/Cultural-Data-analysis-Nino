@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "country": "IE",
+  "artist": "Maria Christian",
+  "song": "Wait Until the Weekend Comes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2R5N-eh4n5I",
+    "https://www.youtube-nocookie.com/embed/xv-31TLGAEQ",
+    "https://www.youtube-nocookie.com/embed/4CrqYw1Aqc4"
+  ],
+  "bpm": 120,
+  "tone": "G minor",
+  "artistPeople": [
+    "Maria Christian"
+  ],
+  "backings": [
+    "Pat Reilly"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Linda Martin"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

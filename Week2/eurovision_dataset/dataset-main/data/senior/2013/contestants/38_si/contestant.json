@@ -1,0 +1,36 @@
+{
+  "id": 38,
+  "country": "SI",
+  "artist": "Hannah",
+  "song": "Straight Into Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I2_zGcuEuwU",
+    "https://www.youtube-nocookie.com/embed/SqL0SP3zARg"
+  ],
+  "bpm": 128,
+  "tone": "D major",
+  "artistPeople": [
+    "Hannah Mancini"
+  ],
+  "backings": [
+    "Anže Škrube",
+    "Linda Andrews",
+    "Matic Zadravec",
+    "Primož Pavlič",
+    "Susanne Ørum"
+  ],
+  "dancers": null,
+  "stageDirector": "Urška Žnidaršič",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Hannah Mancini"
+  ],
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Andrea F"
+}

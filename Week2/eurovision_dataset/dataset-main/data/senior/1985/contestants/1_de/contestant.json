@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "country": "DE",
+  "artist": "Wind",
+  "song": "Für alle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8qNpxV9soRA",
+    "https://www.youtube-nocookie.com/embed/bN7kpnQyQGs",
+    "https://www.youtube-nocookie.com/embed/P98tS5i2pec",
+    "https://www.youtube-nocookie.com/embed/6LpnGTJUNEI",
+    "https://www.youtube-nocookie.com/embed/FsGEYsf8fmA"
+  ],
+  "bpm": 118,
+  "tone": "B major",
+  "artistPeople": [
+    "Alexander Heiler",
+    "Petra Scheeser",
+    "Rainer Höglmeier",
+    "Sami Kalifa",
+    "Tina Vierstade",
+    "Willi Jakob"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rainer Pietsch",
+  "lyricists": null,
+  "writers": [
+    "Hanne Haller"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Christoph Deumling"
+}

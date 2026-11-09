@@ -1,0 +1,50 @@
+{
+  "id": 34,
+  "country": "SK",
+  "artist": "Kristina Pelakova",
+  "song": "Horehronie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/j8G6byTMr0o",
+    "https://www.youtube-nocookie.com/embed/kghCqyMLPFA",
+    "https://www.youtube-nocookie.com/embed/YvSm845_Zxc",
+    "https://www.youtube-nocookie.com/embed/4E0VOsdRB8s",
+    "https://www.youtube-nocookie.com/embed/QC66NAXscJ8",
+    "https://www.youtube-nocookie.com/embed/_0CaeDo-wEY",
+    "https://www.youtube-nocookie.com/embed/FD_TPGsw2J0"
+  ],
+  "bpm": 120,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Kristína Peláková"
+  ],
+  "backings": [
+    "Hanka Servická"
+  ],
+  "dancers": [
+    "David Schimmer",
+    "Martin Mikulášek",
+    "Peter Živner",
+    "Slavomír Kolkovič"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Martin Kavulič"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kamil Peteraj"
+  ],
+  "writers": null,
+  "broadcaster": "STV",
+  "commentators": [
+    "Roman Bomboš"
+  ],
+  "jury": [
+    "Dezider Kukoľ",
+    "Juraj Čurný",
+    "Ľubica Čekovská",
+    "Marcel Palonder",
+    "Mirka Brezovská"
+  ],
+  "spokesperson": "Ľubomír Bajaník"
+}

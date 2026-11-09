@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "country": "IL",
+  "artist": "Sarit Hadad",
+  "song": "Light A Candle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KCc9yH3dPXM",
+    "https://www.youtube-nocookie.com/embed/7pZ6Z9Wm1Ac",
+    "https://www.youtube-nocookie.com/embed/v5mPX8_DCdQ",
+    "https://www.youtube-nocookie.com/embed/ux1w9gnwd3U"
+  ],
+  "bpm": 145,
+  "tone": "C major",
+  "artistPeople": [
+    "Sara Hodadtov"
+  ],
+  "backings": [
+    "Galya Ariel",
+    "Natalie Dotan",
+    "Ortal Ofek",
+    "Shirley Nov",
+    "Yelena Tamarov"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Svika Pick"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Yoav Ginai"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Michal Zoharetz"
+}

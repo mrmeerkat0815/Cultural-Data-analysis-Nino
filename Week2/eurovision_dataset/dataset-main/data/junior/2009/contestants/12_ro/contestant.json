@@ -1,0 +1,28 @@
+{
+  "id": 12,
+  "country": "RO",
+  "artist": "Ioana Anuța",
+  "song": "Ai puterea în mâna ta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PtI-sKnz6Sc",
+    "https://www.youtube-nocookie.com/embed/FdWLE645_QA"
+  ],
+  "bpm": 136,
+  "tone": "E minor",
+  "artistPeople": [
+    "Ioana Anuța"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ioana Anuța"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

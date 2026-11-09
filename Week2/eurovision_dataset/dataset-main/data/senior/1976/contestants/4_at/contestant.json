@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "country": "AT",
+  "artist": "Waterloo & Robinson",
+  "song": "My Little World",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HXzdl8Ntoh4",
+    "https://www.youtube-nocookie.com/embed/pBAZQuXPsgA",
+    "https://www.youtube-nocookie.com/embed/z2VFun4i6qE",
+    "https://www.youtube-nocookie.com/embed/KCdGKuJtUoM",
+    "https://www.youtube-nocookie.com/embed/elBW6sl_jzg",
+    "https://www.youtube-nocookie.com/embed/CzCpgdeLB60"
+  ],
+  "bpm": 140,
+  "tone": "E major",
+  "artistPeople": [
+    "Josef Krassnitzer",
+    "Johann Kreuzmayer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Erich Kleinschuster",
+  "lyricists": null,
+  "writers": [
+    "Gerhard Heinz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Pippal"
+}

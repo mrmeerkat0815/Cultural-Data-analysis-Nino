@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "country": "GB",
+  "artist": "Patricia Bredin",
+  "song": "All",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4irsVGPcK8U",
+    "https://www.youtube-nocookie.com/embed/_JtxCdwqhvY"
+  ],
+  "bpm": 154,
+  "tone": "F major",
+  "artistPeople": [
+    "Patricia Bredin"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Reynell Wreford"
+  ],
+  "conductor": "Eric Robinson",
+  "lyricists": [
+    "Alan Stranks"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Berkeley Smith"
+  ],
+  "jury": null,
+  "spokesperson": "David Jacobs"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5,
+  "country": "ES",
+  "artist": "Marcos Llunas",
+  "song": "Sin rencor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9QHn0VULbYU",
+    "https://www.youtube-nocookie.com/embed/i7GyVlTVKQg"
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "artistPeople": [
+    "Marcos Gómez Llunas"
+  ],
+  "backings": [
+    "David Simó",
+    "Eva Gris",
+    "Jordi Bonell",
+    "Jordi Portaz",
+    "Mosa García"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Toni Xuclà",
+  "lyricists": null,
+  "writers": [
+    "Marcos Llunas"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Belén Fernández de Henestrosa"
+}

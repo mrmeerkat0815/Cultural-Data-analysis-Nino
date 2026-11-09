@@ -1,0 +1,35 @@
+{
+  "id": 14,
+  "country": "CH",
+  "artist": "Mariella Farré",
+  "song": "Io così non ci sto",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kKfo9bnqZyQ",
+    "https://www.youtube-nocookie.com/embed/rgQ4pGORUdw"
+  ],
+  "bpm": 96,
+  "tone": "B major",
+  "artistPeople": [
+    "Gabriella Ricamato-Filomeno"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Remo Kessler",
+    "Thomas Gonzenbach"
+  ],
+  "conductor": "Robert Weber",
+  "lyricists": [
+    "Nella Martinetti"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

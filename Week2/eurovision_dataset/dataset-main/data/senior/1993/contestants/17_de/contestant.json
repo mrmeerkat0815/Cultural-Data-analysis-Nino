@@ -1,0 +1,37 @@
+{
+  "id": 17,
+  "country": "DE",
+  "artist": "Münchener Freiheit",
+  "song": "Viel zu weit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/34OQGAK7D8A",
+    "https://www.youtube-nocookie.com/embed/aZ6ZOUeORI8",
+    "https://www.youtube-nocookie.com/embed/jc5NyQXyuOs",
+    "https://www.youtube-nocookie.com/embed/NJF6RhF43Nw",
+    "https://www.youtube-nocookie.com/embed/46ZQ1c503So"
+  ],
+  "bpm": 153,
+  "tone": "B major",
+  "artistPeople": [
+    "Alexander Grünwald",
+    "Aron Strobel",
+    "Michael Kunze",
+    "Renard Henry Hatzke",
+    "Stefan Zauner"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Norbert Daum",
+  "lyricists": null,
+  "writers": [
+    "Stefan Zauner"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Jan Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Carmen Nebel"
+}

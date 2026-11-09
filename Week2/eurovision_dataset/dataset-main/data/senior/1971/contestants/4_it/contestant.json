@@ -1,0 +1,36 @@
+{
+  "id": 4,
+  "country": "IT",
+  "artist": "Massimo Ranieri",
+  "song": "L'amore è un attimo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yNCjU7y-yxc",
+    "https://www.youtube-nocookie.com/embed/vwntESY9S1U",
+    "https://www.youtube-nocookie.com/embed/Wf1-2hMhfHU",
+    "https://www.youtube-nocookie.com/embed/bXGsa-qRE9Y",
+    "https://www.youtube-nocookie.com/embed/3hSDZP3cgpM"
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "artistPeople": [
+    "Giovanni Calone"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Enrico Polito"
+  ],
+  "conductor": "Enrico Polito",
+  "lyricists": [
+    "Gaetano Savio",
+    "Giancarlo Bigazzi"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

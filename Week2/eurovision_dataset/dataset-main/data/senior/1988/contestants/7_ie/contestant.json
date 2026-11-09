@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "IE",
+  "artist": "Jump the Gun",
+  "song": "Take Him Home",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dMXggK8o3fA",
+    "https://www.youtube-nocookie.com/embed/lAk7veL0-3s"
+  ],
+  "bpm": 89,
+  "tone": "G major",
+  "artistPeople": [
+    "Brian O'Reilly",
+    "Ciaran Wilde",
+    "Eric Sharpe",
+    "Peter Eades",
+    "Roy Taylor"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Peter Eades"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Gitte",
+  "song": "Junger Tag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tG9E20ZAC4c",
+    "https://www.youtube-nocookie.com/embed/YXePQSB1FcE",
+    "https://www.youtube-nocookie.com/embed/cMrEx2sunKc",
+    "https://www.youtube-nocookie.com/embed/6iHKkP5TrW8",
+    "https://www.youtube-nocookie.com/embed/CuTCtRsF54E"
+  ],
+  "bpm": 90,
+  "tone": "C minor",
+  "artistPeople": [
+    "Gitte Hænning-Johansson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Günther-Eric Thöner"
+  ],
+  "conductor": "Günther-Eric Thöner",
+  "lyricists": [
+    "Stephan Lego"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hanns Verres"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

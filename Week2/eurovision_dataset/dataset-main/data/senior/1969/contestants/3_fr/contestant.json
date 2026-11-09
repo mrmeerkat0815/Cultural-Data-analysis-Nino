@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Frida Boccara",
+  "song": "Un jour, un enfant",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/27YMkBlba68",
+    "https://www.youtube-nocookie.com/embed/xVzmGk6letg",
+    "https://www.youtube-nocookie.com/embed/qgosEo1AQmc",
+    "https://www.youtube-nocookie.com/embed/M04_fQDRRDw",
+    "https://www.youtube-nocookie.com/embed/n7yCrrI_pVY",
+    "https://www.youtube-nocookie.com/embed/dHAVYABUlU8"
+  ],
+  "bpm": 170,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Frida Boccara"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Émile Stern"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Eddy Marnay"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
+}

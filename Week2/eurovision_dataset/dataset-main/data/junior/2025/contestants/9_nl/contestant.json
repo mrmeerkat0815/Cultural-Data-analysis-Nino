@@ -1,0 +1,29 @@
+{
+  "id": 9,
+  "country": "NL",
+  "artist": "Meadow",
+  "song": "Freeze",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FwX672QYr7Y"
+  ],
+  "bpm": 100,
+  "tone": "A minor",
+  "artistPeople": [
+    "Meadow Isselt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Daniel van der Molen",
+    "Elke Tiel",
+    "Stas Swaczyna"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

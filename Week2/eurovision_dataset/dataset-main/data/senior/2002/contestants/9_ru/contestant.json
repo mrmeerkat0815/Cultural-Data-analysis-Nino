@@ -1,0 +1,40 @@
+{
+  "id": 9,
+  "country": "RU",
+  "artist": "Prime minister",
+  "song": "Northern Girl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9ZcV4kqK-R0",
+    "https://www.youtube-nocookie.com/embed/kUsIUKZk-RM",
+    "https://www.youtube-nocookie.com/embed/i_4jH-YK02c",
+    "https://www.youtube-nocookie.com/embed/S3BETm_g5lo"
+  ],
+  "bpm": 122,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Jean Grigoviev-Milimerov",
+    "Marat Chanyshev",
+    "Peter Jason",
+    "Vyacheslav Bodolika"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kim Breitburg"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Evgene Fridlyand",
+    "Irina Antonyan",
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "C1R",
+  "commentators": [
+    "Elena Batinova",
+    "Yuriy Aksuta"
+  ],
+  "jury": null,
+  "spokesperson": "Arina Sharapova"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 10,
+  "country": "IT",
+  "artist": "Melissa & Ranya",
+  "song": "Un Mondo Giusto",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tYFktn9RvJM",
+    "https://www.youtube-nocookie.com/embed/6bZ_xAmuL9A",
+    "https://www.youtube-nocookie.com/embed/zrdrB7cNTJo"
+  ],
+  "bpm": 97,
+  "tone": "G major",
+  "artistPeople": [
+    "Melissa Agliottone",
+    "Ranya Moufidi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Franco Fasano",
+    "Marco Iardella"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

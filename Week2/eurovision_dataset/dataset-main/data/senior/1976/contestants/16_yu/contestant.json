@@ -1,0 +1,41 @@
+{
+  "id": 16,
+  "country": "YU",
+  "artist": "Ambasadori",
+  "song": "Ne mogu skriti svoj bol",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CAv26ykB-Ok",
+    "https://www.youtube-nocookie.com/embed/ZVyQo1qAbe0",
+    "https://www.youtube-nocookie.com/embed/mQA01Z5_MDg",
+    "https://www.youtube-nocookie.com/embed/mzfwOEtBO6o"
+  ],
+  "bpm": 133,
+  "tone": "G minor",
+  "artistPeople": [
+    "Andrej Stefanović",
+    "Enes Bajramović",
+    "Ismeta Dervoz-Krvavac",
+    "Krešimir Vlašić Keco",
+    "Miroslav Šaranović",
+    "Slobodan Vujović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Slobodan Vujović"
+  ],
+  "conductor": "Esad Arnautalić",
+  "lyricists": [
+    "Slobodan Đurašović"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Viktor Blažič"
+}

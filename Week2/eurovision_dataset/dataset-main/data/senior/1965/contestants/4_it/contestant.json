@@ -1,0 +1,36 @@
+{
+  "id": 4,
+  "country": "IT",
+  "artist": "Bobby Solo",
+  "song": "Se piangi, se ridi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9Kcam4mqkpA",
+    "https://www.youtube-nocookie.com/embed/vsq2BAJtsBU",
+    "https://www.youtube-nocookie.com/embed/fKUONj4yGmg",
+    "https://www.youtube-nocookie.com/embed/WdpbkIPAzKg"
+  ],
+  "bpm": 97,
+  "tone": "A major",
+  "artistPeople": [
+    "Roberto Satti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Solo",
+    "Gianni Marchetti"
+  ],
+  "conductor": "Gianni Ferrio",
+  "lyricists": [
+    "Bobby Solo",
+    "Mogol"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Daniele Piombi"
+}

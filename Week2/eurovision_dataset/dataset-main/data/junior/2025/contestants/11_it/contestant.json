@@ -1,0 +1,28 @@
+{
+  "id": 11,
+  "country": "IT",
+  "artist": "Leonardo Giovannangeli",
+  "song": "Rockstar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zIDeBnLd6rg"
+  ],
+  "bpm": 150,
+  "tone": "B minor",
+  "artistPeople": [
+    "Leonardo Giovannangeli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Claudia Zanecchia",
+    "Giancarlo Prandelli"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

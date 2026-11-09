@@ -1,0 +1,30 @@
+{
+  "id": 3,
+  "country": "IE",
+  "artist": "Pat McGeegan",
+  "song": "Chance of a Lifetime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sibyBO_do5M",
+    "https://www.youtube-nocookie.com/embed/xhPwWMv-xrM"
+  ],
+  "bpm": 104,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Patrick McGuigan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "John Kennedy"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Brendan O'Reilly"
+  ],
+  "jury": null,
+  "spokesperson": "Gay Byrne"
+}

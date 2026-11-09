@@ -1,0 +1,38 @@
+{
+  "id": 10,
+  "country": "AT",
+  "artist": "George Nußbaumer",
+  "song": "Weil's dr guat got",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HF1sQ7kK494",
+    "https://www.youtube-nocookie.com/embed/qXBIC9UFRZw",
+    "https://www.youtube-nocookie.com/embed/GdI3DWTPonI"
+  ],
+  "bpm": 118,
+  "tone": "Eb major",
+  "artistPeople": [
+    "George Nussbaumer"
+  ],
+  "backings": [
+    "Bettina Soriat",
+    "Cedric Lee Bradley",
+    "Jacqueline Patricio da Luz",
+    "Rufina Kleptiz",
+    "Stellisa Zacher"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Michael W. Krausz",
+  "lyricists": null,
+  "writers": [
+    "George Nussbaumer",
+    "Mischa Krausz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Martina Rupp"
+}

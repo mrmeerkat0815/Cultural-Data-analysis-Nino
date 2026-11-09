@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "country": "PT",
+  "artist": "Carlos Mendes",
+  "song": "Verão",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ppiDaJG7YAU",
+    "https://www.youtube-nocookie.com/embed/S0GpirEvTyY",
+    "https://www.youtube-nocookie.com/embed/AnlZd9dETWY",
+    "https://www.youtube-nocookie.com/embed/IqH_ChLeiy0",
+    "https://www.youtube-nocookie.com/embed/R3JL_iYSU9g"
+  ],
+  "bpm": 132,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Carlos Mendes"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pedro Osório"
+  ],
+  "conductor": "Joaquim Luís Gomes",
+  "lyricists": [
+    "José Alberto Diogo"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Fialho Gouveia"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

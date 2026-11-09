@@ -1,0 +1,41 @@
+{
+  "id": 35,
+  "country": "GE",
+  "artist": "The Shin and Mariko",
+  "song": "Three Minutes To Earth",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0v69AvCQJQY",
+    "https://www.youtube-nocookie.com/embed/o9ixkdkbieU",
+    "https://www.youtube-nocookie.com/embed/ps5z1uWrb0A"
+  ],
+  "bpm": 152,
+  "tone": "A major",
+  "artistPeople": [
+    "Alexander Chumburidze",
+    "Mariko Ebralidze"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Zaza Miminoshvili"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Eugen Eliu"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Lado Tatishvili",
+    "Tamuna Museridze"
+  ],
+  "jury": [
+    "George Kukhianidze",
+    "Mikheil Chelidze",
+    "Nana Daushvili",
+    "Natia Khoshtaria",
+    "Nino Chachava"
+  ],
+  "spokesperson": "Nodiko Tatishvili, Sopho Gelovani"
+}

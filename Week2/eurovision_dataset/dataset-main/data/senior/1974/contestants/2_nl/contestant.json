@@ -1,0 +1,42 @@
+{
+  "id": 2,
+  "country": "NL",
+  "artist": "Mouth & MacNeal",
+  "song": "I See a Star",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Hqj_UNeWA9w",
+    "https://www.youtube-nocookie.com/embed/EgeaIXFcMas",
+    "https://www.youtube-nocookie.com/embed/oczuu0oQEjE",
+    "https://www.youtube-nocookie.com/embed/TAhXefZAtT0",
+    "https://www.youtube-nocookie.com/embed/zN_dHDEvX28",
+    "https://www.youtube-nocookie.com/embed/vCpkKYZKpl4"
+  ],
+  "bpm": 89,
+  "tone": "E major",
+  "artistPeople": [
+    "Willem Duyn",
+    "Sjoukje Smit-van 't Spijker"
+  ],
+  "backings": [
+    "Jan Vermeulen",
+    "Johann Huisdens",
+    "Piet Souer",
+    "Ron Westerbeek"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hans van Hemert"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Gerrit den Braber"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
+}

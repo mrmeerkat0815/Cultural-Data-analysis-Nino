@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "country": "BE",
+  "artist": "Telex",
+  "song": "Euro-vision",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5zB6f3yIgwk",
+    "https://www.youtube-nocookie.com/embed/VNt5ZEPx-sc",
+    "https://www.youtube-nocookie.com/embed/5HEsHyHK_HY",
+    "https://www.youtube-nocookie.com/embed/v_lEwjOoFRA",
+    "https://www.youtube-nocookie.com/embed/d4wMCUXJ9pM"
+  ],
+  "bpm": 137,
+  "tone": "D minor",
+  "artistPeople": [
+    "Dan Lacksman",
+    "Marc Moulin",
+    "Michel Moers"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dan Lacksman",
+    "Marc Moulin",
+    "Michel Moers"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

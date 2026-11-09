@@ -1,0 +1,42 @@
+{
+  "id": 27,
+  "country": "SM",
+  "artist": "Valentina Monetta",
+  "song": "Crisalide (Vola)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YirZIBi2vnY",
+    "https://www.youtube-nocookie.com/embed/xi8mZ2ejLcE"
+  ],
+  "bpm": 152,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Valentina Monetta"
+  ],
+  "backings": [
+    "Alessia Eva Mangano",
+    "Ilaria Ercolani"
+  ],
+  "dancers": null,
+  "stageDirector": "Fabrizio Raggi",
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mauro Balestri"
+  ],
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Boris Casadei",
+    "Fabio Guidi",
+    "Massimiliano Messieri",
+    "Monica Moroni",
+    "Viola Conti"
+  ],
+  "spokesperson": "John Kennedy O'Connor"
+}

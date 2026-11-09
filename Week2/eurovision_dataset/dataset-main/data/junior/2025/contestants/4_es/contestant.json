@@ -1,0 +1,30 @@
+{
+  "id": 4,
+  "country": "ES",
+  "artist": "Gonzalo Pinillos",
+  "song": "Érase una vez (Once Upon a Time)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3OAaxhvRoW8"
+  ],
+  "bpm": 147,
+  "tone": "C major",
+  "artistPeople": [
+    "Gonzalo Pinillos"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alejandro Martínez",
+    "David Parejo",
+    "Gonzalo Pinillos",
+    "Luis Ramiro"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

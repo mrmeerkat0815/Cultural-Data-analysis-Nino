@@ -1,0 +1,32 @@
+{
+  "id": 14,
+  "country": "NO",
+  "artist": "Odd Børre",
+  "song": "Stress",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rLX2diZZ5TY",
+    "https://www.youtube-nocookie.com/embed/ZCH-kDR0xzo"
+  ],
+  "bpm": 178,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Odd Børre Sørensen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tor Hultin"
+  ],
+  "conductor": "Øivind Bergh",
+  "lyricists": [
+    "Ola B. Johannessen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Roald Øyen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

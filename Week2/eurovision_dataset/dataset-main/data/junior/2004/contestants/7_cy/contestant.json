@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "country": "CY",
+  "artist": "Marios Tofi",
+  "song": "Onira",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QxOLLhTWXc4",
+    "https://www.youtube-nocookie.com/embed/DH9KsvsnAwk"
+  ],
+  "bpm": 160,
+  "tone": "C# major",
+  "artistPeople": [
+    "Marios Tofi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marios Tofi"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

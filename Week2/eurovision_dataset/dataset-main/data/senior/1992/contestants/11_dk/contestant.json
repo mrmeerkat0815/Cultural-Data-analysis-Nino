@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "country": "DK",
+  "artist": "Kenny & Lotte",
+  "song": "Alt det som ingen ser",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qmgcJmwJ0Nc",
+    "https://www.youtube-nocookie.com/embed/_SKk6wvxYuk",
+    "https://www.youtube-nocookie.com/embed/TCkwauBV3e0",
+    "https://www.youtube-nocookie.com/embed/TCbxpxE5IiI"
+  ],
+  "bpm": 130,
+  "tone": "A major",
+  "artistPeople": [
+    "Kenny Lübcke",
+    "Lotte Feder"
+  ],
+  "backings": [
+    "Jacob Launbjerg",
+    "Lei Moe",
+    "Lupe Moe",
+    "Peter Busborg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": null,
+  "writers": [
+    "Carsten Warming"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

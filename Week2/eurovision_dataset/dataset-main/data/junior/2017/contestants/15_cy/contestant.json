@@ -1,0 +1,28 @@
+{
+  "id": 15,
+  "country": "CY",
+  "artist": "Nicole Nicolaou",
+  "song": "I Wanna Be a Star",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YsC_Kxn_L8g",
+    "https://www.youtube-nocookie.com/embed/_AkQge-3IZM"
+  ],
+  "bpm": 118,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Nicole Nicolaou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Constantinos Christoforou"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

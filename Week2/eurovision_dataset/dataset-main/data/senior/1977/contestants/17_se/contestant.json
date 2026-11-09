@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "country": "SE",
+  "artist": "Forbes",
+  "song": "Beatles",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kjdafQCnkXA",
+    "https://www.youtube-nocookie.com/embed/SCxXbzwosw8",
+    "https://www.youtube-nocookie.com/embed/s5m9T6d3Wso",
+    "https://www.youtube-nocookie.com/embed/2VjlO6J5bVA",
+    "https://www.youtube-nocookie.com/embed/tR_q58AofWw"
+  ],
+  "bpm": 112,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Anders Hector",
+    "Chino Mariano",
+    "Claes Bure",
+    "Peter Björk",
+    "Peter Forbes",
+    "Roger Capello"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claes Bure"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Sven-Olof Bagge"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Sven Lindahl"
+}

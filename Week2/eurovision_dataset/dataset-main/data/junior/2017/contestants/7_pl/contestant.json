@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "country": "PL",
+  "artist": "Alicja Rega",
+  "song": "Mój dom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_O2UeMjjxmM",
+    "https://www.youtube-nocookie.com/embed/Ai25WeLyNIQ"
+  ],
+  "bpm": 140,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Alicja Rega"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marek Kościkiewicz"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

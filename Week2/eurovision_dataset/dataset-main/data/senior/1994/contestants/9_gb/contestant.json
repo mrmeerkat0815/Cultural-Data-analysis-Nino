@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "country": "GB",
+  "artist": "Frances Ruffelle",
+  "song": "We Will Be Free (Lonely Symphony)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kSQjxmCYouk",
+    "https://www.youtube-nocookie.com/embed/LRJQ12KeOMg",
+    "https://www.youtube-nocookie.com/embed/2ToK57N8IrQ"
+  ],
+  "bpm": 89,
+  "tone": "A major",
+  "artistPeople": [
+    "Frances Jane Ruffell"
+  ],
+  "backings": [
+    "Jay Hentry",
+    "Jay Ray Ruffin",
+    "Shirley Lewis"
+  ],
+  "dancers": null,
+  "stageDirector": "Shaun Fernandes",
+  "composers": null,
+  "conductor": "Michael Reed",
+  "lyricists": null,
+  "writers": [
+    "George De Angelis",
+    "Mark Dean"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

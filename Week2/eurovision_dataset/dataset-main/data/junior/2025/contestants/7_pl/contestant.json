@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "PL",
+  "artist": "Marianna Kłos",
+  "song": "Brightest Light",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/o2v9ozr6WW0"
+  ],
+  "bpm": 79,
+  "tone": "C major",
+  "artistPeople": [
+    "Marianna Kłos"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Brajan Litkowiec",
+    "Jacek Mrówczyński",
+    "Jakub Laszuk",
+    "Jeremi Siejka",
+    "Krzysztof Junak"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jeremi Siejka",
+    "Paula Roma"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

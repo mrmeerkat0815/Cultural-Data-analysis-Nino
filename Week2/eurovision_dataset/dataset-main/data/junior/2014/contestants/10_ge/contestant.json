@@ -1,0 +1,28 @@
+{
+  "id": 10,
+  "country": "GE",
+  "artist": "Lizi Pop",
+  "song": "Happy Day",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uMtZYfridAI",
+    "https://www.youtube-nocookie.com/embed/oMJO_2IFjTI"
+  ],
+  "bpm": 130,
+  "tone": "F# major",
+  "artistPeople": [
+    "Lizi Pop"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Giorgi Kukhianidze"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

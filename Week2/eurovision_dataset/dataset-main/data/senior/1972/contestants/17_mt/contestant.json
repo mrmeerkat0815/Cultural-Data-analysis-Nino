@@ -1,0 +1,35 @@
+{
+  "id": 17,
+  "country": "MT",
+  "artist": "Helen & Joseph",
+  "song": "L-imħabba",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pxBXNX8ZZLM",
+    "https://www.youtube-nocookie.com/embed/9RDnLaDUuQI",
+    "https://www.youtube-nocookie.com/embed/yaRUIPLtDbk",
+    "https://www.youtube-nocookie.com/embed/ikwnN_B6ZL8"
+  ],
+  "bpm": 125,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Helen Micallef",
+    "Joseph Cutajar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Charles Camilleri"
+  ],
+  "conductor": "Charles Camilleri",
+  "lyricists": [
+    "Albert Cassola"
+  ],
+  "writers": null,
+  "broadcaster": "MBA",
+  "commentators": [
+    "Norman Hamilton"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

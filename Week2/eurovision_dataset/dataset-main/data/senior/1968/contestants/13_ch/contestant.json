@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "country": "CH",
+  "artist": "Gianni Mascolo",
+  "song": "Guardando il sole",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/v9xl0pR0U4s",
+    "https://www.youtube-nocookie.com/embed/5p7-Hon_xLM"
+  ],
+  "bpm": 96,
+  "tone": "F minor",
+  "artistPeople": [
+    "Gianni Mascolo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aldo D'Addario"
+  ],
+  "conductor": "Mario Robbiani",
+  "lyricists": [
+    "Sanzio Chiesa"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

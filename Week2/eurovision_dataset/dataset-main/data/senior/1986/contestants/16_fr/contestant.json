@@ -1,0 +1,39 @@
+{
+  "id": 16,
+  "country": "FR",
+  "artist": "Cocktail Chic",
+  "song": "Européennes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EgwmqUy6ku0",
+    "https://www.youtube-nocookie.com/embed/F25JBwqFrzQ",
+    "https://www.youtube-nocookie.com/embed/L4HIKOa8YYw",
+    "https://www.youtube-nocookie.com/embed/DxNsUheFqX8"
+  ],
+  "bpm": 105,
+  "tone": "E major",
+  "artistPeople": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Martine Latorre"
+  ],
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jean-Claude Petit",
+  "lyricists": null,
+  "writers": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "broadcaster": "A2F",
+  "commentators": [
+    "Patrice Laffont"
+  ],
+  "jury": null,
+  "spokesperson": "Patricia Lesieur"
+}

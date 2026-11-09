@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "country": "CH",
+  "artist": "Mariella Farré & Pino Gasparini",
+  "song": "Piano, piano",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bpCFuTA900s",
+    "https://www.youtube-nocookie.com/embed/E235u88vdZ0",
+    "https://www.youtube-nocookie.com/embed/SUmBLX3RQ74"
+  ],
+  "bpm": 136,
+  "tone": "D major",
+  "artistPeople": [
+    "Gabriella Ricamato-Filomeno",
+    "Filippo Gasparini"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Anita Kerr"
+  ],
+  "conductor": "Anita Kerr",
+  "lyricists": [
+    "Trudi Müller-Bosshard"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

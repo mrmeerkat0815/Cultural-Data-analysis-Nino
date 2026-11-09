@@ -1,0 +1,34 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Semiha Yankı",
+  "song": "Seninle bir dakika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9CDIda8--hI",
+    "https://www.youtube-nocookie.com/embed/aPsi2c_5ObM",
+    "https://www.youtube-nocookie.com/embed/MokYkMcMBUY",
+    "https://www.youtube-nocookie.com/embed/F2oNL3fLrpc"
+  ],
+  "bpm": 164,
+  "tone": "B minor",
+  "artistPeople": [
+    "Semiha Yankı"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kemal Ebcioğlu"
+  ],
+  "conductor": "Timur Selçuk",
+  "lyricists": [
+    "Hikmet Münir Ebcioğlu"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Bülent Osma"
+}

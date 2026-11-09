@@ -1,0 +1,43 @@
+{
+  "id": 33,
+  "country": "NL",
+  "artist": "Sieneke",
+  "song": "Ik Ben Verliefd (Sha-la-lie)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HdA2SsM3BLI",
+    "https://www.youtube-nocookie.com/embed/M_BJ1If5o84"
+  ],
+  "bpm": 162,
+  "tone": "A minor",
+  "artistPeople": [
+    "Sieneke Peeters"
+  ],
+  "backings": [
+    "Floor van der Poort",
+    "Kelly ter Horst",
+    "Peter van der Poort",
+    "Wiesje Westerlaken",
+    "Yvette Keijzers"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Pierre Kartner"
+  ],
+  "broadcaster": "TROS",
+  "commentators": [
+    "Cornald Maas",
+    "Daniël Dekker"
+  ],
+  "jury": [
+    "Aukelien van Hoytema",
+    "Mandy Huydts",
+    "Niel van Hoff",
+    "Petra Berger",
+    "Vinzzent"
+  ],
+  "spokesperson": "Yolanthe Sneijder-Cabau"
+}

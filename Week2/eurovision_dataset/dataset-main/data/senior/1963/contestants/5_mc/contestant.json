@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "country": "MC",
+  "artist": "Françoise Hardy",
+  "song": "L'amour s'en va",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SFf1lNB4Uas",
+    "https://www.youtube-nocookie.com/embed/PjzZcZImYxg",
+    "https://www.youtube-nocookie.com/embed/Z6o-ccG0B2E",
+    "https://www.youtube-nocookie.com/embed/6OBvBBqJDZ0"
+  ],
+  "bpm": 111,
+  "tone": "D major",
+  "artistPeople": [
+    "Françoise Madeleine Hardy"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Raymond Lefèvre",
+  "lyricists": null,
+  "writers": [
+    "Françoise Hardy"
+  ],
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

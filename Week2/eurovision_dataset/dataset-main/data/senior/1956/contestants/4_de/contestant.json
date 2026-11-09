@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "country": "DE",
+  "artist": "Walter Andreas Schwarz",
+  "song": "Im Wartesaal zum großen Glück",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jqo-whfb0mk",
+    "https://www.youtube-nocookie.com/embed/EfZ6_7iNBqs",
+    "https://www.youtube-nocookie.com/embed/vutE6EA03QE"
+  ],
+  "bpm": 136,
+  "tone": "C minor",
+  "artistPeople": [
+    "Walter Andreas Schwarz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Fernando Paggi",
+  "lyricists": null,
+  "writers": [
+    "Walter Andreas Schwarz"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Irene Koss"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

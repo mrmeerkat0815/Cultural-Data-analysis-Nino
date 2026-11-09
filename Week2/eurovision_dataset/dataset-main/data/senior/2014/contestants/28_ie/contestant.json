@@ -1,0 +1,50 @@
+{
+  "id": 28,
+  "country": "IE",
+  "artist": "Can-Linn feat. Kasey Smith",
+  "song": "Heartbeat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J9zEybTMeEs",
+    "https://www.youtube-nocookie.com/embed/Zc14AzCXUgQ",
+    "https://www.youtube-nocookie.com/embed/YZiF9WDXkRM"
+  ],
+  "bpm": 122,
+  "tone": "C major",
+  "artistPeople": [
+    "Kasey Smith"
+  ],
+  "backings": [
+    "Donna Bissett",
+    "Jenny Bowden"
+  ],
+  "dancers": [
+    "Tarik Shebani",
+    "Thomas Spratt"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Hazel Kaneswaran",
+    "Jonas Gladnikoff",
+    "Patrizia Helander",
+    "Rasmus Palmgren"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jonas Gladnikoff",
+    "Patrizia Helander",
+    "Rasmus Palmgren"
+  ],
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Charlie McGettigan",
+    "Jenny Greene",
+    "Leanne Moore",
+    "Liam Reilly",
+    "Patrick Hughes"
+  ],
+  "spokesperson": "Nicky Byrne"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 10,
+  "country": "IT",
+  "artist": "Riccardo Fogli",
+  "song": "Per Lucia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TlRVHT59Tt8",
+    "https://www.youtube-nocookie.com/embed/Wxwafm-pt5s",
+    "https://www.youtube-nocookie.com/embed/hIh2BKwbLgM"
+  ],
+  "bpm": 110,
+  "tone": "A minor",
+  "artistPeople": [
+    "Riccardo Fogli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Maurizio Fabrizio"
+  ],
+  "conductor": "Maurizio Fabrizio",
+  "lyricists": [
+    "Riccardo Fogli",
+    "Vincenzo Spampinato"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Paolo Frajese"
+  ],
+  "jury": null,
+  "spokesperson": "Paola Perissi"
+}

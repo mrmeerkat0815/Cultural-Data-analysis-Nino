@@ -1,0 +1,35 @@
+{
+  "id": 20,
+  "country": "LU",
+  "artist": "Plastic Bertrand",
+  "song": "Amour amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ATkC7pDcq70",
+    "https://www.youtube-nocookie.com/embed/frCMFyE8ekA",
+    "https://www.youtube-nocookie.com/embed/8J2OePm2BP4",
+    "https://www.youtube-nocookie.com/embed/I7SBC4ApjFk"
+  ],
+  "bpm": 143,
+  "tone": "F major",
+  "artistPeople": [
+    "Roger Jouret"
+  ],
+  "backings": [
+    "Patricia Maessen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alec Mansion",
+  "lyricists": null,
+  "writers": [
+    "Alec Mansion",
+    "Plastic Bertrand"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Frédérique Ries"
+}

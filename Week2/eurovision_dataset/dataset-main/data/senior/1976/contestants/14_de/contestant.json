@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "country": "DE",
+  "artist": "Les Humphries Singers",
+  "song": "Sing, Sang, Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qxGSQRo1eCY",
+    "https://www.youtube-nocookie.com/embed/rD_HyLxGFqc",
+    "https://www.youtube-nocookie.com/embed/aVJNfF_gy7o",
+    "https://www.youtube-nocookie.com/embed/6Sp56VDINic",
+    "https://www.youtube-nocookie.com/embed/XMShFWycgjw",
+    "https://www.youtube-nocookie.com/embed/Uq-geEsArMg"
+  ],
+  "bpm": 164,
+  "tone": "Ab major",
+  "artistPeople": [
+    "David O'Brien",
+    "Helga 'Peggy' Evers",
+    "James Bilsbury",
+    "John Lawton",
+    "Judy Archer",
+    "Jürgen Drews"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Les Humphries",
+  "lyricists": [
+    "Kurt Hertha"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "jury": null,
+  "spokesperson": "Max Schautzer"
+}

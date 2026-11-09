@@ -1,0 +1,32 @@
+{
+  "id": 21,
+  "country": "SE",
+  "artist": "Christer Björkman",
+  "song": "I morgon är en annan dag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OwRlrn8R1T8",
+    "https://www.youtube-nocookie.com/embed/ZQgr0aWeFmI",
+    "https://www.youtube-nocookie.com/embed/FR4MPLmgwAo"
+  ],
+  "bpm": 80,
+  "tone": "A major",
+  "artistPeople": [
+    "Christer Björkman"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Niklas Strömstedt"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Björn Kjellman",
+    "Jesper Aspegren"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Jingryd"
+}

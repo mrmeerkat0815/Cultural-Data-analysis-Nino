@@ -1,0 +1,32 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "Isabelle Aubret",
+  "song": "Un premier amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JmMrx3QUYOM",
+    "https://www.youtube-nocookie.com/embed/spMSF9hwaJM"
+  ],
+  "bpm": 92,
+  "tone": "D minor",
+  "artistPeople": [
+    "Thérèse Coquerelle"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claude-Henri Vic"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Roland Stephane Valade"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "André Valmy"
+}

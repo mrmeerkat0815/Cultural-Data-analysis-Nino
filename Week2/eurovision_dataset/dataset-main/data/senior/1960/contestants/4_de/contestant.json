@@ -1,0 +1,32 @@
+{
+  "id": 4,
+  "country": "DE",
+  "artist": "Wyn Hoop",
+  "song": "Bonne nuit ma chérie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3dP6ASCSLSk",
+    "https://www.youtube-nocookie.com/embed/EWTwsFHMJ38"
+  ],
+  "bpm": 123,
+  "tone": "C minor",
+  "artistPeople": [
+    "Winfried Lüssenhop"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Franz Josef Breuer"
+  ],
+  "conductor": "Franz Josef Breuer",
+  "lyricists": [
+    "Kurt Schwabach"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Wolf Mittler"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Andreas Schwarz"
+}

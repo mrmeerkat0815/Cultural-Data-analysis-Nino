@@ -1,0 +1,28 @@
+{
+  "id": 12,
+  "country": "GR",
+  "artist": "Chloe Sofia Boleti",
+  "song": "Den peirazei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vz92Bpni5_M",
+    "https://www.youtube-nocookie.com/embed/U3m_IcaEbhQ"
+  ],
+  "bpm": 109,
+  "tone": "G minor",
+  "artistPeople": [
+    "Chloe Sofia Boleti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Chloe Sofia Boleti"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": 32,
+  "country": "IL",
+  "artist": "Moran Mazor",
+  "song": "Rak Bishvilo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BjbcD72OaI4",
+    "https://www.youtube-nocookie.com/embed/H1LnuAyo03k"
+  ],
+  "bpm": 105,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Moran Mazor"
+  ],
+  "backings": [
+    "Avia Shoshani",
+    "Chen Harari",
+    "Daniel Skaat"
+  ],
+  "dancers": null,
+  "stageDirector": "Doron Medalie",
+  "composers": [
+    "Chen Harari"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gal Sarig"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ofer Nachshon"
+}

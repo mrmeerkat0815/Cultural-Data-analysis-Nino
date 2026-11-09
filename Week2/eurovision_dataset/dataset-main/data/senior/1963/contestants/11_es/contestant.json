@@ -1,0 +1,32 @@
+{
+  "id": 11,
+  "country": "ES",
+  "artist": "José Guardiola",
+  "song": "Algo prodigioso",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tu2zrI6esbU",
+    "https://www.youtube-nocookie.com/embed/-nEjjNrvJgI"
+  ],
+  "bpm": 163,
+  "tone": "G minor",
+  "artistPeople": [
+    "José Guardiola"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fernando García Morcillo"
+  ],
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": [
+    "Camillo Murillo Janero"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Julio Rico"
+}

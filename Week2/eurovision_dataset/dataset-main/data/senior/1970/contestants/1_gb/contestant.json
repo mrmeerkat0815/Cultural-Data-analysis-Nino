@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Mary Hopkin",
+  "song": "Knock, Knock (Who's There?)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Kvo8pzEyxF4",
+    "https://www.youtube-nocookie.com/embed/ybdQbyKCO2s"
+  ],
+  "bpm": 94,
+  "tone": "D major",
+  "artistPeople": [
+    "Mary Hopkin"
+  ],
+  "backings": [
+    "Brian Bennett",
+    "John Farrar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Johnny Arthey",
+  "lyricists": null,
+  "writers": [
+    "Geoff Stephens",
+    "John Carter"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Gell"
+  ],
+  "jury": null,
+  "spokesperson": "Colin-Ward Lewis"
+}

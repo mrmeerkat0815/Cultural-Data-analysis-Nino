@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "country": "BG",
+  "artist": "Ivan Ivanov",
+  "song": "Superhero",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wQ0iLG8tNeQ",
+    "https://www.youtube-nocookie.com/embed/qcNEBMJGtuU"
+  ],
+  "bpm": 116,
+  "tone": "D minor",
+  "artistPeople": [
+    "Ivan Ivanov"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ivan Ivanov"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

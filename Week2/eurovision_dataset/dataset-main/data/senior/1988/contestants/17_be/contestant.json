@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "country": "BE",
+  "artist": "Reynaert",
+  "song": "Laissez briller le soleil",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lIYv5QJA9Os",
+    "https://www.youtube-nocookie.com/embed/r5tDuZJXe-Q",
+    "https://www.youtube-nocookie.com/embed/Uz4y8sgl5Zc",
+    "https://www.youtube-nocookie.com/embed/gkMmGgUx6n4"
+  ],
+  "bpm": 141,
+  "tone": "F major",
+  "artistPeople": [
+    "Joseph Reynaerts"
+  ],
+  "backings": [
+    "Françoise Vidick",
+    "Giovanni Turco"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dany Willem",
+    "Joseph Reynaerts"
+  ],
+  "conductor": "Dany Willem",
+  "lyricists": [
+    "Philippe Anciaux",
+    "Joseph Reynaerts"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Luc Appermont",
+    "Pierre Collard-Bovy"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

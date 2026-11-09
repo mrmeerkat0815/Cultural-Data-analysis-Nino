@@ -1,0 +1,42 @@
+{
+  "id": 31,
+  "country": "LV",
+  "artist": "Aarzemnieki",
+  "song": "Cake To Bake",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/h0D1Ya3NBQs",
+    "https://www.youtube-nocookie.com/embed/L7CL8anA1hQ",
+    "https://www.youtube-nocookie.com/embed/HeLSBtzAmkE",
+    "https://www.youtube-nocookie.com/embed/8igji9TLoW4"
+  ],
+  "bpm": 98,
+  "tone": "F# major",
+  "artistPeople": [
+    "Guntis Veilands",
+    "Jöran Steinhauer",
+    "Katrīna Dimanta",
+    "Raitis Viļumovs"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Guntis Veilands"
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Būmeisters",
+    "Valters Frīdenbergs"
+  ],
+  "jury": [
+    "Edgars Beļickis",
+    "Harijs Zarins",
+    "Igeta Gaike",
+    "Kaspars Ansons",
+    "Marta Ritova"
+  ],
+  "spokesperson": "Ralfs Eilands"
+}

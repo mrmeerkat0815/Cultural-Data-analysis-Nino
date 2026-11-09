@@ -1,0 +1,38 @@
+{
+  "id": 23,
+  "country": "DK",
+  "artist": "Malene",
+  "song": "Tell Me Who You Are",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BZYnmqCJ7zI",
+    "https://www.youtube-nocookie.com/embed/2-IFAZMeofI",
+    "https://www.youtube-nocookie.com/embed/ze4k7BgAupU",
+    "https://www.youtube-nocookie.com/embed/GSBenx4DrJs"
+  ],
+  "bpm": 106,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Malene Winther Mortensen"
+  ],
+  "backings": [
+    "Kenny Lübcke",
+    "Lei Moe",
+    "Lupe Moe",
+    "Michael Ronson",
+    "Stine Findsen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Michael Ronson"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Keld Heick"
+  ],
+  "jury": null,
+  "spokesperson": "Signe Svendsen"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "country": "FI",
+  "artist": "Lasse Mårtenson",
+  "song": "Laiskotellen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c5EPbegQF4M",
+    "https://www.youtube-nocookie.com/embed/zYZ0oWp-h_Y"
+  ],
+  "bpm": 101,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Lars Anders Fredrik Mårtenson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lasse Mårtenson"
+  ],
+  "conductor": "George de Godzinsky",
+  "lyricists": [
+    "Sauvo Puhtila"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

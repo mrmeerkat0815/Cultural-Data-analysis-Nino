@@ -1,0 +1,38 @@
+{
+  "id": 13,
+  "country": "GR",
+  "artist": "Marianna Efstratiou",
+  "song": "Emis forame to himona anixiatika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5iEOh-xOHzE",
+    "https://www.youtube-nocookie.com/embed/jICEPVXWrQU",
+    "https://www.youtube-nocookie.com/embed/d9WMr-kWFK4"
+  ],
+  "bpm": 103,
+  "tone": "G major",
+  "artistPeople": [
+    "Maria-Anastasia Efstratiou"
+  ],
+  "backings": [
+    "Haris Tsirekas",
+    "Haris Zacharos",
+    "Michalis Themelis",
+    "Thanasis Giannakopoulos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kostas Bigalis"
+  ],
+  "conductor": "Michalis Rozakis",
+  "lyricists": [
+    "Iro Trigoni"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Niki Venega"
+}

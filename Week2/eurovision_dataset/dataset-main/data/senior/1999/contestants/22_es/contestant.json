@@ -1,0 +1,41 @@
+{
+  "id": 22,
+  "country": "ES",
+  "artist": "Lydia",
+  "song": "No quiero escuchar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bNwZVWBByIA",
+    "https://www.youtube-nocookie.com/embed/Q0cs8nLw4_g"
+  ],
+  "bpm": 88,
+  "tone": "C# major",
+  "artistPeople": [
+    "Lydia Rodríguez Fernández"
+  ],
+  "backings": [
+    "Adel Hakki",
+    "Ángel Mora",
+    "Carolina Esteve",
+    "Paz Sacristán"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alejandro Piqueras Ramírez",
+    "Fernando Rodríguez Fernández"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Adolfo Carmona Zamarreño",
+    "Alejandro Piqueras Ramírez",
+    "Carlos López González",
+    "Fernando Rodríguez Fernández"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Hugo de Campos"
+}

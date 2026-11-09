@@ -1,0 +1,36 @@
+{
+  "id": 16,
+  "country": "AT",
+  "artist": "Petra Frey",
+  "song": "Für den Frieden der Welt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5kv-OLZ-hS0",
+    "https://www.youtube-nocookie.com/embed/Jtl5E1htsD4",
+    "https://www.youtube-nocookie.com/embed/qrjFrXUpfKY",
+    "https://www.youtube-nocookie.com/embed/iv7AFHCGGoo",
+    "https://www.youtube-nocookie.com/embed/5g-H8q1B4yA"
+  ],
+  "bpm": 96,
+  "tone": "A major",
+  "artistPeople": [
+    "Petra Kausch"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alfons Weindorf"
+  ],
+  "conductor": "Herman Weindorf",
+  "lyricists": [
+    "Johann Brunner",
+    "Karl Brunner"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

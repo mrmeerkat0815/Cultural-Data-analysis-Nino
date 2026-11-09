@@ -1,0 +1,40 @@
+{
+  "id": 28,
+  "country": "TR",
+  "artist": "Yüksek Sadakat",
+  "song": "Live It Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RgqKYI6myHM",
+    "https://www.youtube-nocookie.com/embed/beVb1UCLUHA",
+    "https://www.youtube-nocookie.com/embed/FBtQF4csntE"
+  ],
+  "bpm": 127,
+  "tone": "E major",
+  "artistPeople": [
+    "Alpay Şalt",
+    "Kenan Vural",
+    "Kutlu Özmakinacı",
+    "Serkan Özgen",
+    "Uğur Onatkut"
+  ],
+  "backings": null,
+  "dancers": [
+    "Leilani Franco"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Kutlu Özmakinacı"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ergün Arsal"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren",
+    "Erhan Konuk"
+  ],
+  "jury": null,
+  "spokesperson": "Ömer Önder"
+}

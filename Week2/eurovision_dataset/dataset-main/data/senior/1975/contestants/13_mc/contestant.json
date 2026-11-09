@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "country": "MC",
+  "artist": "Sophie",
+  "song": "Une chanson c'est une lettre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iPb7zd89LuQ",
+    "https://www.youtube-nocookie.com/embed/r2g1xect9RI",
+    "https://www.youtube-nocookie.com/embed/St8MdSY1tjg",
+    "https://www.youtube-nocookie.com/embed/YiH6och46xI"
+  ],
+  "bpm": 96,
+  "tone": "E minor",
+  "artistPeople": [
+    "Sophie Hecquet"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Popp"
+  ],
+  "conductor": "André Popp",
+  "lyricists": [
+    "Boris Bergman"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Carole Chabrier"
+}

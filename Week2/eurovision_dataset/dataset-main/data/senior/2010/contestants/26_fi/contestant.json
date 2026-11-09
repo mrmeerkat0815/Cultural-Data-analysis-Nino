@@ -1,0 +1,38 @@
+{
+  "id": 26,
+  "country": "FI",
+  "artist": "Kuunkuiskaajat",
+  "song": "Työlki ellää",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oicT3jWtsc4",
+    "https://www.youtube-nocookie.com/embed/qHQkaorDSsw",
+    "https://www.youtube-nocookie.com/embed/yvo2Ir6o3UE"
+  ],
+  "bpm": 117,
+  "tone": "A minor",
+  "artistPeople": [
+    "Johanna Virtanen",
+    "Susan Aho"
+  ],
+  "backings": [
+    "Aki Eronen",
+    "Jukka Tarvaisen",
+    "Maria Baric"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Timo Kiiskinen"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Jaana Pelkonen",
+    "Tobias Larsson"
+  ],
+  "jury": null,
+  "spokesperson": "Johanna Pirttilahti"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 39,
+  "country": "PT",
+  "artist": "Homens da Luta",
+  "song": "A luta é alegria",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bEPCC3_COLs",
+    "https://www.youtube-nocookie.com/embed/ukPdbUrRKbo",
+    "https://www.youtube-nocookie.com/embed/R6l2sjNk2Lg"
+  ],
+  "bpm": 100,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Ana Figueiredo",
+    "Hugo Osga",
+    "Nuno Duarte",
+    "Tânia Lopes",
+    "Vasco Duarte"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vasco Duarte"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jel"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Sílvia Alberto"
+  ],
+  "jury": null,
+  "spokesperson": "Joana Teles"
+}

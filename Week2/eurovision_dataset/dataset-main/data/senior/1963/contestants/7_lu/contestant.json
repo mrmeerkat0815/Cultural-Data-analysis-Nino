@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "country": "LU",
+  "artist": "Nana Mouskouri",
+  "song": "À force de prier",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O78UuUzkArQ",
+    "https://www.youtube-nocookie.com/embed/8PG7U5ZohSA",
+    "https://www.youtube-nocookie.com/embed/U7PavcFZILw",
+    "https://www.youtube-nocookie.com/embed/cWGjDZxdjPg"
+  ],
+  "bpm": 165,
+  "tone": "E major",
+  "artistPeople": [
+    "Ioanna Mouskouri"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Raymond Bernard"
+  ],
+  "conductor": "Eric Robinson",
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

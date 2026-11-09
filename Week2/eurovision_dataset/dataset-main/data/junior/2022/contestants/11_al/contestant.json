@@ -1,0 +1,32 @@
+{
+  "id": 11,
+  "country": "AL",
+  "artist": "Kejtlin Gjata",
+  "song": "Pakëz diell",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6X1AdVzMiUQ",
+    "https://www.youtube-nocookie.com/embed/M-bxcDm8Gc8",
+    "https://www.youtube-nocookie.com/embed/aNWNTJYOvE4",
+    "https://www.youtube-nocookie.com/embed/DLCVuW9QROE"
+  ],
+  "bpm": 153,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Kejtlin Gjata"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Endri Muça"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kejtlin Gjata"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

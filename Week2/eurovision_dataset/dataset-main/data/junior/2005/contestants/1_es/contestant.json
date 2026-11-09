@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "country": "ES",
+  "artist": "Antonio José",
+  "song": "Te traigo flores",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T9xaODN4CIw",
+    "https://www.youtube-nocookie.com/embed/IZK0CLKrNlY"
+  ],
+  "bpm": 96,
+  "tone": "F major",
+  "artistPeople": [
+    "Antonio José"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Antonio José"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

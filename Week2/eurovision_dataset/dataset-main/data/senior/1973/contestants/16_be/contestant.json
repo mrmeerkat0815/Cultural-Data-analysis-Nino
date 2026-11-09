@@ -1,0 +1,39 @@
+{
+  "id": 16,
+  "country": "BE",
+  "artist": "Nicole and Hugo",
+  "song": "Baby, Baby",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RrFvCYa05pk",
+    "https://www.youtube-nocookie.com/embed/KqRtE2jlXu4",
+    "https://www.youtube-nocookie.com/embed/FdM1vroyyTM",
+    "https://www.youtube-nocookie.com/embed/l8Y_4lIUIcw",
+    "https://www.youtube-nocookie.com/embed/BucgoUtIstw"
+  ],
+  "bpm": 129,
+  "tone": "C major",
+  "artistPeople": [
+    "Hugo Verbraeken",
+    "Nicole van Palm"
+  ],
+  "backings": [
+    "Claude Lombard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ignace Baert"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Erik Marijsse"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

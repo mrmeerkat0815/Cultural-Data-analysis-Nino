@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "country": "RS",
+  "artist": "Sonja Škorić",
+  "song": "Čarobna noć",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H_N565Yuymg",
+    "https://www.youtube-nocookie.com/embed/Yl4I81lPizA",
+    "https://www.youtube-nocookie.com/embed/PA7GpP-6vyY"
+  ],
+  "bpm": 128,
+  "tone": "A major",
+  "artistPeople": [
+    "Sonja Škorić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sonja Škorić"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

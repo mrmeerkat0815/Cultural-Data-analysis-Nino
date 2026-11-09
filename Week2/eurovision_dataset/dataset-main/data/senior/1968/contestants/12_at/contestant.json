@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "country": "AT",
+  "artist": "Karel Gott",
+  "song": "Tausend Fenster",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9sAPi8SCJgo",
+    "https://www.youtube-nocookie.com/embed/F2o3e8qvn-0",
+    "https://www.youtube-nocookie.com/embed/gpg8YwuG5AA",
+    "https://www.youtube-nocookie.com/embed/wzs1akXOUmY",
+    "https://www.youtube-nocookie.com/embed/G_weyW2NR_Q"
+  ],
+  "bpm": 111,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Karel Gott"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Udo Jürgens"
+  ],
+  "conductor": "Robert Opratko",
+  "lyricists": [
+    "Walter Brandin"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Willy Kralik"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

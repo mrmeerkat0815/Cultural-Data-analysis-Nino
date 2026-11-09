@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Annie Palmen",
+  "song": "Een speeldoos",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MuWcaKXgGSU",
+    "https://www.youtube-nocookie.com/embed/bFTRN-g8bVc",
+    "https://www.youtube-nocookie.com/embed/JOeUX4-WRnI"
+  ],
+  "bpm": 109,
+  "tone": "B major",
+  "artistPeople": [
+    "Anna Maria Palmen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Eric Robinson",
+  "lyricists": null,
+  "writers": [
+    "Pieter Goemans"
+  ],
+  "broadcaster": "NTS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Pim Jacobs"
+}

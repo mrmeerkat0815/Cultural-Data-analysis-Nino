@@ -1,0 +1,29 @@
+{
+  "id": 13,
+  "country": "HR",
+  "artist": "Marino Vrgoč",
+  "song": "Snovi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r1JZ497jClY"
+  ],
+  "bpm": 148,
+  "tone": "F♯ major",
+  "artistPeople": [
+    "Marino Vrgoč"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ines Prajo"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Arjana Kunštek"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

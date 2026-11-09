@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "CH",
+  "artist": "Véronique Müller",
+  "song": "C'est la chanson de mon amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6gRJ9j0A834",
+    "https://www.youtube-nocookie.com/embed/isBqwaTGQKA",
+    "https://www.youtube-nocookie.com/embed/BceC0EGTXRQ"
+  ],
+  "bpm": 122,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Véronique Müller"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Véronique Müller"
+  ],
+  "conductor": "Jean-Pierre Festi",
+  "lyricists": [
+    "Catherine Desage"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6,
+  "country": "GB",
+  "artist": "Bardo",
+  "song": "One Step Further",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AFYZy-8sMJI",
+    "https://www.youtube-nocookie.com/embed/iCLjiYfoNd8",
+    "https://www.youtube-nocookie.com/embed/VHPE_S4ioO4",
+    "https://www.youtube-nocookie.com/embed/uRtE1NvJ-HA"
+  ],
+  "bpm": 147,
+  "tone": "E major",
+  "artistPeople": [
+    "Sally Ann Triplett",
+    "Stephen Fischer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Chrissy Wickham",
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Simon Jefferies"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

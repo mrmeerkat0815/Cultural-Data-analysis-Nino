@@ -1,0 +1,33 @@
+{
+  "id": 9,
+  "country": "BE",
+  "artist": "Free Spirits",
+  "song": "Accroche",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HaVLHH7xflE",
+    "https://www.youtube-nocookie.com/embed/OPyOgTUnoNI",
+    "https://www.youtube-nocookie.com/embed/vIQERZHAVqw"
+  ],
+  "bpm": 145,
+  "tone": "D major",
+  "artistPeople": [
+    "Fabrice Morelle",
+    "Olivier Losciuto",
+    "Samuel Evrard"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Fabrice Morelle",
+    "Olivier Losciuto",
+    "Samuel Evrard"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

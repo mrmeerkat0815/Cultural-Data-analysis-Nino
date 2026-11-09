@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "GR",
+  "artist": "Christie Stassinopoulou",
+  "song": "Mou les",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CDL38uyoayI",
+    "https://www.youtube-nocookie.com/embed/cxnpZCfYaiA"
+  ],
+  "bpm": 129,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Christina Stassinopoulou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Antonis Plessas"
+  ],
+  "conductor": "Mimis Plessas",
+  "lyricists": [
+    "Sofia Fildisi"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Irini Gavala"
+}

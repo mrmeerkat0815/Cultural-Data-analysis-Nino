@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "country": "FI",
+  "artist": "Vicky Rosti",
+  "song": "Sata salamaa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6nzinzAMxtI",
+    "https://www.youtube-nocookie.com/embed/6O5-2dKakYw",
+    "https://www.youtube-nocookie.com/embed/oQHtS27iXBU",
+    "https://www.youtube-nocookie.com/embed/_jLYX2qaJuU",
+    "https://www.youtube-nocookie.com/embed/rowLwO-_bp8",
+    "https://www.youtube-nocookie.com/embed/TzceAyC__PI"
+  ],
+  "bpm": 134,
+  "tone": "G major",
+  "artistPeople": [
+    "Erkki Korhonen",
+    "Jari Nieminen",
+    "Jari Puhakka",
+    "Juha Lanu",
+    "Kyösti Laihi",
+    "Virve Rosti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Petri Laaksonen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Veli-Pekka Lehto"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

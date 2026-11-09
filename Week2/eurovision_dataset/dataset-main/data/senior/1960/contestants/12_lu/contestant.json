@@ -1,0 +1,32 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Camillo Felgen",
+  "song": "So laang we's du do bast",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/csoaoaVg_I8",
+    "https://www.youtube-nocookie.com/embed/3AobLiWJUmw",
+    "https://www.youtube-nocookie.com/embed/mv1xtMC2Wgk"
+  ],
+  "bpm": 91,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Camille Jean Nicolas Felgen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Henri Moots",
+    "Jean Roderes"
+  ],
+  "conductor": "Eric Robinson",
+  "lyricists": [
+    "Henri Moots"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Unknown"
+}

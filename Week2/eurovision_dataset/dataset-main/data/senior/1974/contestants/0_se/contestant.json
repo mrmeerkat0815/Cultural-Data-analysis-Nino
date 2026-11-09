@@ -1,0 +1,44 @@
+{
+  "id": 0,
+  "country": "SE",
+  "artist": "ABBA",
+  "song": "Waterloo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Kb-Mj0Nd5gw",
+    "https://www.youtube-nocookie.com/embed/Sj_9CiNkkn4",
+    "https://www.youtube-nocookie.com/embed/KUUhu6Fi9ds",
+    "https://www.youtube-nocookie.com/embed/r_rOmxKfslk",
+    "https://www.youtube-nocookie.com/embed/mcssw3utx7o",
+    "https://www.youtube-nocookie.com/embed/9y-8ZiAJiQo",
+    "https://www.youtube-nocookie.com/embed/e_IgEUkIP3s"
+  ],
+  "bpm": 147,
+  "tone": "D major",
+  "artistPeople": [
+    "Agneta Åse Fältskog",
+    "Anni-Frid Synni Lyngstad",
+    "Göran Bror Benny Andersson",
+    "Björn Kristian Ulvaeus"
+  ],
+  "backings": [
+    "Ola Brunkert",
+    "Rutger Gunnarsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Benny Andersson",
+    "Björn Ulvaeus"
+  ],
+  "conductor": "Sven-Olof Walldoff",
+  "lyricists": [
+    "Stikkan Anderson"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Johan Sandström"
+  ],
+  "jury": null,
+  "spokesperson": "Sven Lindahl"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 19,
+  "country": "ES",
+  "artist": "Remedios Amaya",
+  "song": "¿Quién maneja mi barca?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B3-0DLbQP2E",
+    "https://www.youtube-nocookie.com/embed/nM-Ucg46nu4",
+    "https://www.youtube-nocookie.com/embed/b-P3SjCjP08",
+    "https://www.youtube-nocookie.com/embed/OxA-gkMzrPg"
+  ],
+  "bpm": 147,
+  "tone": "F minor",
+  "artistPeople": [
+    "María Dolores Amaya Vega"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "José Miguel Evóras"
+  ],
+  "conductor": "José Miguel Evóras",
+  "lyricists": [
+    "Isidro Muñoz"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José-Miguel Ullán"
+  ],
+  "jury": null,
+  "spokesperson": "Rosa Campano"
+}

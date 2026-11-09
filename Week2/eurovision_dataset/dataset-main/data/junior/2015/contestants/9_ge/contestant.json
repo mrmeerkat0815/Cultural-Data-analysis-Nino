@@ -1,0 +1,33 @@
+{
+  "id": 9,
+  "country": "GE",
+  "artist": "The Virus",
+  "song": "Gabede",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oX4-hfJGy9s",
+    "https://www.youtube-nocookie.com/embed/TxHV8OAMdGg"
+  ],
+  "bpm": 130,
+  "tone": "A major",
+  "artistPeople": [
+    "Elen",
+    "Tako",
+    "Lizi",
+    "Data"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giga Kukhianidze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Erekle Deisadze"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

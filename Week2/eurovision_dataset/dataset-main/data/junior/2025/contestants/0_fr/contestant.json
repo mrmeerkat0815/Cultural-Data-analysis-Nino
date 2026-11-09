@@ -1,0 +1,29 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "Lou Deleuze",
+  "song": "Ce monde",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gv2fdE98vpA"
+  ],
+  "bpm": 69,
+  "tone": "A major",
+  "artistPeople": [
+    "Lou Deleuze"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "John Claes",
+    "Jonathan Thyssens",
+    "Linh"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

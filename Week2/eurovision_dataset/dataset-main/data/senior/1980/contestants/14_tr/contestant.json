@@ -1,0 +1,38 @@
+{
+  "id": 14,
+  "country": "TR",
+  "artist": "Ajda Pekkan",
+  "song": "Petr'oil",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qrzbmeYTHio",
+    "https://www.youtube-nocookie.com/embed/5NmmInNyc30",
+    "https://www.youtube-nocookie.com/embed/fHkdWRx45as",
+    "https://www.youtube-nocookie.com/embed/pOeEEpmvu60"
+  ],
+  "bpm": 113,
+  "tone": "D major",
+  "artistPeople": [
+    "Ajda Pekkan"
+  ],
+  "backings": [
+    "Aydan Güven",
+    "Lale Mansur",
+    "Nurdan Güven"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Attila Özdemiroğlu"
+  ],
+  "conductor": "Attila Özdemiroğlu",
+  "lyricists": [
+    "Şanar Yurdatapan"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Başak Doğru"
+}

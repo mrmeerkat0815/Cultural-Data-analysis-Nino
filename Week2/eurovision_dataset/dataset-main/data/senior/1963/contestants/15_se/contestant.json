@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "country": "SE",
+  "artist": "Monica Zetterlund",
+  "song": "En gång i Stockholm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c-0DjUwIjgc",
+    "https://www.youtube-nocookie.com/embed/8SAoB7qZMTE",
+    "https://www.youtube-nocookie.com/embed/yikIzK7XdxE"
+  ],
+  "bpm": 135,
+  "tone": "G major",
+  "artistPeople": [
+    "Monica Zetterlund"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobbie Ericsson"
+  ],
+  "conductor": "William Lind",
+  "lyricists": [
+    "Beppe Wolgers"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jörgen Cederberg"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

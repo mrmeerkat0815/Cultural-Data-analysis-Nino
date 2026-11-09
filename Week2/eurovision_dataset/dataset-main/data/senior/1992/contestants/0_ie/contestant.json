@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "country": "IE",
+  "artist": "Linda Martin",
+  "song": "Why Me?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Dh6FC_kAH6w",
+    "https://www.youtube-nocookie.com/embed/BgIAxJZoNhg",
+    "https://www.youtube-nocookie.com/embed/rX8D6wCz36Y",
+    "https://www.youtube-nocookie.com/embed/wAoXb8vxIDo"
+  ],
+  "bpm": 78,
+  "tone": "D major",
+  "artistPeople": [
+    "Linda Martin"
+  ],
+  "backings": [
+    "Alain Pentony",
+    "Carol Keating",
+    "Garrett Wall",
+    "Margot Daly",
+    "Mary Lowe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Johnny Logan"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

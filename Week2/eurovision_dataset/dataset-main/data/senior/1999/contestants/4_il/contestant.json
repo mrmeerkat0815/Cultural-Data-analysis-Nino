@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "country": "IL",
+  "artist": "Eden",
+  "song": "Yom Huledeth",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/usxssMd17Rc",
+    "https://www.youtube-nocookie.com/embed/29sk94JMl5A",
+    "https://www.youtube-nocookie.com/embed/gv-Bq62-HFM"
+  ],
+  "bpm": 127,
+  "tone": "F major",
+  "artistPeople": [
+    "Doron Oren",
+    "Eddie Butler",
+    "Gabriel Butler",
+    "Rafael Dahan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gabriel Butler",
+    "Jackie Oved",
+    "Moshe Datz",
+    "Ya'akov Lamai"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yoav Ginai"
+}

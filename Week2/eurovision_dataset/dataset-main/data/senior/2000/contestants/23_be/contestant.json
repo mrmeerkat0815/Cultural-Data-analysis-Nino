@@ -1,0 +1,35 @@
+{
+  "id": 23,
+  "country": "BE",
+  "artist": "Nathalie Sorce",
+  "song": "Envie de vivre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2dB2s0N359E",
+    "https://www.youtube-nocookie.com/embed/yamvBCVxVXo",
+    "https://www.youtube-nocookie.com/embed/MjLBHstbFlo",
+    "https://www.youtube-nocookie.com/embed/P36EuGi3nUU"
+  ],
+  "bpm": 115,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Nathalie Sorce"
+  ],
+  "backings": [
+    "Mirella Baglio"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Silvio Pezzuto"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Van Hamme"
+}

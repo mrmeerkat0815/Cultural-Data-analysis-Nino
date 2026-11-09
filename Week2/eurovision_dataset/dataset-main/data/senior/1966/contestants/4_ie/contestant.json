@@ -1,0 +1,30 @@
+{
+  "id": 4,
+  "country": "IE",
+  "artist": "Dickie Rock",
+  "song": "Come Back to Stay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-G2-nTW6QxM",
+    "https://www.youtube-nocookie.com/embed/O7tdGMr89GE"
+  ],
+  "bpm": 105,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Dickie Rock"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Rowland Soper"
+  ],
+  "broadcaster": "RÉ",
+  "commentators": [
+    "Brendan O'Reilly"
+  ],
+  "jury": null,
+  "spokesperson": "Frank Hall"
+}

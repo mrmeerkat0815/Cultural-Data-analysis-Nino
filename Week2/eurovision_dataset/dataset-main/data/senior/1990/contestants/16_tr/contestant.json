@@ -1,0 +1,32 @@
+{
+  "id": 16,
+  "country": "TR",
+  "artist": "Kayahan",
+  "song": "Gözlerinin Hapsindeyim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a7yqS4pO_DY",
+    "https://www.youtube-nocookie.com/embed/gjoOs5vf0lo",
+    "https://www.youtube-nocookie.com/embed/ZJPLszsaZRk",
+    "https://www.youtube-nocookie.com/embed/dfUABrl-r48"
+  ],
+  "bpm": 96,
+  "tone": "E minor",
+  "artistPeople": [
+    "Kayahan Açar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ümit Eroğlu",
+  "lyricists": null,
+  "writers": [
+    "Kayahan"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "jury": null,
+  "spokesperson": "Korhan Abay"
+}

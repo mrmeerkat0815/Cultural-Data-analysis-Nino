@@ -1,0 +1,31 @@
+{
+  "id": 14,
+  "country": "AT",
+  "artist": "Peter Horten",
+  "song": "Warum es hunderttausend Sterne gibt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZgnZfdkQ530"
+  ],
+  "bpm": 164,
+  "tone": "C major",
+  "artistPeople": [
+    "Peter Horton"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kurt Peche"
+  ],
+  "conductor": "Johannes Fehring",
+  "lyricists": [
+    "Karin Bognar"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Emil Kollpacher"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5,
+  "country": "MK",
+  "artist": "Mila Moskov",
+  "song": "Fire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dymh0Qf6p_U",
+    "https://www.youtube-nocookie.com/embed/1nzx1qeI-5I"
+  ],
+  "bpm": 98,
+  "tone": "F minor",
+  "artistPeople": [
+    "Mila Moskov"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lazar Cvetkoski"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Magdalena Cvetkoska"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

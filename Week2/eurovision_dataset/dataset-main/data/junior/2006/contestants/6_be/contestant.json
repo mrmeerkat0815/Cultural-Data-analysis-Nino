@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "country": "BE",
+  "artist": "Thor!",
+  "song": "Een tocht door het donker",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4ftm_Oxnwxw",
+    "https://www.youtube-nocookie.com/embed/NABKyZiAh3s"
+  ],
+  "bpm": 134,
+  "tone": "C major",
+  "artistPeople": [
+    "Thor Salden"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Thor Salden"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4,
+  "country": "ES",
+  "artist": "Azúcar Moreno",
+  "song": "Bandido",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7dGysPC_q9k",
+    "https://www.youtube-nocookie.com/embed/y2EYjCGd0ss",
+    "https://www.youtube-nocookie.com/embed/HfJPUluHLJI",
+    "https://www.youtube-nocookie.com/embed/XEZvKOAYoH4"
+  ],
+  "bpm": 128,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Encarnación Salazar Salazar",
+    "Antonia Salazar Salazar"
+  ],
+  "backings": [
+    "José 'Pepe' Marchante",
+    "Ricardo Batista"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jaime Stinus",
+    "Raúl Orellana"
+  ],
+  "conductor": "Eduardo Leiva",
+  "lyricists": [
+    "José Luis Abel"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Luis Cobos"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

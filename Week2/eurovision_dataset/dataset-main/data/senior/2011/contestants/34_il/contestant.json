@@ -1,0 +1,29 @@
+{
+  "id": 34,
+  "country": "IL",
+  "artist": "Dana International",
+  "song": "Ding Dong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gkopelCFFF0",
+    "https://www.youtube-nocookie.com/embed/6fJzprA9e6U",
+    "https://www.youtube-nocookie.com/embed/JmBMQJlzTa4"
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "artistPeople": [
+    "Sharon Cohen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dana International"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ofer Nachshon"
+}

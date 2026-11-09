@@ -1,0 +1,48 @@
+{
+  "id": 29,
+  "country": "EE",
+  "artist": "Tanja",
+  "song": "Amazing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wi9Q1ufjooE",
+    "https://www.youtube-nocookie.com/embed/tG5by63x_MA",
+    "https://www.youtube-nocookie.com/embed/TDeoEaxCKDE",
+    "https://www.youtube-nocookie.com/embed/2MqojuvtU3c",
+    "https://www.youtube-nocookie.com/embed/hOJBhVnfGnc"
+  ],
+  "bpm": 128,
+  "tone": "C minor",
+  "artistPeople": [
+    "Tatjana Mihhailova-Saar"
+  ],
+  "backings": [
+    "Kaire Vilgats",
+    "Marilin Kongo",
+    "Marvi Vallaste"
+  ],
+  "dancers": [
+    "Argo Liik"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Tatjana Mihhailova-Saar",
+    "Timo Vendt"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tatjana Mihhailova-Saar"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Alar Kotkas",
+    "Laura Remmel",
+    "Marju Länik",
+    "Rasmus Rändvee",
+    "Rauno Märks"
+  ],
+  "spokesperson": "Lauri Pihlap"
+}

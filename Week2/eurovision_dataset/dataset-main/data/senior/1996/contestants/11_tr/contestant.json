@@ -1,0 +1,40 @@
+{
+  "id": 11,
+  "country": "TR",
+  "artist": "Şebnem Paker",
+  "song": "Beşinci mevsim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Blywpx1ZqOA",
+    "https://www.youtube-nocookie.com/embed/RksS0AcWgoU",
+    "https://www.youtube-nocookie.com/embed/vT8mfXSpFw0",
+    "https://www.youtube-nocookie.com/embed/hfitSBONwC8",
+    "https://www.youtube-nocookie.com/embed/lI0-cScxF_s"
+  ],
+  "bpm": 89,
+  "tone": "C minor",
+  "artistPeople": [
+    "Şebnem Paker"
+  ],
+  "backings": [
+    "Emel Akçay",
+    "Handan Özkan",
+    "Nezih Yeşilnil",
+    "Yavuz Alkan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Levent Çoker"
+  ],
+  "conductor": "Levent Çoker",
+  "lyricists": [
+    "Selma Çuhacı"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Ömer Önder"
+}

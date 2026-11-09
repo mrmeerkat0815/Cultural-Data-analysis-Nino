@@ -1,0 +1,33 @@
+{
+  "id": 9,
+  "country": "SE",
+  "artist": "Ingvar Wixell",
+  "song": "Absent Friend",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cSXM_tBp3tA",
+    "https://www.youtube-nocookie.com/embed/1vrfQx70c2U",
+    "https://www.youtube-nocookie.com/embed/639wAfFYgxE"
+  ],
+  "bpm": 123,
+  "tone": "E minor",
+  "artistPeople": [
+    "Ingvar Wixell"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dag Wirén"
+  ],
+  "conductor": "William Lind",
+  "lyricists": [
+    "Alf Henriksson"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Berndt Friberg"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

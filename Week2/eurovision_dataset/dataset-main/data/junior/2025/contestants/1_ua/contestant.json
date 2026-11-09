@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "country": "UA",
+  "artist": "Sofia Nersesian",
+  "song": "Motanka",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WHhOhs5ta84"
+  ],
+  "bpm": 125,
+  "tone": "F minor",
+  "artistPeople": [
+    "Sofia Nersesian"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Svitlana Tarabarova"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

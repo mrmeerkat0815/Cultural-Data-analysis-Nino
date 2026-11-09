@@ -1,0 +1,30 @@
+{
+  "id": 2,
+  "country": "GE",
+  "artist": "Anita Abgariani",
+  "song": "Shine Like a Star",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9FBsjdbpt-s"
+  ],
+  "bpm": 166,
+  "tone": "B minor",
+  "artistPeople": [
+    "Anita Abgariani"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giga Kukhianidze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Giga Kukhianidze",
+    "Mariam Ghvaladze"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

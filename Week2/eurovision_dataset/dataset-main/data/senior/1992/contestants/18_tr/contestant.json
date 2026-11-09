@@ -1,0 +1,37 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Aylin Vatankoş",
+  "song": "Yaz bitti",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/td7rqo9rkI8",
+    "https://www.youtube-nocookie.com/embed/22y0bFfvGrs",
+    "https://www.youtube-nocookie.com/embed/GS8S69-H8JA"
+  ],
+  "bpm": 106,
+  "tone": "G major",
+  "artistPeople": [
+    "Aylin Vatankoş"
+  ],
+  "backings": [
+    "Aldoğan Şimşekyay",
+    "Kemal Şimşekyay",
+    "Uğur Şimşekyay"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aldoğan Şimşekyay"
+  ],
+  "conductor": "Aydın Özarı",
+  "lyricists": [
+    "Aylin Uçanlar"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Korhan Abay"
+}

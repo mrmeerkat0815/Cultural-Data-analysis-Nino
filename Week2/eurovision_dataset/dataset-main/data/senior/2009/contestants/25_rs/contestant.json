@@ -1,0 +1,47 @@
+{
+  "id": 25,
+  "country": "RS",
+  "artist": "Marko Kon & Milaan",
+  "song": "Cipela",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0DmL0gqi0Jk",
+    "https://www.youtube-nocookie.com/embed/DRObP8XE4Ko"
+  ],
+  "bpm": 140,
+  "tone": "F minor",
+  "artistPeople": [
+    "Marko Kon",
+    "Milan 'Milaan' Nikolić"
+  ],
+  "backings": [
+    "Igor Knežević",
+    "Jovan Sejnjanović",
+    "Katarina Gromilić",
+    "Ljubiša Dinčić"
+  ],
+  "dancers": null,
+  "stageDirector": "Mojca Horvat",
+  "composers": [
+    "Aleksandar Milanović Kobac",
+    "Marko Kon",
+    "Milan 'Milaan' Nikolić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Marko Kon"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Dragan Ilić",
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": [
+    "Aleksandar Sedlar Bogoev",
+    "Bilja Krstić",
+    "Jelena Tomašević",
+    "Marko Đorđević",
+    "Vlada Maričić"
+  ],
+  "spokesperson": "Jovana Janković"
+}

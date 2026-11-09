@@ -1,0 +1,39 @@
+{
+  "id": 10,
+  "country": "ES",
+  "artist": "La Década",
+  "song": "La chica que yo quiero (Made in Spain)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vl4OK6LLkY8",
+    "https://www.youtube-nocookie.com/embed/v9hudKHv3RQ",
+    "https://www.youtube-nocookie.com/embed/vZUTvyFDvNc",
+    "https://www.youtube-nocookie.com/embed/2F_sAggdFLE"
+  ],
+  "bpm": 103,
+  "tone": "D major",
+  "artistPeople": [
+    "Ana Nery Fragoso López",
+    "Carmelo Martínez López",
+    "Cecilia Fernández Blanco",
+    "José Miguel Gómez Subiza",
+    "Manuel Aguilar",
+    "Manuel Santisteban"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Enrique Peiró"
+  ],
+  "conductor": "Javier de Juan",
+  "lyricists": [
+    "Francisco Dondiego"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

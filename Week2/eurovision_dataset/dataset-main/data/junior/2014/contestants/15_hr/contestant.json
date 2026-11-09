@@ -1,0 +1,28 @@
+{
+  "id": 15,
+  "country": "HR",
+  "artist": "Josie",
+  "song": "Game Over",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bTrTLokKVAw",
+    "https://www.youtube-nocookie.com/embed/e2ENQUFcfhw"
+  ],
+  "bpm": 130,
+  "tone": "G major",
+  "artistPeople": [
+    "Josephine Ida Zec"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Josephine Ida Zec"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

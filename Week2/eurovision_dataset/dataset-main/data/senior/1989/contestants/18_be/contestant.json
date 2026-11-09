@@ -1,0 +1,35 @@
+{
+  "id": 18,
+  "country": "BE",
+  "artist": "Ingeborg",
+  "song": "Door de wind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yxgMOj24ETs",
+    "https://www.youtube-nocookie.com/embed/0V3kHw1JbTM",
+    "https://www.youtube-nocookie.com/embed/Rg5pzIEvR_g",
+    "https://www.youtube-nocookie.com/embed/1NyLggOatZ4"
+  ],
+  "bpm": 127,
+  "tone": "C# major",
+  "artistPeople": [
+    "Ingeborg Sergeant"
+  ],
+  "backings": [
+    "Stef Bos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Freddy Sunder",
+  "lyricists": null,
+  "writers": [
+    "Stef Bos"
+  ],
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
+}

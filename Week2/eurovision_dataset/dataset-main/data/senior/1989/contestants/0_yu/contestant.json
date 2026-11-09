@@ -1,0 +1,41 @@
+{
+  "id": 0,
+  "country": "YU",
+  "artist": "Riva",
+  "song": "Rock Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZWwmCT7P3VE",
+    "https://www.youtube-nocookie.com/embed/jOJO_Bmb98Q",
+    "https://www.youtube-nocookie.com/embed/XXAHZfZlC_8",
+    "https://www.youtube-nocookie.com/embed/n4NzMa8rP_c",
+    "https://www.youtube-nocookie.com/embed/8Pt5RRVL1do"
+  ],
+  "bpm": 147,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Boško Colić",
+    "Dalibor Musap",
+    "Emilija Kokić",
+    "Nenad Nakić",
+    "Zvonimir Zrilić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rajko Dujmić"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "lyricists": [
+    "Stevo Cvikić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Miša Molk",
+    "Mladen Popović",
+    "Oliver Mlakar"
+  ],
+  "jury": null,
+  "spokesperson": "Dijana Čulić"
+}

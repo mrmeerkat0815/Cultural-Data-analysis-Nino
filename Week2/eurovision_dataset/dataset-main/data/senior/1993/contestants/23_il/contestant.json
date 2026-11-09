@@ -1,0 +1,39 @@
+{
+  "id": 23,
+  "country": "IL",
+  "artist": "Lakahat Shiru",
+  "song": "Shiru",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Wep9Ce5qKFc",
+    "https://www.youtube-nocookie.com/embed/e42PQtVRVGQ",
+    "https://www.youtube-nocookie.com/embed/13apqNJDKrI"
+  ],
+  "bpm": 131,
+  "tone": "C major",
+  "artistPeople": [
+    "Benny Nadler",
+    "Guy Bracha",
+    "Julia Proiter",
+    "Rachel Haim",
+    "Sarah Sharon"
+  ],
+  "backings": [
+    "Varda Zamir"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Shaike Paikov"
+  ],
+  "conductor": "Amir Frohlich",
+  "lyricists": [
+    "Yoram Taharlev"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": [
+    "Daniel Pe'er"
+  ],
+  "jury": null,
+  "spokesperson": "Danny Rup"
+}

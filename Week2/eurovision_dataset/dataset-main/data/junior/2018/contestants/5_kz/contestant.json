@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "country": "KZ",
+  "artist": "Daneliya Tuleshova",
+  "song": "Òzińe Sen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gtx8qoE4bt8",
+    "https://www.youtube-nocookie.com/embed/zkSusLAc3mE",
+    "https://www.youtube-nocookie.com/embed/jJF3OcYOFb8"
+  ],
+  "bpm": 103,
+  "tone": "C# major",
+  "artistPeople": [
+    "Daneliya Tuleshova"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivan Lopukhov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Artyom Kuz'menkov",
+    "Daneliya Tuleshova",
+    "Kamila Dairova"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

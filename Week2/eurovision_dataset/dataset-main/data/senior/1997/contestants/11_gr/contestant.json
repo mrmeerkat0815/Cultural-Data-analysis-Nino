@@ -1,0 +1,35 @@
+{
+  "id": 11,
+  "country": "GR",
+  "artist": "Marianna Zorba",
+  "song": "Horepse",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JE7z2PhlKNE",
+    "https://www.youtube-nocookie.com/embed/LnOFpKNLvWg"
+  ],
+  "bpm": 115,
+  "tone": "E minor",
+  "artistPeople": [
+    "Marianna Zorba"
+  ],
+  "backings": [
+    "Dimitris Margiolas",
+    "Nikos Katsikis",
+    "Petros Kourtis",
+    "Vladimir Pettas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anacreon Papageorgiou",
+  "lyricists": null,
+  "writers": [
+    "Manolis Manusselis"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Niki Venega"
+}

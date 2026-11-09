@@ -1,0 +1,39 @@
+{
+  "id": 5,
+  "country": "IE",
+  "artist": "Eamonn Toal",
+  "song": "Millennium Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hE6J_t1pm0U",
+    "https://www.youtube-nocookie.com/embed/flvW-L2PL6w",
+    "https://www.youtube-nocookie.com/embed/qJCWPWZrNIg"
+  ],
+  "bpm": 151,
+  "tone": "A major",
+  "artistPeople": [
+    "Eamonn Toal"
+  ],
+  "backings": [
+    "Carol Keating",
+    "Gerry Simpson",
+    "Louise Byrne",
+    "Margot Daly",
+    "Stephen Moran"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gerry Simpson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Raymond J. Smyth"
+  ],
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Derek Mooney"
+}

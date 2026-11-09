@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "country": "IT",
+  "artist": "Matia Bazar",
+  "song": "Raggio di luna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TmZjRDy5-ds",
+    "https://www.youtube-nocookie.com/embed/gNANszOGVe0",
+    "https://www.youtube-nocookie.com/embed/v5D5IYxL5cE",
+    "https://www.youtube-nocookie.com/embed/7YBJJ97mOVM"
+  ],
+  "bpm": 100,
+  "tone": "E major",
+  "artistPeople": [
+    "Aldo Stellita",
+    "Antonietta Ruggiero",
+    "Carlo Marrale",
+    "Giancarlo Golzi",
+    "Piero Cassano"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Antonella Ruggiero",
+    "Carlo Marrale",
+    "Piero Cassano"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Giancarlo Golzi",
+    "Salvatore Stellita"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Paola Perissi"
+}

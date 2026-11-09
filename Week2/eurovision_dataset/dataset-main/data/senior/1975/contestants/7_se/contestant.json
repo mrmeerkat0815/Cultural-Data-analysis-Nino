@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "country": "SE",
+  "artist": "Lars Berghagen and the Dolls",
+  "song": "Jennie, Jennie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8SzFkI2dsD4",
+    "https://www.youtube-nocookie.com/embed/0o2ks5Ay24o",
+    "https://www.youtube-nocookie.com/embed/Q6OWz5sqYxU",
+    "https://www.youtube-nocookie.com/embed/Ofw5q7WYMpk",
+    "https://www.youtube-nocookie.com/embed/espRrQthTvM"
+  ],
+  "bpm": 96,
+  "tone": "G minor",
+  "artistPeople": [
+    "Lars Berghagen"
+  ],
+  "backings": [
+    "Annica Risberg",
+    "Kerstin Bagge",
+    "Kerstin Dahl"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Lars Samuelson",
+  "lyricists": null,
+  "writers": [
+    "Lars Berghagen"
+  ],
+  "broadcaster": "SR",
+  "commentators": [
+    "Åke Strömmer"
+  ],
+  "jury": null,
+  "spokesperson": "Sven Lindahl"
+}

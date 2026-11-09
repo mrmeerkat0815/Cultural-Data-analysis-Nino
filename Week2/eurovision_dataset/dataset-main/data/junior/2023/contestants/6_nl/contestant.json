@@ -1,0 +1,34 @@
+{
+  "id": 6,
+  "country": "NL",
+  "artist": "Sep & Jasmijn",
+  "song": "Holding On To You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dXSqK52uf7Q",
+    "https://www.youtube-nocookie.com/embed/meeR7Ohsb8A",
+    "https://www.youtube-nocookie.com/embed/sbyLstoPpP0",
+    "https://www.youtube-nocookie.com/embed/zh9oKJOZX0w",
+    "https://www.youtube-nocookie.com/embed/96eB9nl8bLg",
+    "https://www.youtube-nocookie.com/embed/DW63VZoKkgg",
+    "https://www.youtube-nocookie.com/embed/9piC9V0KfeA"
+  ],
+  "bpm": 128,
+  "tone": "C# major",
+  "artistPeople": [
+    "Sep Jansen",
+    "Jasmijn Torrico"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Robert Dorn"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

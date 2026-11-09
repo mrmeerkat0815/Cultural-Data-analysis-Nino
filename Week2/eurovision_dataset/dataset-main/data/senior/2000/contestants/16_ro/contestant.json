@@ -1,0 +1,36 @@
+{
+  "id": 16,
+  "country": "RO",
+  "artist": "Taxi",
+  "song": "The Moon",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GdUaK3KHN4E",
+    "https://www.youtube-nocookie.com/embed/j4dVW9mFdaE",
+    "https://www.youtube-nocookie.com/embed/5Fh5mJNzCss",
+    "https://www.youtube-nocookie.com/embed/5jP-pZLBINM"
+  ],
+  "bpm": 139,
+  "tone": "C major",
+  "artistPeople": [
+    "Adrian Borțun",
+    "Dan Teodorescu",
+    "George Pătrănoiu",
+    "Georgiana Pană",
+    "Lucian Cioargă"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dan Teodorescu"
+  ],
+  "broadcaster": "TVR",
+  "commentators": [
+    "Leonard Miron"
+  ],
+  "jury": null,
+  "spokesperson": "Andreea Marin"
+}

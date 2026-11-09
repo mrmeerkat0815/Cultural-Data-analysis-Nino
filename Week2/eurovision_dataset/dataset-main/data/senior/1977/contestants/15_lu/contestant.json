@@ -1,0 +1,38 @@
+{
+  "id": 15,
+  "country": "LU",
+  "artist": "Anne Marie B.",
+  "song": "Frère Jacques",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Saa19OzePr4",
+    "https://www.youtube-nocookie.com/embed/IynMAOyN9LI",
+    "https://www.youtube-nocookie.com/embed/BpR9KNEpWf0",
+    "https://www.youtube-nocookie.com/embed/Ms2LIfT9NRQ"
+  ],
+  "bpm": 125,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Anne-Marie Besse"
+  ],
+  "backings": [
+    "Anne Vassiliu",
+    "Annie Chouard",
+    "Chantal Stiruk",
+    "Lilliane Davies"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Johnny Arthey",
+  "lyricists": null,
+  "writers": [
+    "Guy Béart",
+    "Pierre Cour"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

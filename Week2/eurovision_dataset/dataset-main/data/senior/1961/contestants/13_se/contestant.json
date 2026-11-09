@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "country": "SE",
+  "artist": "Lill-Babs",
+  "song": "April, april",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JzldSvZG6cc",
+    "https://www.youtube-nocookie.com/embed/LpmpPqRvblo",
+    "https://www.youtube-nocookie.com/embed/xq78UMaseS0"
+  ],
+  "bpm": 133,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Barbro Margareta Svensson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobbie Ericsson"
+  ],
+  "conductor": "Thore Ehrling",
+  "lyricists": [
+    "Bo Eneby"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "jury": null,
+  "spokesperson": "Roland Eiworth"
+}

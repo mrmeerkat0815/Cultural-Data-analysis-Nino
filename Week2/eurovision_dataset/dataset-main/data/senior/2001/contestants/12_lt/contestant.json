@@ -1,0 +1,36 @@
+{
+  "id": 12,
+  "country": "LT",
+  "artist": "Skamp",
+  "song": "You Got Style",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m2m-SyMy3rU",
+    "https://www.youtube-nocookie.com/embed/QXh0ehs1uJk"
+  ],
+  "bpm": 120,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Erica Quinn Jennings",
+    "Viktoras Diawara",
+    "Vilius Alesius"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Viktoras Diawara"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Erica Quinn Jennings",
+    "Viktoras Diawara",
+    "Vilius Alesius"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Loreta Tarozaitė"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4,
+  "country": "FR",
+  "artist": "Carla",
+  "song": "Bim Bam Toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BYQFqHGAdto",
+    "https://www.youtube-nocookie.com/embed/pWT_U6mEadQ"
+  ],
+  "bpm": 123,
+  "tone": "C# major",
+  "artistPeople": [
+    "Carla Lazzari"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Barbara Pravi",
+    "Igit"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

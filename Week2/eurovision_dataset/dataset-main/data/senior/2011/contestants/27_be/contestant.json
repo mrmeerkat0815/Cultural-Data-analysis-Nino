@@ -1,0 +1,39 @@
+{
+  "id": 27,
+  "country": "BE",
+  "artist": "Witloof Bay",
+  "song": "With Love Baby",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nTLAzDVu80E",
+    "https://www.youtube-nocookie.com/embed/ZD09ThCx4Cw",
+    "https://www.youtube-nocookie.com/embed/RiwNq22TWdQ"
+  ],
+  "bpm": 178,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alexia Saffery",
+    "Benoît Giaux",
+    "Etienne Debaisieux",
+    "Florence Huby",
+    "Nicolas Dorian",
+    "Senjka Danhieux"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Benoît Giaux",
+    "RoxorLoops"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Louis Lahaye",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Maureen Louys"
+}

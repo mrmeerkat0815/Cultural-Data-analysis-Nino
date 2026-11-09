@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "country": "DK",
+  "artist": "Ulla Pia",
+  "song": "Stop, mens legen er go'",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XrR8OkoX4y0",
+    "https://www.youtube-nocookie.com/embed/FqICQUHkcGA"
+  ],
+  "bpm": 155,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ulla Pia Berndorf Nielsen"
+  ],
+  "backings": null,
+  "dancers": [
+    "Steen Hasle",
+    "Ulla Pedersen"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Arne Lamberth",
+  "lyricists": null,
+  "writers": [
+    "Erik Kåre"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Skat Nørrevig"
+  ],
+  "jury": null,
+  "spokesperson": "Claus Toksvig"
+}

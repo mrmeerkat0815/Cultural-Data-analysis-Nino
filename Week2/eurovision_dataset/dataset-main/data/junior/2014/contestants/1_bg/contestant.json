@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "country": "BG",
+  "artist": "Krisia, Hasan & Ibrahim",
+  "song": "Planet of the Children",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hBB9f3YdGEs",
+    "https://www.youtube-nocookie.com/embed/gsQurxrp2i4"
+  ],
+  "bpm": 71,
+  "tone": "A minor",
+  "artistPeople": [
+    "Krisia",
+    "Hasan & Ibrahim"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Evgeni Dimitrov",
+    "Krisia Tododrova",
+    "Slavi Trifonov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ivaylo Vulchev",
+    "Krisia Todorova"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

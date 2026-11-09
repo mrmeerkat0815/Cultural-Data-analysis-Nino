@@ -1,0 +1,38 @@
+{
+  "id": 19,
+  "country": "SK",
+  "artist": "Martin Ďurinda & Tublatanka",
+  "song": "Nekonečná pieseň",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qmuH_AIkGpY",
+    "https://www.youtube-nocookie.com/embed/XQCbz8j6jio"
+  ],
+  "bpm": 128,
+  "tone": "D major",
+  "artistPeople": [
+    "Jozef Dubán",
+    "Juraj Černý",
+    "Juraj Topor",
+    "Martin 'Maťo' Ďurinda"
+  ],
+  "backings": [
+    "Ingrid Vranovičová",
+    "Kvetoslava Kmotorková"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Martin 'Maťo' Ďurinda"
+  ],
+  "conductor": "Vladimir Valović",
+  "lyricists": [
+    "Martin Sarvaš"
+  ],
+  "writers": null,
+  "broadcaster": "STV",
+  "commentators": [
+    "Alena Heribanová"
+  ],
+  "jury": null,
+  "spokesperson": "Juraj Čurný"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3,
+  "country": "MC",
+  "artist": "Caline and Olivier Toussaint",
+  "song": "Les jardins de Monaco",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bUgJ2xCyqYc",
+    "https://www.youtube-nocookie.com/embed/KcGiz8QDOhw",
+    "https://www.youtube-nocookie.com/embed/ezIz0v37UPk",
+    "https://www.youtube-nocookie.com/embed/_urzaegIT6Q"
+  ],
+  "bpm": 135,
+  "tone": "C minor",
+  "artistPeople": [
+    "Corinne Colbert",
+    "Olivier Toussaint"
+  ],
+  "backings": [
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Martine Latorre"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Olivier Toussaint",
+    "Paul de Senneville"
+  ],
+  "conductor": "Yvon Rioland",
+  "lyricists": [
+    "Didier Barbelivien",
+    "Jean Albertini"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Denise Fabre",
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": "Carole Chabrier"
+}

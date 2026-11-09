@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "country": "AT",
+  "artist": "Udo Jürgens",
+  "song": "Merci Chérie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/py7osl51W8A",
+    "https://www.youtube-nocookie.com/embed/EOwZ1xu7suE",
+    "https://www.youtube-nocookie.com/embed/r7gPRSdv_as",
+    "https://www.youtube-nocookie.com/embed/aVMbip87NQM",
+    "https://www.youtube-nocookie.com/embed/l3LAykGBfgM",
+    "https://www.youtube-nocookie.com/embed/jHL8VbGHOSA",
+    "https://www.youtube-nocookie.com/embed/Z3-sET1Bs9o"
+  ],
+  "bpm": 153,
+  "tone": "F major",
+  "artistPeople": [
+    "Jürgen Udo Bockelmann"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Udo Jürgens"
+  ],
+  "conductor": "Hans Hammerschmid",
+  "lyricists": [
+    "Thomas Hörbiger",
+    "Udo Jürgens"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Willy Kralik"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

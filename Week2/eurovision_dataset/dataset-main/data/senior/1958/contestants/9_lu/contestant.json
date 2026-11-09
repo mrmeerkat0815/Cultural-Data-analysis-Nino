@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "LU",
+  "artist": "Solange Berry",
+  "song": "Un grand amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_1SsaR6Yii8",
+    "https://www.youtube-nocookie.com/embed/6BmkOTN89pU"
+  ],
+  "bpm": 143,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Solange Berry"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michel Eric"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Monique Laniece",
+    "Raymond Roche"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Pierre Bellemare"
+}

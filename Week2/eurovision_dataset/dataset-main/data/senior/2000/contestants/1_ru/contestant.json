@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "country": "RU",
+  "artist": "Alsou",
+  "song": "Solo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ISHSkWFHcI0",
+    "https://www.youtube-nocookie.com/embed/I7pZQ1T20xA",
+    "https://www.youtube-nocookie.com/embed/9uXdMIJCDVs"
+  ],
+  "bpm": 105,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Alsou Ralifovna Abramova (Алсу́ Рали́фовна Абра́мова)"
+  ],
+  "backings": [
+    "Beverley Skeete"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrew Lane",
+    "Brandon Barnes"
+  ],
+  "broadcaster": "C1R",
+  "commentators": [
+    "Aleksej Zhuravlev",
+    "Tatjana Godunova"
+  ],
+  "jury": null,
+  "spokesperson": "Zhanna Agalakova"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 11,
+  "country": "NL",
+  "artist": "Heddy Lester",
+  "song": "De mallemolen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B27TwLxbWms",
+    "https://www.youtube-nocookie.com/embed/rrcbUNuSJl0",
+    "https://www.youtube-nocookie.com/embed/90hpzizL3x8",
+    "https://www.youtube-nocookie.com/embed/KdcOZSGL4JY",
+    "https://www.youtube-nocookie.com/embed/NVUmoIPm6GY"
+  ],
+  "bpm": 100,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Heddy Affolter"
+  ],
+  "backings": [
+    "Carmen Affolter",
+    "Titia Dekker",
+    "Wanda Stellaard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Frank Affolter"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Wim Hogenkamp"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Ati Dijckmeester"
+  ],
+  "jury": null,
+  "spokesperson": "Ralph Inbar"
+}

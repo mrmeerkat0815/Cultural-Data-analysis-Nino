@@ -1,0 +1,41 @@
+{
+  "id": 42,
+  "country": "NL",
+  "artist": "3JS",
+  "song": "Never Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oJ6T43D82KY",
+    "https://www.youtube-nocookie.com/embed/DgeSSI-oyw0",
+    "https://www.youtube-nocookie.com/embed/NGKQ5q3MvmA",
+    "https://www.youtube-nocookie.com/embed/VnnXiuT530M"
+  ],
+  "bpm": 98,
+  "tone": "C major",
+  "artistPeople": [
+    "Jaap Schilder",
+    "Jaap Kwakman",
+    "Jan Keuken"
+  ],
+  "backings": [
+    "Brian Zalmijn",
+    "Lesley van der Aa",
+    "Michèle van der Aa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jaap de Witte",
+    "Jaap Kwakman",
+    "Jan Dulles"
+  ],
+  "broadcaster": "TROS",
+  "commentators": [
+    "Daniël Dekker",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Mandy Huydts"
+}

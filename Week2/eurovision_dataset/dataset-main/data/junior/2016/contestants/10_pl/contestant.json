@@ -1,0 +1,30 @@
+{
+  "id": 10,
+  "country": "PL",
+  "artist": "Olivia Wieczorek",
+  "song": "Nie zapomnij",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iF8o-tBllV8",
+    "https://www.youtube-nocookie.com/embed/MBTfmqAKtuQ"
+  ],
+  "bpm": 120,
+  "tone": "G major",
+  "artistPeople": [
+    "Olivia Wieczorek"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Piotr Rubik"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dominik Grabowski"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

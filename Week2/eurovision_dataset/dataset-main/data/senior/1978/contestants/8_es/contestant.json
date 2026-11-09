@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "ES",
+  "artist": "José Vélez",
+  "song": "Bailemos un vals",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-NC7WTTgwxM",
+    "https://www.youtube-nocookie.com/embed/aF51zK6NDjY",
+    "https://www.youtube-nocookie.com/embed/EfMypa08-WQ",
+    "https://www.youtube-nocookie.com/embed/ynOzhIuUN-o"
+  ],
+  "bpm": 105,
+  "tone": "C major",
+  "artistPeople": [
+    "José Vélez"
+  ],
+  "backings": [
+    "María Dolores Arenas",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ramón Arcusa",
+  "lyricists": null,
+  "writers": [
+    "Manuel de la Calva",
+    "Ramón Arcusa"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "jury": null,
+  "spokesperson": "Matías Prats Luque"
+}

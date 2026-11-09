@@ -1,0 +1,38 @@
+{
+  "id": 7,
+  "country": "SE",
+  "artist": "Chips",
+  "song": "Dag efter dag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SWrHV-r5adQ",
+    "https://www.youtube-nocookie.com/embed/HCzT4dAvTQY",
+    "https://www.youtube-nocookie.com/embed/ytOcXG29Aec",
+    "https://www.youtube-nocookie.com/embed/RO6dTEUyKVo"
+  ],
+  "bpm": 132,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen",
+    "Kikki Danielsson"
+  ],
+  "backings": [
+    "Lasse Holm",
+    "Rutger Gunnarsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lasse Holm"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Monica Forsberg"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Arne Weise"
+}

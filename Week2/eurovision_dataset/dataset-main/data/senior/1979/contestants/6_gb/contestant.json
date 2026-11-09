@@ -1,0 +1,34 @@
+{
+  "id": 6,
+  "country": "GB",
+  "artist": "Black Lace",
+  "song": "Mary Ann",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nRn-Ia_tpBs",
+    "https://www.youtube-nocookie.com/embed/IeXd1LDH4D8",
+    "https://www.youtube-nocookie.com/embed/eef1nkA94DE"
+  ],
+  "bpm": 162,
+  "tone": "C major",
+  "artistPeople": [
+    "Alan Barton",
+    "Colin Routh",
+    "Stephen Scholey",
+    "Terence Dobson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ken Jones",
+  "lyricists": null,
+  "writers": [
+    "Peter Morris"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "John Dunn"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

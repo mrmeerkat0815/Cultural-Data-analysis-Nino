@@ -1,0 +1,43 @@
+{
+  "id": 0,
+  "country": "NL",
+  "artist": "Teach-In",
+  "song": "Ding-a-dong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BPxuq4uQ0OU",
+    "https://www.youtube-nocookie.com/embed/ug9fbmUMh2k",
+    "https://www.youtube-nocookie.com/embed/NS5YbcxKmPc",
+    "https://www.youtube-nocookie.com/embed/jrARulVXZis",
+    "https://www.youtube-nocookie.com/embed/4IZKrBD_7eM",
+    "https://www.youtube-nocookie.com/embed/MA6RDFgAQsY",
+    "https://www.youtube-nocookie.com/embed/OgPXrsvG4ko"
+  ],
+  "bpm": 139,
+  "tone": "C major",
+  "artistPeople": [
+    "Ard Weeink",
+    "Chris de Wolde",
+    "Getty Kaspers",
+    "John Gaasbeek",
+    "Koos Versteeg",
+    "Rudi Nijhuis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dick Bakker"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Eddy Ouwens",
+    "Will Luikinga"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
+}

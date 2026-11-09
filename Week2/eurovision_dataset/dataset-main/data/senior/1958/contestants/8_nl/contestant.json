@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Corry Brokken",
+  "song": "Heel de wereld",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jbrqR2E8WUk",
+    "https://www.youtube-nocookie.com/embed/p4d5WIIV1HY",
+    "https://www.youtube-nocookie.com/embed/8iZf7LYiIAg"
+  ],
+  "bpm": 164,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Corry Brokken"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dolf van der Linden",
+  "lyricists": null,
+  "writers": [
+    "Benny Vreden"
+  ],
+  "broadcaster": "NTS",
+  "commentators": [
+    "Siebe van der Zee"
+  ],
+  "jury": null,
+  "spokesperson": "Piet te Nuyl Jr."
+}

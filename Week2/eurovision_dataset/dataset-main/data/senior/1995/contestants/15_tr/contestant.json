@@ -1,0 +1,38 @@
+{
+  "id": 15,
+  "country": "TR",
+  "artist": "Arzu Ece",
+  "song": "Sev!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WGm8jAoG89E",
+    "https://www.youtube-nocookie.com/embed/eu6d7yKBdBE",
+    "https://www.youtube-nocookie.com/embed/HamP7mfT6R4",
+    "https://www.youtube-nocookie.com/embed/Qorj0opAiBw"
+  ],
+  "bpm": 92,
+  "tone": "G major",
+  "artistPeople": [
+    "Arzu Ece"
+  ],
+  "backings": [
+    "Ece Sandallı",
+    "Füsun Coşkun",
+    "Sertan Belciler"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Melih Kibar"
+  ],
+  "conductor": "Melih Kibar",
+  "lyricists": [
+    "Zeynep Talu Kurşuncu"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Ömer Önder"
+}

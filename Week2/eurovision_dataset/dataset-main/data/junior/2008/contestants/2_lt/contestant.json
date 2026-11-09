@@ -1,0 +1,26 @@
+{
+  "id": 2,
+  "country": "LT",
+  "artist": "Eglė Jurgaitytė",
+  "song": "Laiminga diena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iqED7opJFgQ",
+    "https://www.youtube-nocookie.com/embed/XIXIzKhxD8Q"
+  ],
+  "bpm": 125,
+  "tone": "B major",
+  "artistPeople": [
+    "Eglė Jurgaitytė"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": 17,
+  "country": "ES",
+  "artist": "Serafín Zubiri",
+  "song": "Colgado de un sueño",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UulDX2lWHJw",
+    "https://www.youtube-nocookie.com/embed/0CX5wdO6Mn8",
+    "https://www.youtube-nocookie.com/embed/kdTyNh0phos"
+  ],
+  "bpm": 114,
+  "tone": "C major",
+  "artistPeople": [
+    "Serafín Lizoain Vidondo"
+  ],
+  "backings": [
+    "Adel Hakki",
+    "Ángel Mora",
+    "Paloma Blanco",
+    "Susan Martín"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "José María Purón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Hugo de Campos"
+}

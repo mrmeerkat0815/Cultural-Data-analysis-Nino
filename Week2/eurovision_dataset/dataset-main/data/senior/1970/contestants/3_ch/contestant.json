@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "country": "CH",
+  "artist": "Henri Dès",
+  "song": "Retour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/X0ItTfqLk1I",
+    "https://www.youtube-nocookie.com/embed/zwyWE16GxH8",
+    "https://www.youtube-nocookie.com/embed/MJIYRZhofhs",
+    "https://www.youtube-nocookie.com/embed/-a1XrdwQBEs",
+    "https://www.youtube-nocookie.com/embed/43SUKiNQ-Eg"
+  ],
+  "bpm": 137,
+  "tone": "F major",
+  "artistPeople": [
+    "Henri Destraz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Bernard Gérard",
+  "lyricists": null,
+  "writers": [
+    "Henri Dès"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "country": "CY",
+  "artist": "Rafaella & Christos",
+  "song": "Away",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3jKDA0Bx-9c"
+  ],
+  "bpm": 124,
+  "tone": "A♯ minor",
+  "artistPeople": [
+    "Rafaella Panteli",
+    "Christos Georgiou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andy Lys",
+    "Christopher Wortley",
+    "Greig Watts",
+    "Hannah Brine",
+    "Paul Drew",
+    "Peter Barringer"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

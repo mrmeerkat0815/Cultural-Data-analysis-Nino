@@ -1,0 +1,47 @@
+{
+  "id": 15,
+  "country": "BE",
+  "artist": "Clouseau",
+  "song": "Geef Het Op",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lPq4lGJAemI",
+    "https://www.youtube-nocookie.com/embed/L2GrHdFKFhM",
+    "https://www.youtube-nocookie.com/embed/cGiT6h7q7NQ",
+    "https://www.youtube-nocookie.com/embed/2Bnlk13_4A4"
+  ],
+  "bpm": 135,
+  "tone": "E major",
+  "artistPeople": [
+    "Robert Savenberg",
+    "Koen Wauters",
+    "Kris Wauters"
+  ],
+  "backings": [
+    "Jan Leyers",
+    "Karel Theys",
+    "Paul Poelmans"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Roland Verloven",
+  "lyricists": null,
+  "writers": [
+    "Bob Savenberg",
+    "Jan Leyers",
+    "Koen Wauters",
+    "Kris Wauters"
+  ],
+  "broadcaster": "BRT",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": [
+    "Lou Roman",
+    "Nelly Byl",
+    "Patrick Hiketick",
+    "Rik Vervecken"
+  ],
+  "spokesperson": "Anne Ploegaerts"
+}

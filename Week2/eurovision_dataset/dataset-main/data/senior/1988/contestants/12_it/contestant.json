@@ -1,0 +1,30 @@
+{
+  "id": 12,
+  "country": "IT",
+  "artist": "Luca Barbarossa",
+  "song": "Ti scrivo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/R9WeTphAYQE",
+    "https://www.youtube-nocookie.com/embed/tEgQcm7PHIM"
+  ],
+  "bpm": 128,
+  "tone": "E major",
+  "artistPeople": [
+    "Luca Barbarossa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Luca Barbarossa"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Daniele Piombi"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
+}

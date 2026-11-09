@@ -1,0 +1,42 @@
+{
+  "id": 5,
+  "country": "EE",
+  "artist": "Evelin Samuel & Camille",
+  "song": "Diamond Of Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GY4Vh-ROPu8",
+    "https://www.youtube-nocookie.com/embed/ylqeC4eC6sc",
+    "https://www.youtube-nocookie.com/embed/pXOg8J9-3DA",
+    "https://www.youtube-nocookie.com/embed/cvcIe92Aysc",
+    "https://www.youtube-nocookie.com/embed/PINg8fx7XHU",
+    "https://www.youtube-nocookie.com/embed/tdMn7Wpw5Z4"
+  ],
+  "bpm": 140,
+  "tone": "C# major",
+  "artistPeople": [
+    "Imbi Rätsep",
+    "Evelin Samuel"
+  ],
+  "backings": [
+    "Anneli Tõevere",
+    "Maian-Anna Kärmas",
+    "Saale Kivimaaker"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Glen Pilvre",
+    "Priit Pajusaar"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Maian-Anna Kärmas"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Mart Sander"
+}

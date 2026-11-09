@@ -1,0 +1,36 @@
+{
+  "id": 4,
+  "country": "NO",
+  "artist": "Silje Vige",
+  "song": "Alle mine tankar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/h74oY9bfvOw",
+    "https://www.youtube-nocookie.com/embed/KMfw_tEqXhs",
+    "https://www.youtube-nocookie.com/embed/mtnp1-l7RWw",
+    "https://www.youtube-nocookie.com/embed/dSO5zRXCsFQ"
+  ],
+  "bpm": 112,
+  "tone": "F minor",
+  "artistPeople": [
+    "Silje Vige"
+  ],
+  "backings": [
+    "Hilde Kjeldsen",
+    "Lakis Karnezis",
+    "Tom Lund"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rolf Løvland",
+  "lyricists": null,
+  "writers": [
+    "Bjørn-Erik Vige"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Leif Erik Forberg"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

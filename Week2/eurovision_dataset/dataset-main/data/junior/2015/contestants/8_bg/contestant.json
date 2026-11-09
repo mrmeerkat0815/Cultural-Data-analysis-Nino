@@ -1,0 +1,34 @@
+{
+  "id": 8,
+  "country": "BG",
+  "artist": "Gabriela Yordanova & Ivan Stoyanov",
+  "song": "Colour of Hope",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S7tUB4wpNdc",
+    "https://www.youtube-nocookie.com/embed/xqU5GTolG2Q",
+    "https://www.youtube-nocookie.com/embed/hy8dPro5ilM"
+  ],
+  "bpm": 66,
+  "tone": "A minor",
+  "artistPeople": [
+    "Gabriela Yordanova & Ivan Stoyanov"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Evgeni Dimitrov",
+    "Georgi Milchev-Godjy",
+    "Slavi Trifonov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gabriela Yordanova",
+    "Ivaylo Vulchev"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

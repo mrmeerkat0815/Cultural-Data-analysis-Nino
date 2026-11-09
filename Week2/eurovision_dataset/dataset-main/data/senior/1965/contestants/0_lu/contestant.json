@@ -1,0 +1,33 @@
+{
+  "id": 0,
+  "country": "LU",
+  "artist": "France Gall",
+  "song": "Poupée de cire, poupée de son",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PyFnDf8PvmU",
+    "https://www.youtube-nocookie.com/embed/Z8oTvIaWH7s",
+    "https://www.youtube-nocookie.com/embed/bGMQTCcQWX8",
+    "https://www.youtube-nocookie.com/embed/_B8fvzaOfvQ",
+    "https://www.youtube-nocookie.com/embed/tGCRM4Uut-0",
+    "https://www.youtube-nocookie.com/embed/gEehnZNHvdA",
+    "https://www.youtube-nocookie.com/embed/NODMAmW599s"
+  ],
+  "bpm": 155,
+  "tone": "F minor",
+  "artistPeople": [
+    "Isabelle Gall"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alain Goraguer",
+  "lyricists": null,
+  "writers": [
+    "Serge Gainsbourg"
+  ],
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

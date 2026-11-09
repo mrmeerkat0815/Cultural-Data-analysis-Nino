@@ -1,0 +1,39 @@
+{
+  "id": 14,
+  "country": "TR",
+  "artist": "MFÖ",
+  "song": "Sufi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mzs2dKLUskY",
+    "https://www.youtube-nocookie.com/embed/l5jspBc5qKY",
+    "https://www.youtube-nocookie.com/embed/haj25pBwrao",
+    "https://www.youtube-nocookie.com/embed/qAz3duapXgI",
+    "https://www.youtube-nocookie.com/embed/kHy6Y0FOlJ0"
+  ],
+  "bpm": 118,
+  "tone": "A minor",
+  "artistPeople": [
+    "Fuat Güner",
+    "Mazhar Alanson",
+    "Özkan Uğur"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fuat Güner",
+    "Mazhar Alanson",
+    "Özkan Uğur"
+  ],
+  "conductor": "Turhan Yükseler",
+  "lyricists": [
+    "Mazhar Alanson"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Canan Kumbasar"
+}

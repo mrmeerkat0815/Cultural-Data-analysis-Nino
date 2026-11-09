@@ -1,0 +1,36 @@
+{
+  "id": 17,
+  "country": "IE",
+  "artist": "Kiev Connolly and the Missing Passengers",
+  "song": "The Real Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7jQvpVpkR2M",
+    "https://www.youtube-nocookie.com/embed/W8rEaSLH16s"
+  ],
+  "bpm": 83,
+  "tone": "G major",
+  "artistPeople": [
+    "Des Field",
+    "Caomh Connolly",
+    "Martin Dunlea",
+    "Mary Mulcahy",
+    "Paul Seymour",
+    "Victor Coughlan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Kiev Connolly"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Michelle Rocca",
+    "Ronan Collins"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

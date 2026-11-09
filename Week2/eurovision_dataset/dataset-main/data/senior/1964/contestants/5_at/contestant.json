@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "country": "AT",
+  "artist": "Udo Jürgens",
+  "song": "Warum nur, warum?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Cqvp-gJqGlY",
+    "https://www.youtube-nocookie.com/embed/BNc-l5ledTA",
+    "https://www.youtube-nocookie.com/embed/BOFOnMiv_-I",
+    "https://www.youtube-nocookie.com/embed/eQH1ahppqlo"
+  ],
+  "bpm": 89,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jürgen Udo Bockelmann"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Johannes Fehring",
+  "lyricists": null,
+  "writers": [
+    "Udo Jürgens"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Willy Kralik"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 26,
+  "country": "IE",
+  "artist": "Sinéad Mulvey & Black Daisy",
+  "song": "Et Cetera",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fL8xgcsvKdY",
+    "https://www.youtube-nocookie.com/embed/cqVohtaYLeA",
+    "https://www.youtube-nocookie.com/embed/Y3UYGUsDjV0"
+  ],
+  "bpm": 172,
+  "tone": "F major",
+  "artistPeople": [
+    "Sinéad Mulvey"
+  ],
+  "backings": [
+    "Asta Milleriene",
+    "Jenny Newman",
+    "Lesley-Ann Halvey",
+    "Nicole Billings"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Christina Schilling",
+    "Daniele Moretti",
+    "Jonas Gladnikoff",
+    "Niall Mooney"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Bill Hughes",
+    "Emma O'Driscoll",
+    "Linda Martin",
+    "Luan Parle",
+    "Paul Harrington"
+  ],
+  "spokesperson": "Derek Mooney"
+}

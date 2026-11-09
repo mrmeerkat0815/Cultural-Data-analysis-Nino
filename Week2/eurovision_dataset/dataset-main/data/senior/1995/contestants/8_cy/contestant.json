@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "CY",
+  "artist": "Alexandros Panayi",
+  "song": "Sti Fotia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LMfRj5stHdI",
+    "https://www.youtube-nocookie.com/embed/5gfqn89nJU8",
+    "https://www.youtube-nocookie.com/embed/zS8_N9nYQg0"
+  ],
+  "bpm": 103,
+  "tone": "G minor",
+  "artistPeople": [
+    "Alex Panayi"
+  ],
+  "backings": [
+    "Christina Argyri",
+    "Dimitris Horianopoulos",
+    "Katerina Andreou",
+    "Nassia Trachonitou",
+    "Philippos Constantinos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Giorgos Theophanous",
+  "lyricists": null,
+  "writers": [
+    "Alexandros Panayi"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Neophytos Taliotis"
+  ],
+  "jury": null,
+  "spokesperson": "Andreas Iakovidis"
+}

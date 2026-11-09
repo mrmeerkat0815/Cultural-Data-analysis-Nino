@@ -1,0 +1,29 @@
+{
+  "id": 12,
+  "country": "CS",
+  "artist": "Filip Vučić",
+  "song": "Ljubav pa fudbal",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RATYzuOnFOk",
+    "https://www.youtube-nocookie.com/embed/lZHypuZXfRw",
+    "https://www.youtube-nocookie.com/embed/YGpSkFsKk0k"
+  ],
+  "bpm": 127,
+  "tone": "C major",
+  "artistPeople": [
+    "Filip Vučić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Filip Vučić"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

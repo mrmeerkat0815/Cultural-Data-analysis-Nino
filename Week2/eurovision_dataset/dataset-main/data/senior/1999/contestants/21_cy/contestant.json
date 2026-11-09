@@ -1,0 +1,33 @@
+{
+  "id": 21,
+  "country": "CY",
+  "artist": "Marlain Angelidou",
+  "song": "Tha'nai erotas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sdikjoqTLr8",
+    "https://www.youtube-nocookie.com/embed/SsXaWNxbPCg",
+    "https://www.youtube-nocookie.com/embed/cObYpiv7aWM"
+  ],
+  "bpm": 146,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Marlain Angelidou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Yiorgos Kallis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andreas Karanicolas"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Marina Maleni"
+}

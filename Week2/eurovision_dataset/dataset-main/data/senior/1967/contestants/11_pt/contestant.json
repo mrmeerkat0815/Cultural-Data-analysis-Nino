@@ -1,0 +1,34 @@
+{
+  "id": 11,
+  "country": "PT",
+  "artist": "Eduardo Nascimento",
+  "song": "O vento mudou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vylnyd4skSo",
+    "https://www.youtube-nocookie.com/embed/Hf4NizmlouY",
+    "https://www.youtube-nocookie.com/embed/YcDQ42MOaGg",
+    "https://www.youtube-nocookie.com/embed/1ArowgqxlTU"
+  ],
+  "bpm": 148,
+  "tone": "A major",
+  "artistPeople": [
+    "Eduardo Nascimento"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nuno Nazareth Fernandes"
+  ],
+  "conductor": "Armando Tavares Belo",
+  "lyricists": [
+    "João Magalhães Pereira"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

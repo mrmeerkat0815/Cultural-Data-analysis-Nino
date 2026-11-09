@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "country": "CH",
+  "artist": "Lys Assia",
+  "song": "Giorgio",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/14Xn9nkB2f4",
+    "https://www.youtube-nocookie.com/embed/X9Uly6Td6So",
+    "https://www.youtube-nocookie.com/embed/TWqJp32Hcf4"
+  ],
+  "bpm": 155,
+  "tone": "C major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Burkhard"
+  ],
+  "conductor": "Paul Burkhard",
+  "lyricists": [
+    "Fridolin Tschudi"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Mäni Weber"
+}

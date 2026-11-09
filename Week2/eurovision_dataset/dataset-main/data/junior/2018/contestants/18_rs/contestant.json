@@ -1,0 +1,31 @@
+{
+  "id": 18,
+  "country": "RS",
+  "artist": "Bojana Radovanović",
+  "song": "Svet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/19RkjainNEE",
+    "https://www.youtube-nocookie.com/embed/co7C4YLhVig"
+  ],
+  "bpm": 122,
+  "tone": "A major",
+  "artistPeople": [
+    "Bojana Radovanović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marija Marić Marković"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Bojana Radovanović",
+    "Marija Marić Marković"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

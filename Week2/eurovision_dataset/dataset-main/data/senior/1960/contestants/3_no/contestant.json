@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "country": "NO",
+  "artist": "Nora Brockstedt",
+  "song": "Voi-voi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gvPieP0mys4",
+    "https://www.youtube-nocookie.com/embed/KRia5ImfBG8",
+    "https://www.youtube-nocookie.com/embed/4W_1ri5DJKI",
+    "https://www.youtube-nocookie.com/embed/ZwNqLdRhsOM",
+    "https://www.youtube-nocookie.com/embed/lkqtp47lKHo",
+    "https://www.youtube-nocookie.com/embed/NUbKo2NkPoc",
+    "https://www.youtube-nocookie.com/embed/4o7LDNJqYA4"
+  ],
+  "bpm": 155,
+  "tone": "C minor",
+  "artistPeople": [
+    "Nora Brockstedt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Georg Elgaaen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Erik Diesen"
+  ],
+  "jury": null,
+  "spokesperson": "Kari Borg Mannsåker"
+}

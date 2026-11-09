@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "country": "ES",
+  "artist": "Dani Fernández",
+  "song": "Te doy mi voz",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/d-Gj-fMJkkA",
+    "https://www.youtube-nocookie.com/embed/yMTDVFc-fHA"
+  ],
+  "bpm": 104,
+  "tone": "D major",
+  "artistPeople": [
+    "Dani Fernández"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Daniel Fernández Delgado"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

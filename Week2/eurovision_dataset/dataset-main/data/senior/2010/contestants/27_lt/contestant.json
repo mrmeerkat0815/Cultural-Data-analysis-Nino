@@ -1,0 +1,39 @@
+{
+  "id": 27,
+  "country": "LT",
+  "artist": "InCulto",
+  "song": "Eastern European Funk",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XeOn-GG_eHo",
+    "https://www.youtube-nocookie.com/embed/KqU88ZBW0z8"
+  ],
+  "bpm": 134,
+  "tone": "E major",
+  "artistPeople": [
+    "Aurelijus Morlencas",
+    "Jievaras Jasinskis",
+    "Jonas Narbutas",
+    "Jurgis Didžiulis",
+    "Laurynas Lapė",
+    "Šarūnas Kirdeikis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aurelijus Morlencas",
+    "Jievaras Jasinskis",
+    "Jonas Narbutas",
+    "Jurgis Didžiulis",
+    "Laurynas Lapė"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Giedrius Masalskis"
+}

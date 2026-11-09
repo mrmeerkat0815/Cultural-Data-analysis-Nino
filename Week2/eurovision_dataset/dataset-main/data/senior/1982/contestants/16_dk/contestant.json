@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "country": "DK",
+  "artist": "Brixx",
+  "song": "Video video",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5SWSEKDBCGI",
+    "https://www.youtube-nocookie.com/embed/8u1eyw9p1hg",
+    "https://www.youtube-nocookie.com/embed/H72Zf5_3DXw",
+    "https://www.youtube-nocookie.com/embed/iKFpILbS1so",
+    "https://www.youtube-nocookie.com/embed/Dq5I0rXtV0A",
+    "https://www.youtube-nocookie.com/embed/7xHOICO9-Iw"
+  ],
+  "bpm": 88,
+  "tone": "C major",
+  "artistPeople": [
+    "Bjørn Holmgaard Sørensen",
+    "Jens Brixtofte",
+    "John Hatting",
+    "Steen Ejler Olsen",
+    "Torben Jacobsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Allan Botschinsky",
+  "lyricists": null,
+  "writers": [
+    "Jens Brixtofte"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Hans Otto Bisgaard"
+}

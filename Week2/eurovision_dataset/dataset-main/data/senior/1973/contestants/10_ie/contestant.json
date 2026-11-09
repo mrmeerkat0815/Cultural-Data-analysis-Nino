@@ -1,0 +1,32 @@
+{
+  "id": 10,
+  "country": "IE",
+  "artist": "Maxi",
+  "song": "Do I Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mQ7RXYyoEz8",
+    "https://www.youtube-nocookie.com/embed/KonuvsM7g3A",
+    "https://www.youtube-nocookie.com/embed/SkLX5tE7t1w"
+  ],
+  "bpm": 98,
+  "tone": "D major",
+  "artistPeople": [
+    "Irene McCoubrey"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Colman Pearce",
+  "lyricists": null,
+  "writers": [
+    "George F. Crosbie",
+    "Jack Brierley"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

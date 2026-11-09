@@ -1,0 +1,35 @@
+{
+  "id": 9,
+  "country": "BE",
+  "artist": "Jacques Raymond",
+  "song": "Waarom?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QSliEmnClSg",
+    "https://www.youtube-nocookie.com/embed/AnKoxEZ5DSo",
+    "https://www.youtube-nocookie.com/embed/rr5kiUEOHHI"
+  ],
+  "bpm": 96,
+  "tone": "F minor",
+  "artistPeople": [
+    "Jozef Remon"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hans Flower"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Wim Brabants"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Denise Maes",
+    "Herman Verelst",
+    "Pierre Delhasse"
+  ],
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 0,
+  "country": "IE",
+  "artist": "Dana",
+  "song": "All Kinds of Everything",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sZ8W9oOgjM4",
+    "https://www.youtube-nocookie.com/embed/PK-p8l8fdNE",
+    "https://www.youtube-nocookie.com/embed/HMuDslkfAd4",
+    "https://www.youtube-nocookie.com/embed/o-2bpDAIRzk",
+    "https://www.youtube-nocookie.com/embed/7xzDmDUH97Y"
+  ],
+  "bpm": 107,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Dana Rosemary Scallon"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dolf van der Linden",
+  "lyricists": null,
+  "writers": [
+    "Derry Lindsay",
+    "Jackie Smith"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Valerie McGovern"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

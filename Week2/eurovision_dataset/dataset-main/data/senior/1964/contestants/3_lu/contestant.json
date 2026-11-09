@@ -1,0 +1,31 @@
+{
+  "id": 3,
+  "country": "LU",
+  "artist": "Hugues Aufray",
+  "song": "Dès que le printemps revient",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Hdne0IMQ8Ac",
+    "https://www.youtube-nocookie.com/embed/FI64Rk34q6o",
+    "https://www.youtube-nocookie.com/embed/ccUzn8Uqxlo"
+  ],
+  "bpm": 123,
+  "tone": "E major",
+  "artistPeople": [
+    "Jean Aufray"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hugues Aufray"
+  ],
+  "conductor": "Jacques Denjean",
+  "lyricists": [
+    "Jacques Plante"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

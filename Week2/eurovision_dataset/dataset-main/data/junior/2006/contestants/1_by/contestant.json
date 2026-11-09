@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "country": "BY",
+  "artist": "Andrey Kunets",
+  "song": "Noviy den",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jwMAvVQBEHU",
+    "https://www.youtube-nocookie.com/embed/F0rdVFQH5PI"
+  ],
+  "bpm": 130,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Andrey Kunets"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

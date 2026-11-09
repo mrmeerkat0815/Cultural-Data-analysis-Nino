@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "CY",
+  "artist": "Elena Patroclou",
+  "song": "S.O.S.",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Qf2fLGTlwR4",
+    "https://www.youtube-nocookie.com/embed/wwSoju8Mqfg",
+    "https://www.youtube-nocookie.com/embed/ilidvftZpjE"
+  ],
+  "bpm": 137,
+  "tone": "A major",
+  "artistPeople": [
+    "Elena Patroklou"
+  ],
+  "backings": [
+    "Alexandros Panayi",
+    "Dalida Mitzi",
+    "Nassia Trachonitou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kypros Charalambus"
+  ],
+  "conductor": "Alexandros Kyros Zografou",
+  "lyricists": [
+    "Andreas Christou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

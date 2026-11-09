@@ -1,0 +1,35 @@
+{
+  "id": 15,
+  "country": "NO",
+  "artist": "Kirsti Sparboe",
+  "song": "Dukkemann",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Y7I__FNMevk",
+    "https://www.youtube-nocookie.com/embed/sSzMIIWRk3k",
+    "https://www.youtube-nocookie.com/embed/Rs-Xs5fZRmI",
+    "https://www.youtube-nocookie.com/embed/BV_r9_Yuudo",
+    "https://www.youtube-nocookie.com/embed/GoKwSBVnth8"
+  ],
+  "bpm": 105,
+  "tone": "G major",
+  "artistPeople": [
+    "Kirsti Sparboe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tor Hultin"
+  ],
+  "conductor": "Øivind Bergh",
+  "lyricists": [
+    "Ola B. Johannessen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Erik Diesen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

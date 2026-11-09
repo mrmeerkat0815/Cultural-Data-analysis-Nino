@@ -1,0 +1,40 @@
+{
+  "id": 3,
+  "country": "GB",
+  "artist": "Olivia Newton-John",
+  "song": "Long Live Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1eOMLWh0YIE",
+    "https://www.youtube-nocookie.com/embed/S5_ZFJsXEOQ",
+    "https://www.youtube-nocookie.com/embed/ZdRtV_AHDo8",
+    "https://www.youtube-nocookie.com/embed/YWIyiBqaKlE",
+    "https://www.youtube-nocookie.com/embed/2Pb-_FN_MyU"
+  ],
+  "bpm": 85,
+  "tone": "B major",
+  "artistPeople": [
+    "Olivia Newton-John"
+  ],
+  "backings": [
+    "Ann Simmons",
+    "Ingrid Thomas",
+    "Joan Baxter",
+    "Maggie Stredder",
+    "Marian Davies"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Nick Ingman",
+  "lyricists": null,
+  "writers": [
+    "Harold Spiro",
+    "Valerie Avon"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Vine"
+  ],
+  "jury": null,
+  "spokesperson": "Colin-Ward Lewis"
+}

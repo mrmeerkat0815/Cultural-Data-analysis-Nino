@@ -1,0 +1,38 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Linda Wagenmakers",
+  "song": "No Goodbyes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sHXZwI1nq-Q",
+    "https://www.youtube-nocookie.com/embed/q31mvHwMofE",
+    "https://www.youtube-nocookie.com/embed/X1n9SAxRjWU"
+  ],
+  "bpm": 135,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Linda Wagenmakers"
+  ],
+  "backings": [
+    "Chaira Borderslee",
+    "Gino Emnes",
+    "Richard Rodermond",
+    "Yolanda Germain"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John O'Hare"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ellert Driessen"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Marlayne"
+}

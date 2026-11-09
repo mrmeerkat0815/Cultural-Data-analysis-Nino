@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "YU",
+  "artist": "Ljiljana Petrović",
+  "song": "Neke davne zvezde",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0F7t2NFx8Ew",
+    "https://www.youtube-nocookie.com/embed/1wSyMFUAJpg"
+  ],
+  "bpm": 164,
+  "tone": "G major",
+  "artistPeople": [
+    "Ljiljana Petrović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jože Privšek"
+  ],
+  "conductor": "Jože Privšek",
+  "lyricists": [
+    "Miroslav Antić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Gordana Bonetti",
+    "Ljubomir Vukadinović",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Saša Novak"
+}

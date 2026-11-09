@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "GR",
+  "artist": "Tania Tsanaklidou",
+  "song": "Charlie Chaplin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iQAUlN2Cgps",
+    "https://www.youtube-nocookie.com/embed/8p4LkRSFeCk",
+    "https://www.youtube-nocookie.com/embed/nWhA4wwMC68"
+  ],
+  "bpm": 140,
+  "tone": "G major",
+  "artistPeople": [
+    "Tania Tsanaklidou"
+  ],
+  "backings": [
+    "Markos Alexiou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sakis Tsilikis"
+  ],
+  "conductor": "Haris Andreadis",
+  "lyricists": [
+    "Yannis Xanthulis"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Niki Venega"
+}

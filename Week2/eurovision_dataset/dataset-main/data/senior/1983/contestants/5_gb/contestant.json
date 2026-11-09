@@ -1,0 +1,39 @@
+{
+  "id": 5,
+  "country": "GB",
+  "artist": "Sweet Dreams",
+  "song": "I'm Never Giving Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BYy4kHL33jU",
+    "https://www.youtube-nocookie.com/embed/Q2kJBw1HF1U",
+    "https://www.youtube-nocookie.com/embed/r5IG5dq37Xk"
+  ],
+  "bpm": 143,
+  "tone": "G major",
+  "artistPeople": [
+    "Robert McVey",
+    "Caroline Vanessa Grant",
+    "Helen Kray"
+  ],
+  "backings": [
+    "Alan Carvell",
+    "Hazell Dean",
+    "Kit Rolfe"
+  ],
+  "dancers": null,
+  "stageDirector": "Chrissy Wickham",
+  "composers": null,
+  "conductor": "John Coleman",
+  "lyricists": null,
+  "writers": [
+    "Jan Pulsford",
+    "Phil Wigger",
+    "Ron Roker"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

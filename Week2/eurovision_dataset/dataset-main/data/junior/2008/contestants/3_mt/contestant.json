@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "country": "MT",
+  "artist": "Daniel Testa",
+  "song": "Junior Swing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TB-aF3fRX-M",
+    "https://www.youtube-nocookie.com/embed/NmHNpdcSLAc"
+  ],
+  "bpm": 174,
+  "tone": "C minor",
+  "artistPeople": [
+    "Daniel Testa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Daniel Testa"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

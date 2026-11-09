@@ -1,0 +1,33 @@
+{
+  "id": 12,
+  "country": "SE",
+  "artist": "Marie Bergman & Roger Pontare",
+  "song": "Stjärnorna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8nM8vPTh_S0",
+    "https://www.youtube-nocookie.com/embed/XOMx5sd-EQQ"
+  ],
+  "bpm": 151,
+  "tone": "G major",
+  "artistPeople": [
+    "Marie Bergman",
+    "Roger Pontare"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Bertilsson"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Mikael Littwold"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Marianne Anderberg"
+}

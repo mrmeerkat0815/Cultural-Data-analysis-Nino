@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "FR",
+  "artist": "Guy Bonnet",
+  "song": "Vivre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/svAP-uh2eY4",
+    "https://www.youtube-nocookie.com/embed/gS8Os4o6wyw",
+    "https://www.youtube-nocookie.com/embed/viG_8uadvUw",
+    "https://www.youtube-nocookie.com/embed/Tnck5YOFy1w",
+    "https://www.youtube-nocookie.com/embed/sc-9i8_Pyig"
+  ],
+  "bpm": 128,
+  "tone": "D minor",
+  "artistPeople": [
+    "Guy Bonnet"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Guy Bonnet"
+  ],
+  "conductor": "François Rauber",
+  "lyricists": [
+    "Fulbert Cant"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": "Geneviève Moll"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "country": "DK",
+  "artist": "Nicolai",
+  "song": "Shake Shake Shake",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IHlkrmy9DHw",
+    "https://www.youtube-nocookie.com/embed/k6vLOJOKoNA"
+  ],
+  "bpm": 90,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Nicolai Kielstrup"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Nicolai Kielstrup"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

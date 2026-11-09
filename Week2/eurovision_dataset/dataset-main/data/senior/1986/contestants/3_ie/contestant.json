@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "country": "IE",
+  "artist": "Luv Bug",
+  "song": "You Can Count On Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8F2QR9U7SB0",
+    "https://www.youtube-nocookie.com/embed/GzyUTFovrqU",
+    "https://www.youtube-nocookie.com/embed/oeVbxsY5W-M"
+  ],
+  "bpm": 135,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Hugh Cunningham",
+    "June Cunningham",
+    "Majella Grant",
+    "Max Cunningham",
+    "Ricky Meyler"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Kevin Sheerin"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Brendan Balfe"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

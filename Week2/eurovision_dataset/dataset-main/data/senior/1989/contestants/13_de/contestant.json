@@ -1,0 +1,38 @@
+{
+  "id": 13,
+  "country": "DE",
+  "artist": "Nino de Angelo",
+  "song": "Flieger",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-4iLLxMq52A",
+    "https://www.youtube-nocookie.com/embed/Okw10TVFQYs",
+    "https://www.youtube-nocookie.com/embed/vdgcj4_WAMs",
+    "https://www.youtube-nocookie.com/embed/8kYqyUCp9EQ"
+  ],
+  "bpm": 116,
+  "tone": "D major",
+  "artistPeople": [
+    "Domenico Gerhard Gorgoglione"
+  ],
+  "backings": [
+    "Detlef Wiedeke",
+    "Michael Scholz",
+    "Rolf Köhler"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dieter Bohlen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Joachim Horn-Bernges"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Thomas Gottschalk"
+  ],
+  "jury": null,
+  "spokesperson": "Kerstin Schweighöfer"
+}

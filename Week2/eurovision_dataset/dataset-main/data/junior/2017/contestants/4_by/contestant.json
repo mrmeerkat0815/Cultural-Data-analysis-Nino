@@ -1,0 +1,30 @@
+{
+  "id": 4,
+  "country": "BY",
+  "artist": "Helena Meraai",
+  "song": "I Am the One",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G5MIypE10uQ",
+    "https://www.youtube-nocookie.com/embed/gSE0eUNSau8",
+    "https://www.youtube-nocookie.com/embed/Om7fCconGUI"
+  ],
+  "bpm": 143,
+  "tone": "A minor",
+  "artistPeople": [
+    "Helena Meraai"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Helena Meraai",
+    "Rita Dakota"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

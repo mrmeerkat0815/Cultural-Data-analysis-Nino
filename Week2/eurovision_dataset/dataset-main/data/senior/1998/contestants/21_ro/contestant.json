@@ -1,0 +1,34 @@
+{
+  "id": 21,
+  "country": "RO",
+  "artist": "Mălina Olinescu",
+  "song": "Eu cred",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gZ76foLYsOA",
+    "https://www.youtube-nocookie.com/embed/Ln5mdsRO194",
+    "https://www.youtube-nocookie.com/embed/8pTkh0FRnzE",
+    "https://www.youtube-nocookie.com/embed/B4GEIMO0vTA"
+  ],
+  "bpm": 76,
+  "tone": "C major",
+  "artistPeople": [
+    "Mălina Olinescu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adrian Romcescu"
+  ],
+  "conductor": "Adrian Romcescu",
+  "lyricists": [
+    "Liliana Ştefan"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Leonard Miron"
+  ],
+  "jury": null,
+  "spokesperson": "Anca Țurcașiu"
+}

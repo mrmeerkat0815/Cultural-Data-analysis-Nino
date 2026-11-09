@@ -1,0 +1,41 @@
+{
+  "id": 8,
+  "country": "HR",
+  "artist": "Goran Karan",
+  "song": "Kad zaspu anđeli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/248g0rsi9i4",
+    "https://www.youtube-nocookie.com/embed/sFvj6fiT1Sw",
+    "https://www.youtube-nocookie.com/embed/MnQiYmY3HWM",
+    "https://www.youtube-nocookie.com/embed/WO_e58WRbWQ",
+    "https://www.youtube-nocookie.com/embed/Hz7JTjK6X_4",
+    "https://www.youtube-nocookie.com/embed/obl4Nzh8mRU"
+  ],
+  "bpm": 152,
+  "tone": "E minor",
+  "artistPeople": [
+    "Goran Karan"
+  ],
+  "backings": [
+    "Anamarija Maksimović",
+    "Jelena Radan",
+    "Nikša Bratoš",
+    "Zorica Bučić"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Neno Ninčević",
+    "Nikša Bratoš",
+    "Zdenko Runjić"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Marko Rašica"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 7,
+  "country": "BE",
+  "artist": "Louis Neefs",
+  "song": "Jennifer Jennings",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/soyXLmqPUPQ",
+    "https://www.youtube-nocookie.com/embed/a1LPps_j5tM",
+    "https://www.youtube-nocookie.com/embed/AONwwRWFnpA",
+    "https://www.youtube-nocookie.com/embed/h-ukNCLisJM",
+    "https://www.youtube-nocookie.com/embed/UsiXqUlGMAQ",
+    "https://www.youtube-nocookie.com/embed/RZ0Cr1nE6hc",
+    "https://www.youtube-nocookie.com/embed/w6PL9eCZQAM"
+  ],
+  "bpm": 112,
+  "tone": "D minor",
+  "artistPeople": [
+    "Ludwig Neefs"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Quintens"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Phil van Cauwenbergh"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jan Theys",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "country": "DE",
+  "artist": "Lena Valaitis",
+  "song": "Johnny Blue",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jzzQfxvvFuE",
+    "https://www.youtube-nocookie.com/embed/aYercc-mxYQ",
+    "https://www.youtube-nocookie.com/embed/gcv9SWL7Ffc",
+    "https://www.youtube-nocookie.com/embed/wUDYKZhWF6I"
+  ],
+  "bpm": 115,
+  "tone": "D minor",
+  "artistPeople": [
+    "Elena Valaitytė"
+  ],
+  "backings": [
+    "John Wiseman"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Wolfgang Rödelberger",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Gabi Schnelle"
+}

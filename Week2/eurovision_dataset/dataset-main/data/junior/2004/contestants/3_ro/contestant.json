@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "country": "RO",
+  "artist": "Noni Răzvan Ene",
+  "song": "Îți mulțumesc",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oSiDrhMeUlk",
+    "https://www.youtube-nocookie.com/embed/dJRUGw7OP28"
+  ],
+  "bpm": 70,
+  "tone": "C major",
+  "artistPeople": [
+    "Noni Răzvan Ene"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Noni Răzvan Ene"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

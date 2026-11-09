@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "country": "CY",
+  "artist": "Maria Pissarides",
+  "song": "Crystal Waters",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rrvDH9KsplE",
+    "https://www.youtube-nocookie.com/embed/NaUb1u-pg-M",
+    "https://www.youtube-nocookie.com/embed/La559_InMOY",
+    "https://www.youtube-nocookie.com/embed/TUYy_cKj7gc"
+  ],
+  "bpm": 100,
+  "tone": "C major",
+  "artistPeople": [
+    "Maria Pissarides"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Armin Gilani",
+    "Sophia Patsalidou"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Armin Gilani",
+    "Maria Pissarides",
+    "Sophia Patsalidou"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

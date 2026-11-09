@@ -1,0 +1,28 @@
+{
+  "id": 10,
+  "country": "BE",
+  "artist": "Oliver",
+  "song": "Shut Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/goLwuqbf3WI",
+    "https://www.youtube-nocookie.com/embed/RS-6jblojr8"
+  ],
+  "bpm": 122,
+  "tone": "G minor",
+  "artistPeople": [
+    "Oliver Symons"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Oliver Symons"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

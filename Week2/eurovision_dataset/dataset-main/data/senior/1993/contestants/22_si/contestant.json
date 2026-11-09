@@ -1,0 +1,40 @@
+{
+  "id": 22,
+  "country": "SI",
+  "artist": "1X Band",
+  "song": "Tih deževen dan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K7OuxggEx6I",
+    "https://www.youtube-nocookie.com/embed/gnzbZR9zMjU",
+    "https://www.youtube-nocookie.com/embed/UdC8sTnSHac",
+    "https://www.youtube-nocookie.com/embed/bnd-IdrTHTU",
+    "https://www.youtube-nocookie.com/embed/xGHVG7JSmKY"
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "artistPeople": [
+    "Andrej Bedjanič",
+    "Barbara Šinigoj",
+    "Brane Vidan",
+    "Cole Moretti",
+    "Sandra Zupanc",
+    "Tomaž Kosec"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Cole Moretti"
+  ],
+  "conductor": "Jože Privšek",
+  "lyricists": [
+    "Tomaž Kosec"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Tajda Lekše"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
+}

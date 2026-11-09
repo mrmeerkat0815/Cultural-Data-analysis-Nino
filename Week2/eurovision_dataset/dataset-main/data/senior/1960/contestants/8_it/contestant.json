@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "country": "IT",
+  "artist": "Renato Rascel",
+  "song": "Romantica",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JfeQAUOktng",
+    "https://www.youtube-nocookie.com/embed/d4mShBIdlcw",
+    "https://www.youtube-nocookie.com/embed/u7jnpC1l0TQ",
+    "https://www.youtube-nocookie.com/embed/0HzO9esXzD0",
+    "https://www.youtube-nocookie.com/embed/N3OEPnOsjNo"
+  ],
+  "bpm": 148,
+  "tone": "F minor",
+  "artistPeople": [
+    "Renato Ranucci"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dino Verde"
+  ],
+  "conductor": "Cinico Angelini",
+  "lyricists": [
+    "Renato Rascel"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Giorgio Porro"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

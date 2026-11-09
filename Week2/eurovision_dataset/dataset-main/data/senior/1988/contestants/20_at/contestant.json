@@ -1,0 +1,39 @@
+{
+  "id": 20,
+  "country": "AT",
+  "artist": "Wilfried",
+  "song": "Lisa, Mona Lisa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1fKcQb3ZEG4",
+    "https://www.youtube-nocookie.com/embed/qjYJFFVDuCY",
+    "https://www.youtube-nocookie.com/embed/D0_UVoZ98Wk"
+  ],
+  "bpm": 92,
+  "tone": "A major",
+  "artistPeople": [
+    "Wilfried Scheutz"
+  ],
+  "backings": [
+    "Alfred Petz",
+    "Cordula Kotzbek",
+    "Freddy Tezzele",
+    "Hannes Treiber",
+    "Hossein Rastegar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harald Neuwirth",
+  "lyricists": null,
+  "writers": [
+    "Klaus Kofler",
+    "Ronnie Herboltzheimer",
+    "Wilfried Scheutz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

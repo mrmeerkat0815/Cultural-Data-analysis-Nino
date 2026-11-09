@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "country": "KZ",
+  "artist": "Karakat Bashanova",
+  "song": "Forever",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O0gSpVu-xkM",
+    "https://www.youtube-nocookie.com/embed/uI5g6o1SRvg",
+    "https://www.youtube-nocookie.com/embed/apudHDU2Wc4"
+  ],
+  "bpm": 183,
+  "tone": "A major",
+  "artistPeople": [
+    "Karakat Bashanova"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Khamit Shangaliyev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Abulkhair Adam",
+    "Yeleusiz Ardak"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

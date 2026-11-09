@@ -1,0 +1,35 @@
+{
+  "id": 29,
+  "country": "FI",
+  "artist": "Pernilla",
+  "song": "När jag blundar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MRC5NzxmrAA",
+    "https://www.youtube-nocookie.com/embed/43GWoVxRk2Y"
+  ],
+  "bpm": 87,
+  "tone": "D major",
+  "artistPeople": [
+    "Pernilla Karlsson"
+  ],
+  "backings": [
+    "Heikki Takkula"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jonas Karlsson"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Tarja Närhi",
+    "Tobias Larsson"
+  ],
+  "jury": null,
+  "spokesperson": "Mr. Lordi"
+}

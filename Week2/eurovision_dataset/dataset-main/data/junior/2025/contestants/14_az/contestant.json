@@ -1,0 +1,32 @@
+{
+  "id": 14,
+  "country": "AZ",
+  "artist": "Yağmur",
+  "song": "Miau Miau",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gARj6Qx9Hsw"
+  ],
+  "bpm": 120,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Yağmur Nəsrullayeva"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Diana Hajiyeva",
+    "Hafiz Bakhishli",
+    "Mila Miles",
+    "Rustam Rzayev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mila Miles"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

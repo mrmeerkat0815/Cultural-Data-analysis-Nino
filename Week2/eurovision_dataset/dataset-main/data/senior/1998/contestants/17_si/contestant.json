@@ -1,0 +1,36 @@
+{
+  "id": 17,
+  "country": "SI",
+  "artist": "Vili Resnik",
+  "song": "Naj bogovi slišijo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BTED2l_S-aQ",
+    "https://www.youtube-nocookie.com/embed/BgVJdG2y_8k",
+    "https://www.youtube-nocookie.com/embed/0f-T4FBdrus"
+  ],
+  "bpm": 152,
+  "tone": "G minor",
+  "artistPeople": [
+    "Vili Resnik"
+  ],
+  "backings": [
+    "Karmen Stavec",
+    "Urša Vlašič"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matjaž Vlašič"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Urša Vlašič"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mojca Mavec"
+}

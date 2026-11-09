@@ -1,0 +1,32 @@
+{
+  "id": 20,
+  "country": "SK",
+  "artist": "Katarína Hasprová",
+  "song": "Modlitba",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0G9m6m4ctmQ",
+    "https://www.youtube-nocookie.com/embed/sgqXqzLxHZk"
+  ],
+  "bpm": 162,
+  "tone": "C major",
+  "artistPeople": [
+    "Katarína Hasprová"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gabriel Dušík"
+  ],
+  "conductor": "Vladimir Valović",
+  "lyricists": [
+    "Anna Wepperyová"
+  ],
+  "writers": null,
+  "broadcaster": "STV",
+  "commentators": [
+    "Juraj Čurný"
+  ],
+  "jury": null,
+  "spokesperson": "Alena Heribanová"
+}

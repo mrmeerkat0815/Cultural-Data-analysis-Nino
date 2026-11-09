@@ -1,0 +1,28 @@
+{
+  "id": 10,
+  "country": "UA",
+  "artist": "Kristall",
+  "song": "Europa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xd3vI8qLbw0",
+    "https://www.youtube-nocookie.com/embed/p3Fc3BDVZ_Y"
+  ],
+  "bpm": 130,
+  "tone": "F major",
+  "artistPeople": [
+    "Kristina Kochegarova"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kristina Kochegarova"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

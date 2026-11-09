@@ -1,0 +1,41 @@
+{
+  "id": 0,
+  "country": "DE",
+  "artist": "Nicole",
+  "song": "Ein bißchen Frieden",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hp_b-095yPc",
+    "https://www.youtube-nocookie.com/embed/-aRUzA6sNKA",
+    "https://www.youtube-nocookie.com/embed/9CGM_kb03rw",
+    "https://www.youtube-nocookie.com/embed/OYFG8b6_Orc",
+    "https://www.youtube-nocookie.com/embed/EAlu-h9Ug_0"
+  ],
+  "bpm": 118,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Nicole Seibert"
+  ],
+  "backings": [
+    "Andreas Kasulke",
+    "Gudrun Haag",
+    "Michael Gong",
+    "Ralph Siegel",
+    "Wolly Emperhoff"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Norbert Daum",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Gabi Schnelle"
+}

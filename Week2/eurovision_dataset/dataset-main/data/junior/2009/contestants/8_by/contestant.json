@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "country": "BY",
+  "artist": "Yury Demidovich",
+  "song": "Volshebnyy krolik",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iYjKkKbKPEA",
+    "https://www.youtube-nocookie.com/embed/NuvjTtpP8Pc"
+  ],
+  "bpm": 120,
+  "tone": "C minor",
+  "artistPeople": [
+    "Yury Demidovich"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Yury Demidovich"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

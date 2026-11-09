@@ -1,0 +1,33 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "André Claveau",
+  "song": "Dors mon amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UVGYIdu3V8g",
+    "https://www.youtube-nocookie.com/embed/4REFkP40TBk",
+    "https://www.youtube-nocookie.com/embed/CO0V8q-huPM"
+  ],
+  "bpm": 164,
+  "tone": "A major",
+  "artistPeople": [
+    "André Claveau"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pierre Delanoë"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Hubert Giraud"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Armand Lanoux"
+}

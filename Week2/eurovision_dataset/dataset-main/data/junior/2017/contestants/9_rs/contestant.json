@@ -1,0 +1,35 @@
+{
+  "id": 9,
+  "country": "RS",
+  "artist": "Irina Brodić & Jana Paunović",
+  "song": "Ceo svet je naš",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/45hTW01Bh2s",
+    "https://www.youtube-nocookie.com/embed/tOSBy5-dnrQ",
+    "https://www.youtube-nocookie.com/embed/zDawOXn7Gdw"
+  ],
+  "bpm": 98,
+  "tone": "F major",
+  "artistPeople": [
+    "Irina Brodić & Jana Paunović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Irina Brodić",
+    "Lejla Hot",
+    "Ognjen Cvekić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jana Paunović",
+    "Lejla Hot",
+    "Ognjen Cvekić"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

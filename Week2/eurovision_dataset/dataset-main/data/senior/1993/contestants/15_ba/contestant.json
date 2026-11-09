@@ -1,0 +1,42 @@
+{
+  "id": 15,
+  "country": "BA",
+  "artist": "Fazla",
+  "song": "Sva bol svijeta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gmbrJkzQ4Ik",
+    "https://www.youtube-nocookie.com/embed/dkfCGqAoV6U",
+    "https://www.youtube-nocookie.com/embed/ZH9dSjP-jgo",
+    "https://www.youtube-nocookie.com/embed/FW5hKZl2-mI",
+    "https://www.youtube-nocookie.com/embed/uNsgTrU31tg",
+    "https://www.youtube-nocookie.com/embed/3niuPNOQ14M"
+  ],
+  "bpm": 102,
+  "tone": "D minor",
+  "artistPeople": [
+    "Amir Bjelanobić",
+    "Edina Salkanović",
+    "Enver Milisić",
+    "Erliha Hadzović",
+    "Izudin 'Izo' Kolečić",
+    "Muhamed Fazlagić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Edin Dervišhalidović"
+  ],
+  "conductor": "Noel Kelehan",
+  "lyricists": [
+    "Edin Dervišhalidović",
+    "Fahrudin Pecikoza-Peca"
+  ],
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Senad Hadžifejzović"
+}

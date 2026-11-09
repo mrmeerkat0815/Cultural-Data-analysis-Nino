@@ -1,0 +1,40 @@
+{
+  "id": 29,
+  "country": "PL",
+  "artist": "Lidia Kopania",
+  "song": "I Don't Wanna Leave",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8m2gIli9SoA",
+    "https://www.youtube-nocookie.com/embed/CKtPrmYuyzc",
+    "https://www.youtube-nocookie.com/embed/immr7vCwUaM"
+  ],
+  "bpm": 144,
+  "tone": "F# major",
+  "artistPeople": [
+    "Lidia Kopania"
+  ],
+  "backings": [
+    "Daria Akatowa",
+    "Jan Radwan",
+    "Krzysztof Pietrzak",
+    "Maciej Pruszyński",
+    "Patrycja Gola"
+  ],
+  "dancers": null,
+  "stageDirector": "Bolesław Pawica",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Geringas",
+    "Bernd Klimpel",
+    "Dee Adam",
+    "Rike Boomgaarden"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Radosław Brzózka"
+}

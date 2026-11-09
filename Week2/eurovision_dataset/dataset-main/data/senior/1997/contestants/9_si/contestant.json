@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "country": "SI",
+  "artist": "Tanja Ribič",
+  "song": "Zbudi se",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2lq5sEkluZE",
+    "https://www.youtube-nocookie.com/embed/ZLZd-qpNl6U",
+    "https://www.youtube-nocookie.com/embed/sYQrD2XRmvo",
+    "https://www.youtube-nocookie.com/embed/SqDocEWUFB8"
+  ],
+  "bpm": 165,
+  "tone": "C minor",
+  "artistPeople": [
+    "Tanja Ribič"
+  ],
+  "backings": [
+    "Irena Vrckovnik"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Saša Lošić"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Zoran Predin"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mojca Mavec"
+}

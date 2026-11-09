@@ -1,0 +1,35 @@
+{
+  "id": 9,
+  "country": "AT",
+  "artist": "Simone",
+  "song": "Keine Mauern mehr",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pq3ndrZzaf0",
+    "https://www.youtube-nocookie.com/embed/-34QbgFt6ng",
+    "https://www.youtube-nocookie.com/embed/gHXrBp4n-r0",
+    "https://www.youtube-nocookie.com/embed/_u71qgj6Sww"
+  ],
+  "bpm": 126,
+  "tone": "F major",
+  "artistPeople": [
+    "Simone Stelzer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Berry",
+    "Nanna Berry"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "Mario Botazzi"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Barbara Stöckl"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

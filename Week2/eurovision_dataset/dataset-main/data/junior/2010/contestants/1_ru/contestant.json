@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "country": "RU",
+  "artist": "Sasha Lazin & Liza Drozd",
+  "song": "Boy and Girl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Q7hf1UN6vXg",
+    "https://www.youtube-nocookie.com/embed/BDePht0ydaE"
+  ],
+  "bpm": 74,
+  "tone": "E minor",
+  "artistPeople": [
+    "Sasha Lazin & Liza Drozd"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sasha Lazin"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Liza Drozd"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

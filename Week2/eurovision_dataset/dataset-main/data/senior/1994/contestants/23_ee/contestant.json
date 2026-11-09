@@ -1,0 +1,39 @@
+{
+  "id": 23,
+  "country": "EE",
+  "artist": "Silvi Vrait",
+  "song": "Nagu Merelaine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6kcB60LSXj0",
+    "https://www.youtube-nocookie.com/embed/p0BWDVulEGA",
+    "https://www.youtube-nocookie.com/embed/L4oqW8EKCqw",
+    "https://www.youtube-nocookie.com/embed/UrkfzqspyPY",
+    "https://www.youtube-nocookie.com/embed/hlRIG_kMDG8",
+    "https://www.youtube-nocookie.com/embed/GYm-voUqd0U",
+    "https://www.youtube-nocookie.com/embed/EbnAH8EKvdM"
+  ],
+  "bpm": 91,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Silvi Vrait"
+  ],
+  "backings": [
+    "Karl Madis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivar Must"
+  ],
+  "conductor": "Urmas Lattikas",
+  "lyricists": [
+    "Leelo Tungal"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Vello Rand"
+  ],
+  "jury": null,
+  "spokesperson": "Urve Tiidus"
+}

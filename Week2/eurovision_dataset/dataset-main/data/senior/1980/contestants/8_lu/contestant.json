@@ -1,0 +1,39 @@
+{
+  "id": 8,
+  "country": "LU",
+  "artist": "Sophie & Magaly",
+  "song": "Papa Pingouin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K8XRWZ-0Faw",
+    "https://www.youtube-nocookie.com/embed/15Dv4UH5lUA"
+  ],
+  "bpm": 117,
+  "tone": "D major",
+  "artistPeople": [
+    "Magaly Gilles",
+    "Sophie Gilles"
+  ],
+  "backings": [
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gunter Johansen",
+    "Ralph Siegel"
+  ],
+  "conductor": "Norbert Daum",
+  "lyricists": [
+    "Jean-Paul Cara",
+    "Pierre Delanoë"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

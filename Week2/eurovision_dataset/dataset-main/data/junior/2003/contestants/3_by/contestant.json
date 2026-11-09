@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "country": "BY",
+  "artist": "Volha Satsiuk",
+  "song": "Tantsuy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/guRtqN9hNgY",
+    "https://www.youtube-nocookie.com/embed/gHy63AXCqek"
+  ],
+  "bpm": 130,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Volha Satsiuk"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Volha Satsiuk"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

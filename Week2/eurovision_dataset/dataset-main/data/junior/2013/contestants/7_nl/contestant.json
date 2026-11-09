@@ -1,0 +1,31 @@
+{
+  "id": 7,
+  "country": "NL",
+  "artist": "Mylène & Rosanne",
+  "song": "Double Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aTtiRu7Sfs8",
+    "https://www.youtube-nocookie.com/embed/MTX1lNsU1A0"
+  ],
+  "bpm": 102,
+  "tone": "F minor",
+  "artistPeople": [
+    "Mylène Waalewijn",
+    "Rosanne Waalewijn"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mylène Waalewijn",
+    "Rosanne Waalewijn",
+    "Tjeerd P. Oosterhuis"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

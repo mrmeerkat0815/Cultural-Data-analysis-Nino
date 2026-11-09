@@ -1,0 +1,39 @@
+{
+  "id": 39,
+  "country": "LV",
+  "artist": "Anmary",
+  "song": "Beautiful Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KAxYfMFE_94",
+    "https://www.youtube-nocookie.com/embed/BeXo4HzpmuU",
+    "https://www.youtube-nocookie.com/embed/DuOBY-S63Rk"
+  ],
+  "bpm": 88,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Linda Amantova"
+  ],
+  "backings": [
+    "Anita Levša",
+    "Anna Zhukova",
+    "Jelena Matule",
+    "Līga Robežniece"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivars Makstnieks"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Rolans Ūdris"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Būmeisters",
+    "Valters Frīdenbergs"
+  ],
+  "jury": null,
+  "spokesperson": "Valters Frīdenbergs"
+}

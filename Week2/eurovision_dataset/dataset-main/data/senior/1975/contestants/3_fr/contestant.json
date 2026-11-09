@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Nicole Rieu",
+  "song": "Et bonjour à toi l'artiste",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/exd-6ev_Ja4",
+    "https://www.youtube-nocookie.com/embed/oIjJ3naODZs",
+    "https://www.youtube-nocookie.com/embed/LLnQnyEWr4c",
+    "https://www.youtube-nocookie.com/embed/_Izz1aoxjm0",
+    "https://www.youtube-nocookie.com/embed/DwQfbJw2a2Y",
+    "https://www.youtube-nocookie.com/embed/eWqBQgCbA0M"
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "artistPeople": [
+    "Nicole Rieu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jean Musy",
+  "lyricists": null,
+  "writers": [
+    "Jaff Barnel",
+    "Pierre Delanoë"
+  ],
+  "broadcaster": "TF1",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Drucker"
+}

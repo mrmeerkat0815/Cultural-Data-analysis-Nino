@@ -1,0 +1,39 @@
+{
+  "id": 15,
+  "country": "DK",
+  "artist": "Kølig Kaj",
+  "song": "Stemmen i mit liv",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HDoaLOZ3m9M",
+    "https://www.youtube-nocookie.com/embed/VMFwsHbVvDY",
+    "https://www.youtube-nocookie.com/embed/lYlwcq3WuyE"
+  ],
+  "bpm": 94,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Kølig Kaj"
+  ],
+  "backings": [
+    "Christina Juul Hansen",
+    "Lise Dandanell",
+    "Marlene Britt Hansen",
+    "Mikala Matzau",
+    "Susanne Carstensen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lars Pedersen"
+  ],
+  "conductor": "Jan Glæsel",
+  "lyricists": [
+    "Thomas Lægård"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Hans Otto Bisgaard"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

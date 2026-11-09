@@ -1,0 +1,33 @@
+{
+  "id": 22,
+  "country": "HU",
+  "artist": "Charlie",
+  "song": "A holnap már nem lesz szomorú",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1fgdjQmPwrY",
+    "https://www.youtube-nocookie.com/embed/YQHgyw_o4Pc",
+    "https://www.youtube-nocookie.com/embed/yZstoA0x80g"
+  ],
+  "bpm": 70,
+  "tone": "F major",
+  "artistPeople": [
+    "Károly Horváth"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "István Lerch"
+  ],
+  "conductor": "Miklós Malek",
+  "lyricists": [
+    "Attila Horváth"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": null,
+  "spokesperson": "Barna Héder"
+}

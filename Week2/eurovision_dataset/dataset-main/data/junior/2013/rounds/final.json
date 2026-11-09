@@ -1,0 +1,151 @@
+{
+  "date": "2013-11-30",
+  "time": null,
+  "disqualifieds": null,
+  "performances": [
+    {
+      "contestantId": 0,
+      "running": 11,
+      "place": 1,
+      "scores": [
+        {
+          "name": "total",
+          "points": 130,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 1,
+      "running": 6,
+      "place": 2,
+      "scores": [
+        {
+          "name": "total",
+          "points": 121,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 2,
+      "running": 7,
+      "place": 3,
+      "scores": [
+        {
+          "name": "total",
+          "points": 108,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 3,
+      "running": 12,
+      "place": 4,
+      "scores": [
+        {
+          "name": "total",
+          "points": 106,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 4,
+      "running": 9,
+      "place": 5,
+      "scores": [
+        {
+          "name": "total",
+          "points": 91,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 5,
+      "running": 3,
+      "place": 6,
+      "scores": [
+        {
+          "name": "total",
+          "points": 69,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 6,
+      "running": 2,
+      "place": 7,
+      "scores": [
+        {
+          "name": "total",
+          "points": 66,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 7,
+      "running": 10,
+      "place": 8,
+      "scores": [
+        {
+          "name": "total",
+          "points": 59,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 8,
+      "running": 1,
+      "place": 9,
+      "scores": [
+        {
+          "name": "total",
+          "points": 46,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 9,
+      "running": 4,
+      "place": 10,
+      "scores": [
+        {
+          "name": "total",
+          "points": 42,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 10,
+      "running": 8,
+      "place": 11,
+      "scores": [
+        {
+          "name": "total",
+          "points": 41,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 11,
+      "running": 5,
+      "place": 12,
+      "scores": [
+        {
+          "name": "total",
+          "points": 19,
+          "votes": null
+        }
+      ]
+    }
+  ]
+}

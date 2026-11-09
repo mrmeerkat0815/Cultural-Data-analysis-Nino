@@ -1,0 +1,33 @@
+{
+  "id": 2,
+  "country": "LU",
+  "artist": "Camillo Felgen",
+  "song": "Petit bonhomme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iPyam2tNeRg",
+    "https://www.youtube-nocookie.com/embed/2YysQ3_3a5g",
+    "https://www.youtube-nocookie.com/embed/ujbE4Zsz-AM"
+  ],
+  "bpm": 115,
+  "tone": "C major",
+  "artistPeople": [
+    "Camille Jean Nicolas Felgen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jacques Datin"
+  ],
+  "conductor": "Jean Roderes",
+  "lyricists": [
+    "Maurice Vidalin"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Nicole Védrès"
+  ],
+  "jury": null,
+  "spokesperson": "Robert Diligent"
+}

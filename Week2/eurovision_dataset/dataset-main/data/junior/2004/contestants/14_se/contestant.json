@@ -1,0 +1,30 @@
+{
+  "id": 14,
+  "country": "SE",
+  "artist": "Limelights",
+  "song": "Varför jag?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uz7HmhmkAcc",
+    "https://www.youtube-nocookie.com/embed/xWqmCLFB20k"
+  ],
+  "bpm": 102,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Anna Jalkéus",
+    "Liselotte Östblom"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anna Jalkéus",
+    "Liselotte Östblom"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

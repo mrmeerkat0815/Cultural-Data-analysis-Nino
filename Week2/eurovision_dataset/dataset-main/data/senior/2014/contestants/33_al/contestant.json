@@ -1,0 +1,43 @@
+{
+  "id": 33,
+  "country": "AL",
+  "artist": "Hersi",
+  "song": "One Night's Anger",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ahu_K_Jh2vc",
+    "https://www.youtube-nocookie.com/embed/J4ABpIspdic",
+    "https://www.youtube-nocookie.com/embed/l30HPHvpxso",
+    "https://www.youtube-nocookie.com/embed/tdFDRz9DkbM"
+  ],
+  "bpm": 152,
+  "tone": "F minor",
+  "artistPeople": [
+    "Hersjana Matmuja"
+  ],
+  "backings": [
+    "Erga Halilaj",
+    "Olsa Papandili"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gentian Lako"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jorgo Papingji"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Alfred Kacinari",
+    "Edmond Zhulali",
+    "Engjell Ndocaj",
+    "Jetmir Barbullushi",
+    "Mira Tuci"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

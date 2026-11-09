@@ -1,0 +1,33 @@
+{
+  "id": 16,
+  "country": "GR",
+  "artist": "Takis Biniaris",
+  "song": "Miazoume",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_HIqrWzh75w",
+    "https://www.youtube-nocookie.com/embed/Uas8g9A16iY",
+    "https://www.youtube-nocookie.com/embed/l-OY2DKS87U"
+  ],
+  "bpm": 135,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Takis Biniaris"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Takis Biniaris"
+  ],
+  "conductor": "Haris Andreadis",
+  "lyricists": [
+    "Maro Bizani"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Kelly Sakakou"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "country": "RU",
+  "artist": "Vladislav Krutskikh",
+  "song": "Doroga k solntsu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5_Q5m2Tg1VI",
+    "https://www.youtube-nocookie.com/embed/bX-Ep6odCNc"
+  ],
+  "bpm": 95,
+  "tone": "A minor",
+  "artistPeople": [
+    "Vladislav Krutskikh"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Artyom Kavaleryan",
+    "Kim Breitburg",
+    "Vladislav Krutskikh"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

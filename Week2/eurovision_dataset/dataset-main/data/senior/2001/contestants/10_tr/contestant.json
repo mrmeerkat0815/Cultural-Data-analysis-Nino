@@ -1,0 +1,34 @@
+{
+  "id": 10,
+  "country": "TR",
+  "artist": "Sedat Yüce",
+  "song": "Sevgiliye son",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sR6LmOnwOjk",
+    "https://www.youtube-nocookie.com/embed/fzXpEu7Y0Ik",
+    "https://www.youtube-nocookie.com/embed/AX8VKwepwrY"
+  ],
+  "bpm": 147,
+  "tone": "C major",
+  "artistPeople": [
+    "Sedat Yüce"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Semih Güneri"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Figen Çakmak",
+    "Nurdan Güneri"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Ömer Önder"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

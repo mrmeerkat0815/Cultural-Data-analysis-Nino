@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Michael Ball",
+  "song": "One Step Out Of Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wR2D3a0mWeo",
+    "https://www.youtube-nocookie.com/embed/mz8YihDqNJc",
+    "https://www.youtube-nocookie.com/embed/QP4vcQl6O2Y"
+  ],
+  "bpm": 126,
+  "tone": "E major",
+  "artistPeople": [
+    "Michael Ball"
+  ],
+  "backings": [
+    "Michael Mullins",
+    "Peter Beckett"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Paul Davies",
+    "Tony Ryan",
+    "Victor Stratton"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 0,
+  "country": "CH",
+  "artist": "Céline Dion",
+  "song": "Ne partez pas sans moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VXLWfXmlXPc",
+    "https://www.youtube-nocookie.com/embed/TuSr-dJz3h8",
+    "https://www.youtube-nocookie.com/embed/VEenAGm7IpE",
+    "https://www.youtube-nocookie.com/embed/PiwY4QqRF8A",
+    "https://www.youtube-nocookie.com/embed/I1CwpCNThO4",
+    "https://www.youtube-nocookie.com/embed/fc15NK89NjI",
+    "https://www.youtube-nocookie.com/embed/6sShwQ6DryI"
+  ],
+  "bpm": 144,
+  "tone": "F major",
+  "artistPeople": [
+    "Céline Marie Claudette Dion"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Atilla Şereftuğ"
+  ],
+  "conductor": "Atilla Şereftuğ",
+  "lyricists": [
+    "Nella Martinetti"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

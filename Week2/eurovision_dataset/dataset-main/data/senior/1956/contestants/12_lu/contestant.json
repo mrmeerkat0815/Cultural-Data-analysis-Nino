@@ -1,0 +1,30 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Michèle Arnaud",
+  "song": "Les Amants de minuit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r99NL_NvJps",
+    "https://www.youtube-nocookie.com/embed/1YIoHnEmcfU"
+  ],
+  "bpm": 99,
+  "tone": "B major",
+  "artistPeople": [
+    "Micheline Caré"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Simone Laurencin"
+  ],
+  "conductor": "Jacques Lassry",
+  "lyricists": [
+    "Jacques Lassry"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

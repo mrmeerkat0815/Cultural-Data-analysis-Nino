@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "NL",
+  "artist": "Thérèse Steinmetz",
+  "song": "Ring-dinge",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/54AX_A4Fcks",
+    "https://www.youtube-nocookie.com/embed/6QMY3pmYFO8"
+  ],
+  "bpm": 114,
+  "tone": "C minor",
+  "artistPeople": [
+    "Thérèse Steinmetz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Johnny Woodhouse"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Gerrit den Braber"
+  ],
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Leo Nelissen"
+  ],
+  "jury": null,
+  "spokesperson": "Ellen Blazer"
+}

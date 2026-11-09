@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "country": "GB",
+  "artist": "Prima Donna",
+  "song": "Love Enough for Two",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3tOyTEXQRLo",
+    "https://www.youtube-nocookie.com/embed/tfiqcuD_QZk"
+  ],
+  "bpm": 137,
+  "tone": "E major",
+  "artistPeople": [
+    "Alan Coates",
+    "Danny Finn",
+    "Jane Robbins",
+    "Kate Robbins",
+    "Lance Aston",
+    "Sally Ann Triplett"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "John Coleman",
+  "lyricists": null,
+  "writers": [
+    "Stephanie de Sykes",
+    "Stuart Slater"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Ray Moore"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 15,
+  "country": "ES",
+  "artist": "Mikel Herzog",
+  "song": "¿Qué voy a hacer sin ti?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BghC0ueSTqs",
+    "https://www.youtube-nocookie.com/embed/mpeyuB_gEvA"
+  ],
+  "bpm": 147,
+  "tone": "C major",
+  "artistPeople": [
+    "Miguel Herzog Herzog"
+  ],
+  "backings": [
+    "Adolfo Rodríguez",
+    "Andrea Bronston",
+    "Esmeralda Cayuelas",
+    "José María Guzmán",
+    "Soledad 'Sol' Pilas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alberto Estébanez"
+  ],
+  "conductor": "Alberto Estébanez",
+  "lyricists": [
+    "Mikel Herzog"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Belén Fernández de Henestrosa"
+}

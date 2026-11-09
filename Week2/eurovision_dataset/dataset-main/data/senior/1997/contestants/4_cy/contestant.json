@@ -1,0 +1,34 @@
+{
+  "id": 4,
+  "country": "CY",
+  "artist": "Chara and Andreas Konstantinou",
+  "song": "Mana mou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tA5G4JyUyLE",
+    "https://www.youtube-nocookie.com/embed/oer5x_bD0_M",
+    "https://www.youtube-nocookie.com/embed/VlfF9OgJxug"
+  ],
+  "bpm": 126,
+  "tone": "D minor",
+  "artistPeople": [
+    "Andreas Konstantinou",
+    "Hara Konstantinou"
+  ],
+  "backings": [
+    "Charalambos Brountzos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Stavros Lantsias",
+  "lyricists": null,
+  "writers": [
+    "Constantina Konstantinou"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Marios Skordis"
+}

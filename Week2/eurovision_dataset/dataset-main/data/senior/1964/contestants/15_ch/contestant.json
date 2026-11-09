@@ -1,0 +1,34 @@
+{
+  "id": 15,
+  "country": "CH",
+  "artist": "Anita Traversi",
+  "song": "I miei pensieri",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vF9LTyvuEX8",
+    "https://www.youtube-nocookie.com/embed/91WTGN6ufdY",
+    "https://www.youtube-nocookie.com/embed/pG2qmXaVehA"
+  ],
+  "bpm": 124,
+  "tone": "F major",
+  "artistPeople": [
+    "Anita Traversi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giovanni Pelli"
+  ],
+  "conductor": "Fernando Paggi",
+  "lyricists": [
+    "Sanzio Chiesa"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

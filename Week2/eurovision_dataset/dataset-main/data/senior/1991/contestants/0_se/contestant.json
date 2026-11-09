@@ -1,0 +1,37 @@
+{
+  "id": 0,
+  "country": "SE",
+  "artist": "Carola",
+  "song": "Fångad av en stormvind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4Ml6pJqc_bw",
+    "https://www.youtube-nocookie.com/embed/yHYR_j3FJ3M",
+    "https://www.youtube-nocookie.com/embed/DkwTg74kK6I",
+    "https://www.youtube-nocookie.com/embed/yUae6Eqx1zk",
+    "https://www.youtube-nocookie.com/embed/7j2nWtNX8T0"
+  ],
+  "bpm": 93,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Carola Maria Häggkvist"
+  ],
+  "backings": [
+    "Elisabeth Melander",
+    "Margareta Nilsson",
+    "Staffan Paulsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Stephan Berg"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Harald Treutiger"
+  ],
+  "jury": null,
+  "spokesperson": "Bo Hagström"
+}

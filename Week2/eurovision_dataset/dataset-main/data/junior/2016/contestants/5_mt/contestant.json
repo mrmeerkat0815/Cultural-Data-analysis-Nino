@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "country": "MT",
+  "artist": "Christina Magrin",
+  "song": "Parachute",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7wFcHNEkUwE",
+    "https://www.youtube-nocookie.com/embed/PHlpmf6Z2iQ"
+  ],
+  "bpm": 124,
+  "tone": "A major",
+  "artistPeople": [
+    "Christina Magrin"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Florent Boshnjaku"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Christina Magrin",
+    "Matt Muxu Mercieca"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

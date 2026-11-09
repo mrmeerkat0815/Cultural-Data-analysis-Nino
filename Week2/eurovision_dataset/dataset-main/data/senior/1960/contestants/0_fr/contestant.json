@@ -1,0 +1,34 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "Jacqueline Boyer",
+  "song": "Tom Pillibi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oX_hlMchXvc",
+    "https://www.youtube-nocookie.com/embed/rrvg5-y_n_Y",
+    "https://www.youtube-nocookie.com/embed/xCieSR1Tk5E",
+    "https://www.youtube-nocookie.com/embed/RegtgqhHuJ4"
+  ],
+  "bpm": 133,
+  "tone": "A major",
+  "artistPeople": [
+    "Jacqueline Ducos"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Popp"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Armand Lanoux"
+}

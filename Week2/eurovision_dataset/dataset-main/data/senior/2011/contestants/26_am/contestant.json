@@ -1,0 +1,40 @@
+{
+  "id": 26,
+  "country": "AM",
+  "artist": "Emmy",
+  "song": "Boom Boom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FsKBnL6dWOk",
+    "https://www.youtube-nocookie.com/embed/zqJD7fPSWAc",
+    "https://www.youtube-nocookie.com/embed/nJiOylTbwPg"
+  ],
+  "bpm": 130,
+  "tone": "C minor",
+  "artistPeople": [
+    "Emma Bejanyan"
+  ],
+  "backings": [
+    "Charalampos Christodoulou",
+    "Charis Savvas",
+    "Emy Armine Zaryan",
+    "Jenia Evgenios Buli",
+    "Petros Zlatkos"
+  ],
+  "dancers": null,
+  "stageDirector": "Emy Armine Zaryan",
+  "composers": [
+    "Hayk Harutyunyan",
+    "Hayk Hovhannisyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sosi Khanikyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Artak Vardanyan"
+  ],
+  "jury": null,
+  "spokesperson": "Lusine Tovmasyan"
+}

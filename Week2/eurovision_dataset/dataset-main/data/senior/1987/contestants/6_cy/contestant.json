@@ -1,0 +1,38 @@
+{
+  "id": 6,
+  "country": "CY",
+  "artist": "Alexia",
+  "song": "Aspro mavro",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MoVBmWY_Ia4",
+    "https://www.youtube-nocookie.com/embed/sGZAn1hJkGI",
+    "https://www.youtube-nocookie.com/embed/nQ2JVLZo9Pc"
+  ],
+  "bpm": 133,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Alexia Bassiliou"
+  ],
+  "backings": [
+    "Andreas Papapaulou",
+    "Elena Patroklou",
+    "Evridiki Theokleous",
+    "Haris Anastasiou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andreas Papapaulou"
+  ],
+  "conductor": "Jo Carlier",
+  "lyricists": [
+    "Maria Papapaulou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Fryni Papadopoulou"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

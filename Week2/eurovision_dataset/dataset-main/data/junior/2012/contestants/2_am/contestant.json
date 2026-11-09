@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "country": "AM",
+  "artist": "Compass Band",
+  "song": "Sweetie Baby",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hOI_82XfuWU",
+    "https://www.youtube-nocookie.com/embed/8wSeLaXCwWs"
+  ],
+  "bpm": 103,
+  "tone": "G minor",
+  "artistPeople": [
+    "Davit Paronikyan",
+    "Abraham Aznavuryan",
+    "Arshavir Grigoryan",
+    "Aram Tsaturyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Davit Paronikyan"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "country": "FR",
+  "artist": "Amina",
+  "song": "C'est le dernier qui a parlé qui a raison",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qom6NzhYhnI",
+    "https://www.youtube-nocookie.com/embed/XdrlmMtgqGg"
+  ],
+  "bpm": 178,
+  "tone": "C major",
+  "artistPeople": [
+    "Amina Annabi"
+  ],
+  "backings": [
+    "Jean-Jacques Hertz",
+    "Maurice Poto Dudongo",
+    "Tony Allen",
+    "Wasis Diop",
+    "Zouhir Gouja"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Wasis Diop"
+  ],
+  "conductor": "Jérôme Pillement",
+  "lyricists": [
+    "Amina Annabi"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": "Marie-France Brière"
+}

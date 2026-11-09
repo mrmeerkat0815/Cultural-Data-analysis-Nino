@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Jean Gabilou",
+  "song": "Humanahum",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DSaWjDs8FSg",
+    "https://www.youtube-nocookie.com/embed/2AJGE48SPPQ",
+    "https://www.youtube-nocookie.com/embed/NSnE7cr_oIg",
+    "https://www.youtube-nocookie.com/embed/D0IjC0UkD8U",
+    "https://www.youtube-nocookie.com/embed/AFtHM__ZIhY"
+  ],
+  "bpm": 132,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jean Gabilou"
+  ],
+  "backings": [
+    "Francine Chantereau",
+    "Georges Costa",
+    "Martine Latorre",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Paul Cara"
+  ],
+  "conductor": "David Springfield",
+  "lyricists": [
+    "Joe Gracy"
+  ],
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Patrick Sabatier"
+  ],
+  "jury": null,
+  "spokesperson": "Fabienne Égal"
+}

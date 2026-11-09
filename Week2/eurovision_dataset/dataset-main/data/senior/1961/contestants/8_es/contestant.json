@@ -1,0 +1,33 @@
+{
+  "id": 8,
+  "country": "ES",
+  "artist": "Conchita Bautista",
+  "song": "Estando contigo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FAvnLCTvIwo",
+    "https://www.youtube-nocookie.com/embed/Y9Ott0k-1-Y",
+    "https://www.youtube-nocookie.com/embed/HScyKsze-dE"
+  ],
+  "bpm": 93,
+  "tone": "G major",
+  "artistPeople": [
+    "María Concepción Bautista Fernández"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Augusto Algueró"
+  ],
+  "conductor": "Rafael Ferrer",
+  "lyricists": [
+    "Antonio Guijarro"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Diego Ramírez Pastor"
+}

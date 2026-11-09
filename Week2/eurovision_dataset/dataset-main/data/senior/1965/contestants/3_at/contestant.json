@@ -1,0 +1,34 @@
+{
+  "id": 3,
+  "country": "AT",
+  "artist": "Udo Jürgens",
+  "song": "Sag ihr, ich lass sie grüßen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tR3LEkbiYqk",
+    "https://www.youtube-nocookie.com/embed/zhqTk2xCOTo",
+    "https://www.youtube-nocookie.com/embed/vBzyZrzjFmQ",
+    "https://www.youtube-nocookie.com/embed/KyiifcxX1pw"
+  ],
+  "bpm": 129,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jürgen Udo Bockelmann"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Udo Jürgens"
+  ],
+  "conductor": "Gianni Ferrio",
+  "lyricists": [
+    "Frank Bohlen"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Willy Kralik"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

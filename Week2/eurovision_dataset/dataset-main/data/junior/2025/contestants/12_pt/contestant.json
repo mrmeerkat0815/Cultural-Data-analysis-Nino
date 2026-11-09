@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "country": "PT",
+  "artist": "Inês Gonçalves",
+  "song": "Para onde vai o amor?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aI8aLVO7ttw"
+  ],
+  "bpm": 78,
+  "tone": "E minor",
+  "artistPeople": [
+    "Inês Gonçalves"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aurora Pinto",
+    "Buba Espinho",
+    "João Direitinho",
+    "Miguel Cristovinho"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Aurora Pinto",
+    "João Direitinho",
+    "Miguel Cristovinho"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

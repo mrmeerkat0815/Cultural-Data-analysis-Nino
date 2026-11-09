@@ -1,0 +1,41 @@
+{
+  "id": 0,
+  "country": "SE",
+  "artist": "Herrey's",
+  "song": "Diggi-loo Diggy-ley",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ySOCalwr6Yo",
+    "https://www.youtube-nocookie.com/embed/dHm5zRJfLkE",
+    "https://www.youtube-nocookie.com/embed/siVc8LvdXHo",
+    "https://www.youtube-nocookie.com/embed/lVKUo14AqB8",
+    "https://www.youtube-nocookie.com/embed/CISEe-LsvV4"
+  ],
+  "bpm": 131,
+  "tone": "F major",
+  "artistPeople": [
+    "Louis Herrey",
+    "Per Herrey",
+    "Richard Herrey"
+  ],
+  "backings": [
+    "Anders Engberg",
+    "Caj Högberg",
+    "Lotta Pedersen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Torgny Söderberg"
+  ],
+  "conductor": "Curt-Eric Holmquist",
+  "lyricists": [
+    "Britt Lindeborg"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Fredrik Belfrage"
+  ],
+  "jury": null,
+  "spokesperson": "Agneta Bolme-Börjefors"
+}

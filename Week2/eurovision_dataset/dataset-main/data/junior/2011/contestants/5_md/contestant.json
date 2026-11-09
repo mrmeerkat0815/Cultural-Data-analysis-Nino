@@ -1,0 +1,28 @@
+{
+  "id": 5,
+  "country": "MD",
+  "artist": "Lerika",
+  "song": "No, No",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IcbgqSLW6b8",
+    "https://www.youtube-nocookie.com/embed/w-PxYXC5EEs"
+  ],
+  "bpm": 104,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Valeriya Andreyevna Engalycheva"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Eugen Doibani"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

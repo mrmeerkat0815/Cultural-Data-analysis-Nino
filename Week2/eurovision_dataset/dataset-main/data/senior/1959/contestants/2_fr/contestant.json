@@ -1,0 +1,32 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Jean Philippe",
+  "song": "Oui, oui, oui, oui",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S9AwgxTre08",
+    "https://www.youtube-nocookie.com/embed/dYTZdieQNYI"
+  ],
+  "bpm": 120,
+  "tone": "A major",
+  "artistPeople": [
+    "Jean Philippe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Claude Darget"
+  ],
+  "jury": null,
+  "spokesperson": "Marianne Lecène"
+}

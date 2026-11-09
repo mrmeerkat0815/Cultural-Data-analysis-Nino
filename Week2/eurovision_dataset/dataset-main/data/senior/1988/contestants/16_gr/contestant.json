@@ -1,0 +1,35 @@
+{
+  "id": 16,
+  "country": "GR",
+  "artist": "Aphroditi Fryda",
+  "song": "Kloun",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HfUAlWFF8Rg",
+    "https://www.youtube-nocookie.com/embed/exLtC0f3AxY"
+  ],
+  "bpm": 141,
+  "tone": "C major",
+  "artistPeople": [
+    "Afroditi Fryda"
+  ],
+  "backings": [
+    "Amanda Grand",
+    "Maria Vasiliou",
+    "Romi Roumelioti",
+    "Stelios Konstantinou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Haris Andreadis",
+  "lyricists": null,
+  "writers": [
+    "Dimitris Sakislis"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

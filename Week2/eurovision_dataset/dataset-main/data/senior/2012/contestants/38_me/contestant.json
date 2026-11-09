@@ -1,0 +1,39 @@
+{
+  "id": 38,
+  "country": "ME",
+  "artist": "Rambo Amadeus",
+  "song": "Euro Neuro",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JHnqF5PLP2w",
+    "https://www.youtube-nocookie.com/embed/D6S-FNLv2jQ"
+  ],
+  "bpm": 115,
+  "tone": "D major",
+  "artistPeople": [
+    "Antonije Pušić"
+  ],
+  "backings": [
+    "Igor Malesević",
+    "Miroslav Tovirac",
+    "Nikola Mijomanović",
+    "Todor Konjević",
+    "Vadimir Božović"
+  ],
+  "dancers": null,
+  "stageDirector": "Draško Đurović",
+  "composers": [
+    "Magnifico"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Rambo Amadeus"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Marija Marković"
+}

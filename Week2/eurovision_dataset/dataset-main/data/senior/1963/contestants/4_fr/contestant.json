@@ -1,0 +1,34 @@
+{
+  "id": 4,
+  "country": "FR",
+  "artist": "Alain Barrière",
+  "song": "Elle était si jolie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gkB6U5hYj1Q",
+    "https://www.youtube-nocookie.com/embed/_xul-8tQQzo",
+    "https://www.youtube-nocookie.com/embed/-4C6SqcwX8w",
+    "https://www.youtube-nocookie.com/embed/45ojPWemWlY"
+  ],
+  "bpm": 120,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alain Bellec"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alain Barrière"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "A. Migiani"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Armand Lanoux"
+}

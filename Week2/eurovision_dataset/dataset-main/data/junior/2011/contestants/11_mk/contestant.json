@@ -1,0 +1,30 @@
+{
+  "id": 11,
+  "country": "MK",
+  "artist": "Dorijan Dlaka",
+  "song": "Žimi ovoj frak",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NCCioQoGYxA",
+    "https://www.youtube-nocookie.com/embed/EtnqmGYub-A",
+    "https://www.youtube-nocookie.com/embed/99-KgJAg86s",
+    "https://www.youtube-nocookie.com/embed/HsVcIjLo3RU"
+  ],
+  "bpm": 136,
+  "tone": "C major",
+  "artistPeople": [
+    "Dorijan Dlaka"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dorijan Dlaka"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

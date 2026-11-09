@@ -1,0 +1,41 @@
+{
+  "id": 6,
+  "country": "SE",
+  "artist": "Arvingarna",
+  "song": "Eloise",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NJEZ3BGybrE",
+    "https://www.youtube-nocookie.com/embed/d5u9XNghD6g",
+    "https://www.youtube-nocookie.com/embed/8Vt59Hrozio",
+    "https://www.youtube-nocookie.com/embed/wS8Gs-FRDdE"
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Casper Janebrink",
+    "Kim Carlsson",
+    "Lars 'Lasseman' Larsson",
+    "Tommy Carlsson"
+  ],
+  "backings": [
+    "Lennart Sjöholm",
+    "Peeter Wiik"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lasse Holm"
+  ],
+  "conductor": "Curt-Eric Holmquist",
+  "lyricists": [
+    "Gert Lengstrand"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Jan Jingryd",
+    "Kåge Gimtell"
+  ],
+  "jury": null,
+  "spokesperson": "Gösta Hanson"
+}

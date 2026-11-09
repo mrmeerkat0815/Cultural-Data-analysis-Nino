@@ -1,0 +1,40 @@
+{
+  "id": 18,
+  "country": "DK",
+  "artist": "Anders Frandsen",
+  "song": "Lige der hvor hjertet slår",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0_xIqvlPx9Y",
+    "https://www.youtube-nocookie.com/embed/ES-ZsLVsXAM",
+    "https://www.youtube-nocookie.com/embed/23P6Ahvfc6A",
+    "https://www.youtube-nocookie.com/embed/M8K2SZGmTBA"
+  ],
+  "bpm": 109,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Anders Frandsen"
+  ],
+  "backings": [
+    "Jacob Launbjerg",
+    "Lei Moe",
+    "Lupe Moe",
+    "Michael Elo",
+    "Peter Busborg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": null,
+  "writers": [
+    "Michael Elo"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Camilla Miehe-Renard"
+  ],
+  "jury": [
+    "Eli Berenthz"
+  ],
+  "spokesperson": "Bent Henius"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9,
+  "country": "RO",
+  "artist": "Bubu",
+  "song": "Tobele sunt viața mea",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_mIFnrn6HAE",
+    "https://www.youtube-nocookie.com/embed/dPrcQSc89IU"
+  ],
+  "bpm": 130,
+  "tone": "D major",
+  "artistPeople": [
+    "Bubu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

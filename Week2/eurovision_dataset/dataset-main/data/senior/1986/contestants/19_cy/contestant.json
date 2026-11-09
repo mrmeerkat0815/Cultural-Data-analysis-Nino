@@ -1,0 +1,36 @@
+{
+  "id": 19,
+  "country": "CY",
+  "artist": "Elpida",
+  "song": "Tora zo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AroZh3yXsQo",
+    "https://www.youtube-nocookie.com/embed/snkol0jqvrU",
+    "https://www.youtube-nocookie.com/embed/WeosVPsQPtE"
+  ],
+  "bpm": 135,
+  "tone": "C major",
+  "artistPeople": [
+    "Elpida Karali"
+  ],
+  "backings": [
+    "Evridiki Theokleous"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Yiannakis"
+  ],
+  "conductor": "Martyn Ford",
+  "lyricists": [
+    "Fivos Gavris",
+    "Peter Yiannakis"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Neophytos Taliotis"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

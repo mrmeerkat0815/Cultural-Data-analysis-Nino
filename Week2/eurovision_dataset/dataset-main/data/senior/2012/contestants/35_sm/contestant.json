@@ -1,0 +1,46 @@
+{
+  "id": 35,
+  "country": "SM",
+  "artist": "Valentina Monetta",
+  "song": "The Social Network Song (Oh Oh – Uh - Oh Oh)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/y7IoR_5HPQ0",
+    "https://www.youtube-nocookie.com/embed/PqwBh9hq9PE"
+  ],
+  "bpm": 106,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Valentina Monetta"
+  ],
+  "backings": [
+    "Alexandra Sieber",
+    "Giacomo Di Benedetto",
+    "Giovanna Naber",
+    "Peter Bischof",
+    "Vera Klima"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "José Juan Santana Rodriguez",
+    "Timothy Touchton"
+  ],
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Angelo Guidi",
+    "Giulia Lazarini",
+    "Laura Casetta",
+    "Marco Capicchioni",
+    "Massimiliano Messieri"
+  ],
+  "spokesperson": "Monica Fabbri"
+}

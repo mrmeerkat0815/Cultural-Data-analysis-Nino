@@ -1,0 +1,33 @@
+{
+  "id": 22,
+  "country": "FR",
+  "artist": "Sofia Mestari",
+  "song": "On aura le ciel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-WsXhRTIYRo",
+    "https://www.youtube-nocookie.com/embed/swbhiJYSUwo",
+    "https://www.youtube-nocookie.com/embed/PzL6bFy9l8E",
+    "https://www.youtube-nocookie.com/embed/Nox6TfztG5A"
+  ],
+  "bpm": 94,
+  "tone": "B major",
+  "artistPeople": [
+    "Sofia Mestari"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Benoît Heinrich",
+    "Pierre Legay"
+  ],
+  "broadcaster": "France 3",
+  "commentators": [
+    "Julien Lepers"
+  ],
+  "jury": null,
+  "spokesperson": "Marie Myriam"
+}

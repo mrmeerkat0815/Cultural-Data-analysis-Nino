@@ -1,0 +1,44 @@
+{
+  "id": 3,
+  "country": "EE",
+  "artist": "Ines",
+  "song": "Once In A Lifetime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mumDDE7s13o",
+    "https://www.youtube-nocookie.com/embed/_5EqdnXi7AY",
+    "https://www.youtube-nocookie.com/embed/5Tb3aC9BY_E",
+    "https://www.youtube-nocookie.com/embed/HH7aOhclNZk",
+    "https://www.youtube-nocookie.com/embed/J6hpbJYe840",
+    "https://www.youtube-nocookie.com/embed/ZQ8bfhjpbGQ"
+  ],
+  "bpm": 125,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Eda-Ines Etti"
+  ],
+  "backings": [
+    "Jelena Juzvik",
+    "Kadri 'Maiken' Koppel",
+    "Kaire Vilgats",
+    "Pearu Paulus",
+    "Tanel Padar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alar Kotkas",
+    "Ilmar Laisaar",
+    "Pearu Paulus"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jana Hallas"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Evelin Samuel"
+}

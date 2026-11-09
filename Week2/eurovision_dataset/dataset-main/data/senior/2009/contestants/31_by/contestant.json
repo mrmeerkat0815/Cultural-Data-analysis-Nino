@@ -1,0 +1,40 @@
+{
+  "id": 31,
+  "country": "BY",
+  "artist": "Petr Elfimov",
+  "song": "Eyes That Never Lie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xy4CX_IKEfQ",
+    "https://www.youtube-nocookie.com/embed/Mr0CBaEpHz4",
+    "https://www.youtube-nocookie.com/embed/rTdl5BYK6OY",
+    "https://www.youtube-nocookie.com/embed/mJaxazvV760"
+  ],
+  "bpm": 138,
+  "tone": "C major",
+  "artistPeople": [
+    "Petr Elfimov"
+  ],
+  "backings": [
+    "Anton Toimentsau",
+    "Dzmitry Mikulich",
+    "Ekaterina Matskevich",
+    "Ivan Zhancak",
+    "Philip Mazurov"
+  ],
+  "dancers": null,
+  "stageDirector": "Janusz Józefowicz",
+  "composers": [
+    "Petr Elfimov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Valery Prokhozhy"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": null,
+  "spokesperson": "Ekaterina Litvinova"
+}

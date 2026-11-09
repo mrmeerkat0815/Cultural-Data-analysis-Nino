@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "PT",
+  "artist": "Lúcia Moniz",
+  "song": "O meu coração não tem cor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/04u9XEiPOIw",
+    "https://www.youtube-nocookie.com/embed/uyD5K-F2U04",
+    "https://www.youtube-nocookie.com/embed/3nHdLP30CPc"
+  ],
+  "bpm": 172,
+  "tone": "D minor",
+  "artistPeople": [
+    "Ana Lúcia Pereira Moniz"
+  ],
+  "backings": [
+    "Fernanda Lopes",
+    "Laura Ferreira",
+    "Manuel Lourenço",
+    "Telmo Miranda"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pedro Osório"
+  ],
+  "conductor": "Pedro Osório",
+  "lyricists": [
+    "José Fanha"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Maria Margarida Gaspar"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Rocha"
+}

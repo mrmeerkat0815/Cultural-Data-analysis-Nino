@@ -1,0 +1,37 @@
+{
+  "id": 12,
+  "country": "AT",
+  "artist": "Stella Jones",
+  "song": "Die Welt dreht sich verkehrt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ta-dzguUpJY",
+    "https://www.youtube-nocookie.com/embed/FS531GWm9pY",
+    "https://www.youtube-nocookie.com/embed/keP8H-GRe7I"
+  ],
+  "bpm": 100,
+  "tone": "A major",
+  "artistPeople": [
+    "Stellisa Zacher"
+  ],
+  "backings": [
+    "Gerhard Lux",
+    "Jacqueline Patricio da Luz",
+    "Linda Spa",
+    "Lisa Jacob",
+    "Thomas Lang"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Michael Kienzl",
+  "lyricists": null,
+  "writers": [
+    "Mischa Krausz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

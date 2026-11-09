@@ -1,0 +1,45 @@
+{
+  "id": 32,
+  "country": "CH",
+  "artist": "Lovebugs",
+  "song": "The Highest Heights",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OqBhqj5nIpE",
+    "https://www.youtube-nocookie.com/embed/CseWa_d43ck"
+  ],
+  "bpm": 118,
+  "tone": "F major",
+  "artistPeople": [
+    "Adrian Sieber",
+    "Florian Senn",
+    "Simon Ramseier",
+    "Stefan Wagner",
+    "Thomas Rechberger"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Adrian Sieber",
+    "Florian Senn",
+    "Thomas Rechberger"
+  ],
+  "broadcaster": "SRG SSR idée suisse",
+  "commentators": [
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sandy Altermatt",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Emel Aykanat",
+    "Giovanni Zamai",
+    "Jean-Marie Fontana",
+    "Judith Wernli",
+    "Michael von der Heide"
+  ],
+  "spokesperson": "Cécile Bähler"
+}

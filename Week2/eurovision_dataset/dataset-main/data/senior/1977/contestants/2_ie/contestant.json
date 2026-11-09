@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "country": "IE",
+  "artist": "The Swarbriggs Plus Two",
+  "song": "It's Nice to Be in Love Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/osYzY2ZUhpA",
+    "https://www.youtube-nocookie.com/embed/LX4yC10pUJY"
+  ],
+  "bpm": 118,
+  "tone": "A major",
+  "artistPeople": [
+    "Alma Carroll",
+    "John James Swarbrigg",
+    "Nicola Kerr",
+    "Thomas Sheridan Swarbrigg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Jimmy Swarbrigg",
+    "Tommy Swarbrigg"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "Brendan Balfe"
+}

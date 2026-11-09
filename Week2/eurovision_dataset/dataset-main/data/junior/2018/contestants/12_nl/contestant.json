@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Max & Anne",
+  "song": "Samen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/09DJwGM-nAI",
+    "https://www.youtube-nocookie.com/embed/YcfRjDahdnA",
+    "https://www.youtube-nocookie.com/embed/R1SkoyTU5SM"
+  ],
+  "bpm": 143,
+  "tone": "C# major",
+  "artistPeople": [
+    "Maxime Albertazzi",
+    "Anne Buhre"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Babette Labeij",
+    "Dimitri Veltkamp",
+    "Robin van Veen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Babette Labeij"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

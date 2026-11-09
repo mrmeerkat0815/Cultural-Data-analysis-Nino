@@ -1,0 +1,34 @@
+{
+  "id": 15,
+  "country": "CH",
+  "artist": "Cathy Leander",
+  "song": "Mon cœur l'aime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KSd5_KRILkU",
+    "https://www.youtube-nocookie.com/embed/00zAtc4-HDY"
+  ],
+  "bpm": 137,
+  "tone": "C# major",
+  "artistPeople": [
+    "Catherine Meyer"
+  ],
+  "backings": [
+    "Régis Mounir"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rui Filipe Reis",
+  "lyricists": null,
+  "writers": [
+    "Régis Mounir"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Joanne Holder",
+    "Pierre Grandjean",
+    "Sandra Studer"
+  ],
+  "jury": null,
+  "spokesperson": "Yves Ménestrier"
+}

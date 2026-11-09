@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "country": "LV",
+  "artist": "Dzintars Čīča",
+  "song": "Tu esi vasarā",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qFIa7lCpYZ4",
+    "https://www.youtube-nocookie.com/embed/0NuE929vaYs",
+    "https://www.youtube-nocookie.com/embed/82UwAzquMNQ"
+  ],
+  "bpm": 125,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Dzintars Čīča"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

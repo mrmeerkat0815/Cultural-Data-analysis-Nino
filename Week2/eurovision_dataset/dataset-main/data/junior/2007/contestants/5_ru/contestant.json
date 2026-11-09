@@ -1,0 +1,26 @@
+{
+  "id": 5,
+  "country": "RU",
+  "artist": "Alexandra Golovchenko",
+  "song": "Otlichnitsa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TC3j6wsDYTM",
+    "https://www.youtube-nocookie.com/embed/LhM9Jvbos6A"
+  ],
+  "bpm": 119,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alexandra Golovchenko"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

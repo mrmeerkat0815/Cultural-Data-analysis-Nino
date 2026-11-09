@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "country": "IE",
+  "artist": "Marc Roberts",
+  "song": "Mysterious Woman",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GV_3B13Q3xs",
+    "https://www.youtube-nocookie.com/embed/-DJ4EVJ5jxM"
+  ],
+  "bpm": 145,
+  "tone": "G major",
+  "artistPeople": [
+    "Séan Hegarty"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "John Farry"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

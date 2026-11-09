@@ -1,0 +1,34 @@
+{
+  "id": 6,
+  "country": "IE",
+  "artist": "Muriel Day and the Lindsays",
+  "song": "The Wages of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Rcn0M_pqP2c",
+    "https://www.youtube-nocookie.com/embed/OA_9tTcY17Y"
+  ],
+  "bpm": 148,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Muriel Day"
+  ],
+  "backings": [
+    "Mary Doyle",
+    "Patricia Doyle",
+    "Sheila Flynn"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Michael Reade"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Gay Byrne"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

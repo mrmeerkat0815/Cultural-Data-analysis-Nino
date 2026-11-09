@@ -1,0 +1,38 @@
+{
+  "id": 13,
+  "country": "YU",
+  "artist": "Aska",
+  "song": "Halo, halo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uR8jtnWlN_8",
+    "https://www.youtube-nocookie.com/embed/DVrPyN-t6zk",
+    "https://www.youtube-nocookie.com/embed/aSTcWZfbjmc",
+    "https://www.youtube-nocookie.com/embed/dY10IdBh1ZI"
+  ],
+  "bpm": 89,
+  "tone": "C# major",
+  "artistPeople": [
+    "Izolda Barudžija",
+    "Snežana Misković",
+    "Snežana Stamenković"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aleksandar Ilić"
+  ],
+  "conductor": "Zvonimir Skerl",
+  "lyricists": [
+    "Miro Zec"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
+}

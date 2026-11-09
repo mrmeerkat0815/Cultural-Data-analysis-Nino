@@ -1,0 +1,31 @@
+{
+  "id": 14,
+  "country": "CY",
+  "artist": "Andy Paul",
+  "song": "Anna Maria Lena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-xnUr1pgNiI",
+    "https://www.youtube-nocookie.com/embed/UiT3QxIdEJw",
+    "https://www.youtube-nocookie.com/embed/m3b0tHUB2Ak"
+  ],
+  "bpm": 141,
+  "tone": "A major",
+  "artistPeople": [
+    "Antreas Pavlou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pierre Cao",
+  "lyricists": null,
+  "writers": [
+    "Andy Paul"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Pavlos Pavlou"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

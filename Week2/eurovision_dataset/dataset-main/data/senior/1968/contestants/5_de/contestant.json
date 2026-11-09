@@ -1,0 +1,39 @@
+{
+  "id": 5,
+  "country": "DE",
+  "artist": "Wencke Myhre",
+  "song": "Ein Hoch der Liebe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E2v4PNffkqQ",
+    "https://www.youtube-nocookie.com/embed/TPz_OC51VVY",
+    "https://www.youtube-nocookie.com/embed/h8O_Ry20GFU",
+    "https://www.youtube-nocookie.com/embed/vfxdVbEc-qI",
+    "https://www.youtube-nocookie.com/embed/WGtdKFo5CQ4"
+  ],
+  "bpm": 95,
+  "tone": "C# major",
+  "artistPeople": [
+    "Wenche Synnøve Myhre"
+  ],
+  "backings": [
+    "Gisela Schäuble",
+    "Rosemarie Gongolski",
+    "Rosemarie Siegel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Horst Jankowski"
+  ],
+  "conductor": "Horst Jankowski",
+  "lyricists": [
+    "Carl J. Schäuble"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hans-Joachim Rauschenbach"
+  ],
+  "jury": null,
+  "spokesperson": "Hans-Otto Grünefeldt"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "country": "ES",
+  "artist": "Raphael",
+  "song": "Hablemos del amor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rlvaSsUB86U",
+    "https://www.youtube-nocookie.com/embed/nQL3CkEjRWM",
+    "https://www.youtube-nocookie.com/embed/4WleuihRCQw",
+    "https://www.youtube-nocookie.com/embed/apLXfZlAANM"
+  ],
+  "bpm": 102,
+  "tone": "F major",
+  "artistPeople": [
+    "Miguel Rafael Martos Sánchez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Manuel Alejandro",
+  "lyricists": null,
+  "writers": [
+    "Manuel Alejandro"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Blanca Álvarez"
+}

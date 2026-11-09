@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "country": "AL",
+  "artist": "Kroni Pula",
+  "song": "Fruta perime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sWxEFhNA4sM"
+  ],
+  "bpm": 135,
+  "tone": "D major",
+  "artistPeople": [
+    "Kroni Pula"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Adrian Hila"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

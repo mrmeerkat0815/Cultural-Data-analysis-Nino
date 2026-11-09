@@ -1,0 +1,38 @@
+{
+  "id": 21,
+  "country": "IL",
+  "artist": "Ping Pong",
+  "song": "Sa'me'akh",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-LfjSZj9S0M",
+    "https://www.youtube-nocookie.com/embed/_ToY3-3YA0c",
+    "https://www.youtube-nocookie.com/embed/p_ZZWV5Hkgs",
+    "https://www.youtube-nocookie.com/embed/y240uogwexo"
+  ],
+  "bpm": 135,
+  "tone": "F major",
+  "artistPeople": [
+    "Ahal Eden",
+    "Yifat Giladi",
+    "Guy Assif",
+    "Roy \"Chicky\" Arad"
+  ],
+  "backings": [
+    "Meital Cohen",
+    "Yael Badash"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Guy Assif",
+    "Ronen Ben-Tal",
+    "Roy Arad"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yoav Ginai"
+}

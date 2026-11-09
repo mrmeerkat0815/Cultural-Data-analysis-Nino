@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Lasse Holm & Monica Törnell",
+  "song": "E' de' det här du kallar kärlek?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rH0ao0Mz2Y4",
+    "https://www.youtube-nocookie.com/embed/ouSvQo_MQl8",
+    "https://www.youtube-nocookie.com/embed/zfPo7Y3DBYI"
+  ],
+  "bpm": 122,
+  "tone": "F major",
+  "artistPeople": [
+    "Lasse Holm",
+    "Monica Törnell"
+  ],
+  "backings": [
+    "Leif Ingdahl",
+    "Lennart Sjöholm",
+    "Sten Carlberg",
+    "Vicki Benckert"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Lasse Holm"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Agneta Bolme-Börjefors"
+}

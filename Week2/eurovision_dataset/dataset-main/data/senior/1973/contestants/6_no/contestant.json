@@ -1,0 +1,36 @@
+{
+  "id": 6,
+  "country": "NO",
+  "artist": "Bendik Singers",
+  "song": "It's Just a Game",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nelCncvdSBA",
+    "https://www.youtube-nocookie.com/embed/GOAGpuM5Vog",
+    "https://www.youtube-nocookie.com/embed/kDtzGqIZT-w"
+  ],
+  "bpm": 178,
+  "tone": "C major",
+  "artistPeople": [
+    "Anne Karine",
+    "Benny Kruse",
+    "Bjørn Kruse",
+    "Ellen Nikolaysen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Arne Bendiksen"
+  ],
+  "conductor": "Carsten Klouman",
+  "lyricists": [
+    "Bob Williams"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2,
+  "country": "LV",
+  "artist": "BrainStorm",
+  "song": "My Star",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Kbk4AKVi4ns",
+    "https://www.youtube-nocookie.com/embed/j8ZzOxP55Gs",
+    "https://www.youtube-nocookie.com/embed/dQBIhRco58g",
+    "https://www.youtube-nocookie.com/embed/WwkB4xGBqN8",
+    "https://www.youtube-nocookie.com/embed/dvKnu684Vm4",
+    "https://www.youtube-nocookie.com/embed/I5JWQgQRYgs",
+    "https://www.youtube-nocookie.com/embed/hGnh8lEHiFU"
+  ],
+  "bpm": 135,
+  "tone": "F major",
+  "artistPeople": [
+    "Māris Mihelsons",
+    "Kaspars Roga",
+    "Gundars Mauševics",
+    "Renārs Kaupers",
+    "Jānis Jubalts"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Reynard Cowper"
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Lauris Reiniks"
+}

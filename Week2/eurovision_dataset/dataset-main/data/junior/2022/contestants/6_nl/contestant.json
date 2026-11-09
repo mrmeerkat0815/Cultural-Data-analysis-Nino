@@ -1,0 +1,31 @@
+{
+  "id": 6,
+  "country": "NL",
+  "artist": "Luna",
+  "song": "La Festa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iXhf9GuVfUo",
+    "https://www.youtube-nocookie.com/embed/x5AaJ9dAXig",
+    "https://www.youtube-nocookie.com/embed/44UmYtrGU3Q",
+    "https://www.youtube-nocookie.com/embed/SBaXjyp851k",
+    "https://www.youtube-nocookie.com/embed/Q_2wk-RgkNw"
+  ],
+  "bpm": 127,
+  "tone": "F# major",
+  "artistPeople": [
+    "Luna Sabella"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Robert Dorn"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

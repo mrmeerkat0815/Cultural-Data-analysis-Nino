@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "country": "AM",
+  "artist": "Mika",
+  "song": "Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yBVCpJ6CPWM",
+    "https://www.youtube-nocookie.com/embed/tFlT2Y9YhHY"
+  ],
+  "bpm": 124,
+  "tone": "B minor",
+  "artistPeople": [
+    "Mika"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lilith Navasardyan",
+    "Michael Varosyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Avet Barseghyan",
+    "Michael Varosyan"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

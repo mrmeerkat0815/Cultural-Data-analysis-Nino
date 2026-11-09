@@ -1,0 +1,28 @@
+{
+  "id": 11,
+  "country": "MK",
+  "artist": "Sara Markoska",
+  "song": "Za ljubovta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ujCiek0y_5o",
+    "https://www.youtube-nocookie.com/embed/5y47drf_e1U"
+  ],
+  "bpm": 160,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Sara Markoska"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sara Markoska"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

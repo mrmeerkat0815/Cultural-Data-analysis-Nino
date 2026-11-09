@@ -1,0 +1,28 @@
+{
+  "id": 0,
+  "country": "UA",
+  "artist": "Anastasiya Petryk",
+  "song": "Nebo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E8BC3rH9K7E",
+    "https://www.youtube-nocookie.com/embed/ZLQlk-S-CWo"
+  ],
+  "bpm": 136,
+  "tone": "D minor",
+  "artistPeople": [
+    "Anastasiya Petryk"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anastasiya Petryk"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 30,
+  "country": "CH",
+  "artist": "Takasa",
+  "song": "You And Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ba6ovg4yAto",
+    "https://www.youtube-nocookie.com/embed/fBGpqq2LFSQ",
+    "https://www.youtube-nocookie.com/embed/tmEsg_XEdAc"
+  ],
+  "bpm": 134,
+  "tone": "B major",
+  "artistPeople": [
+    "Christoph Jakob",
+    "Emil Ramsauer",
+    "Jonas Gygax",
+    "Katharina Hauri",
+    "Michel Sterckx",
+    "Sarah Breiter"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Georg Schlunegger"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Alessandro Bertoglio",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sven Epiney"
+  ],
+  "jury": null,
+  "spokesperson": "Mélanie Freymond"
+}

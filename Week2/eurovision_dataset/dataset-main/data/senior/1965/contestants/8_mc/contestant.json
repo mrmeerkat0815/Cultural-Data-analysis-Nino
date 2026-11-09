@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "country": "MC",
+  "artist": "Marjorie Noël",
+  "song": "Va dire à l'amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rAH4DJR4MZM",
+    "https://www.youtube-nocookie.com/embed/E9DNkAlQHP0"
+  ],
+  "bpm": 88,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Marjorie Noël"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Raymond Bernard"
+  ],
+  "conductor": "Raymond Bernard",
+  "lyricists": [
+    "Jacques Mareuil"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

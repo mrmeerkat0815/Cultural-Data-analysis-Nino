@@ -1,0 +1,42 @@
+{
+  "id": 6,
+  "country": "SE",
+  "artist": "Roger Pontare",
+  "song": "When Spirits Are Calling My Name",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/873dUOlMAe8",
+    "https://www.youtube-nocookie.com/embed/Sgb4ogPNHxs",
+    "https://www.youtube-nocookie.com/embed/deXCS49qQiM",
+    "https://www.youtube-nocookie.com/embed/h3jRwMCRH8g",
+    "https://www.youtube-nocookie.com/embed/zlf8y8CslOA"
+  ],
+  "bpm": 123,
+  "tone": "G minor",
+  "artistPeople": [
+    "Roger Pontare"
+  ],
+  "backings": [
+    "Frank Ådahl",
+    "Johan Sara JR",
+    "Kasaluk",
+    "Ken Roulette",
+    "Pernilla Emme"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Linda Jansson",
+    "Peter Dahl",
+    "Thomas Holmstrand"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Christer Lundh",
+    "Pernilla Månsson"
+  ],
+  "jury": null,
+  "spokesperson": "Malin Ekander"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "country": "DE",
+  "artist": "Katja Ebstein",
+  "song": "Theater",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I-YAecPqn54",
+    "https://www.youtube-nocookie.com/embed/DHLb7TLQgqg",
+    "https://www.youtube-nocookie.com/embed/IWZ1FvL_0vQ"
+  ],
+  "bpm": 95,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Karin Ilse Überall",
+    "Karin Witkiewicz"
+  ],
+  "backings": [
+    "Ralph Siegel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Wolfgang Rödelberger",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Gabi Schnelle"
+}

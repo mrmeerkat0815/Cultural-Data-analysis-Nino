@@ -1,0 +1,36 @@
+{
+  "id": 21,
+  "country": "CH",
+  "artist": "Francine Jordi",
+  "song": "Dans le jardin de mon âme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EZEEvq1i7PA",
+    "https://www.youtube-nocookie.com/embed/_xvxrFcSpYo",
+    "https://www.youtube-nocookie.com/embed/MP0CQXGb-v0",
+    "https://www.youtube-nocookie.com/embed/_xPEI9FMm54",
+    "https://www.youtube-nocookie.com/embed/mbfHWp0EXWE"
+  ],
+  "bpm": 136,
+  "tone": "C major",
+  "artistPeople": [
+    "Francine Lehmann"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Francine Jordi"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Claudio Lazzarino",
+    "Jonathan Tedesco",
+    "Phil Mundwiller",
+    "Sandra Studer"
+  ],
+  "jury": null,
+  "spokesperson": "Diana Jörg"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "country": "IT",
+  "artist": "Fiamma Boccia",
+  "song": "Cara Mamma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qbnpmxyigzc",
+    "https://www.youtube-nocookie.com/embed/RwbugtGspYs"
+  ],
+  "bpm": 143,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Fiamma Boccia"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alessandro Ghironi",
+    "Francesco Spadoni",
+    "Marco Iardella"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fiamma Boccia",
+    "Francesco Spadoni",
+    "Marco Iardella"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2,
+  "country": "CH",
+  "artist": "Lys Assia",
+  "song": "Das alte Karussell",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lVpf8uzHnX0",
+    "https://www.youtube-nocookie.com/embed/l9Hli6h3k9s",
+    "https://www.youtube-nocookie.com/embed/-Xe4s007EnI"
+  ],
+  "bpm": 104,
+  "tone": "C major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
+  "backings": [
+    "Anita Traversi",
+    "Athos Beretta",
+    "Carmen Tumiati",
+    "Luciano Rezzonico",
+    "Silvano Beretta"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Fernando Paggi",
+  "lyricists": null,
+  "writers": [
+    "Fernando Paggi",
+    "George Betz-Stahl"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

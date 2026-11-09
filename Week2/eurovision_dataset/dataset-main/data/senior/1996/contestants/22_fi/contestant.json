@@ -1,0 +1,39 @@
+{
+  "id": 22,
+  "country": "FI",
+  "artist": "Jasmine",
+  "song": "Niin kaunis on taivas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ix686JwXJik",
+    "https://www.youtube-nocookie.com/embed/vF77KPJmNHs",
+    "https://www.youtube-nocookie.com/embed/1P8soPT5UCA",
+    "https://www.youtube-nocookie.com/embed/RPIi0f8MR60",
+    "https://www.youtube-nocookie.com/embed/av7iSFgqj5c",
+    "https://www.youtube-nocookie.com/embed/kCd-dOP-jCY"
+  ],
+  "bpm": 185,
+  "tone": "A minor",
+  "artistPeople": [
+    "Tatjana Anette Valentin"
+  ],
+  "backings": [
+    "Hanna-Riikka Siitonen",
+    "Pekka Kuorikoski",
+    "Riikka Väyrynen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": null,
+  "writers": [
+    "Timo Niemi"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Sanna Kojo"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

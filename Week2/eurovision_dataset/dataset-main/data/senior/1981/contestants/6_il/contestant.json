@@ -1,0 +1,37 @@
+{
+  "id": 6,
+  "country": "IL",
+  "artist": "Habibi",
+  "song": "Halaylah",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9c7y22qi2Mo",
+    "https://www.youtube-nocookie.com/embed/UP-BEXCgMlA",
+    "https://www.youtube-nocookie.com/embed/nPTCp3Pcnnw",
+    "https://www.youtube-nocookie.com/embed/D-9orqEMojk",
+    "https://www.youtube-nocookie.com/embed/fEfqNTyjnnk"
+  ],
+  "bpm": 126,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Ami Mendelman",
+    "Zvi Rotstein",
+    "Shlomit Aharon",
+    "Yuval Dor"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Shuki Levy"
+  ],
+  "conductor": "Eldad Shrem",
+  "lyricists": [
+    "Shlomit Aharon",
+    "Yuval Dor"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Dan Kaner"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14,
+  "country": "PT",
+  "artist": "Simone de Oliveira",
+  "song": "Desfolhada portuguesa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l6WXhDQY_sQ",
+    "https://www.youtube-nocookie.com/embed/abTyMNrWfs4",
+    "https://www.youtube-nocookie.com/embed/2Hy3OUF_bNk",
+    "https://www.youtube-nocookie.com/embed/p52zIYG2elk",
+    "https://www.youtube-nocookie.com/embed/JSZ1EiwhavQ"
+  ],
+  "bpm": 162,
+  "tone": "C minor",
+  "artistPeople": [
+    "Simone de Oliveira"
+  ],
+  "backings": [
+    "António Luís Gomes",
+    "Maria Alexandre de Brito",
+    "Natália Rodrigues de Matos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nuno Nazareth Fernandes"
+  ],
+  "conductor": "Ferrer Trindade",
+  "lyricists": [
+    "José Carlos Ary dos Santos"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

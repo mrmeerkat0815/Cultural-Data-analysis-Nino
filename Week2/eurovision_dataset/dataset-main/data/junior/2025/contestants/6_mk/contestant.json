@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "country": "MK",
+  "artist": "Nela Mančeska",
+  "song": "Miracle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SlGVmIONtto"
+  ],
+  "bpm": 128,
+  "tone": "A major",
+  "artistPeople": [
+    "Nela Mančeska"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lazar Cvetkoski"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Magdalena Cvetkoska"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

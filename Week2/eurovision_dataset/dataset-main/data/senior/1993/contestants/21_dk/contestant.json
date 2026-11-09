@@ -1,0 +1,39 @@
+{
+  "id": 21,
+  "country": "DK",
+  "artist": "Tommy Seebach Band",
+  "song": "Under stjernerne på himlen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DFaL-juCMz8",
+    "https://www.youtube-nocookie.com/embed/WZm5tQQz_h8",
+    "https://www.youtube-nocookie.com/embed/nNE_n-0eta4"
+  ],
+  "bpm": 98,
+  "tone": "A minor",
+  "artistPeople": [
+    "Tommy Seebach"
+  ],
+  "backings": [
+    "Jens Lindegaard",
+    "Lars Wagner",
+    "Lei Moe",
+    "Lupe Moe",
+    "Steen Lindegaard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tommy Seebach"
+  ],
+  "conductor": "George Keller",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

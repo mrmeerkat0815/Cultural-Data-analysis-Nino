@@ -1,0 +1,39 @@
+{
+  "id": 3,
+  "country": "GB",
+  "artist": "Clodagh Rodgers",
+  "song": "Jack in the Box",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7IadDY3-sOM",
+    "https://www.youtube-nocookie.com/embed/87Gpn3wq5pc",
+    "https://www.youtube-nocookie.com/embed/Ppik9fWU7rg",
+    "https://www.youtube-nocookie.com/embed/JdsPOpvCdJ4"
+  ],
+  "bpm": 121,
+  "tone": "C major",
+  "artistPeople": [
+    "Clodagh Rodgers"
+  ],
+  "backings": [
+    "Barbara Moore",
+    "Betty Prescott",
+    "Lavinia Rodgers",
+    "Margo Quantrell"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John Worsley"
+  ],
+  "conductor": "Johnny Arthey",
+  "lyricists": [
+    "David Myers"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Dave Lee Travis"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

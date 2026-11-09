@@ -1,0 +1,35 @@
+{
+  "id": 31,
+  "country": "HR",
+  "artist": "Klapa s mora",
+  "song": "Mižerja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FYm4sGd-qP0",
+    "https://www.youtube-nocookie.com/embed/R3XawJf5JLk"
+  ],
+  "bpm": 102,
+  "tone": "F# major",
+  "artistPeople": [
+    "Ante Galić",
+    "Bojan Kavedžija",
+    "Ivica Vlaić",
+    "Leon Bataljaku",
+    "Marko Škugor",
+    "Nikša Antica"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Goran Topolovac"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Uršula Tolj"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3,
+  "country": "IE",
+  "artist": "Sophie Lennon",
+  "song": "Solas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/P4oMG2EKF8Q",
+    "https://www.youtube-nocookie.com/embed/QsnhNdCuwhI",
+    "https://www.youtube-nocookie.com/embed/AVLPiXepeiw",
+    "https://www.youtube-nocookie.com/embed/8k7as-6pRKo"
+  ],
+  "bpm": 150,
+  "tone": "F major",
+  "artistPeople": [
+    "Sophie Lennon"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hannah Featherstone",
+    "Jonas Gladnikoff",
+    "Ken McHugh",
+    "MaJiKer"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Hannah Featherstone",
+    "MaJiKer",
+    "Niall Mooney"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

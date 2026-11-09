@@ -1,0 +1,38 @@
+{
+  "id": 22,
+  "country": "DE",
+  "artist": "Stone and Stone",
+  "song": "Verliebt in Dich",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3jGi32Xqg8g",
+    "https://www.youtube-nocookie.com/embed/ZT4Ku58GvkE",
+    "https://www.youtube-nocookie.com/embed/KHVcwiW7G4g",
+    "https://www.youtube-nocookie.com/embed/_cYjcuPf4oo"
+  ],
+  "bpm": 85,
+  "tone": "D minor",
+  "artistPeople": [
+    "Cheyenne Stone",
+    "Glen Penniston"
+  ],
+  "backings": [
+    "Evert van der Wal",
+    "Jerry Rix",
+    "Julian Feiffel",
+    "Monika Griesback"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Herman Weindorf",
+  "lyricists": null,
+  "writers": [
+    "Cheyenne Stone"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Horst Senker"
+  ],
+  "jury": null,
+  "spokesperson": "Carmen Nebel"
+}

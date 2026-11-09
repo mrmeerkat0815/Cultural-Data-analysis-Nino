@@ -1,0 +1,33 @@
+{
+  "id": 11,
+  "country": "FI",
+  "artist": "Jarkko & Laura",
+  "song": "Kuin silloin ennen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/neELZW69YqU",
+    "https://www.youtube-nocookie.com/embed/KqhCA9xHzO8"
+  ],
+  "bpm": 97,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Jarkko Antikainen",
+    "Laura Ruotsalo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Toivo Kärki"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Juha Vainio"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Aarre Elo"
+}

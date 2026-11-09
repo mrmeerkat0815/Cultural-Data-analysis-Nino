@@ -1,0 +1,36 @@
+{
+  "id": 18,
+  "country": "CY",
+  "artist": "Kyriakos Zymboulakis & Demos Van Beke",
+  "song": "Mi stamatas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UfzBpo0exAQ",
+    "https://www.youtube-nocookie.com/embed/zU9WsT0FdW0",
+    "https://www.youtube-nocookie.com/embed/7WyrboG2AC0"
+  ],
+  "bpm": 77,
+  "tone": "G minor",
+  "artistPeople": [
+    "Demos van Beke",
+    "Kyriakos Zymboulakis"
+  ],
+  "backings": [
+    "Joanna Barrington"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aristos Moskovakis"
+  ],
+  "conductor": "Giorgos Theophanous",
+  "lyricists": [
+    "Rodoula Papalambrianou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5,
+  "country": "MT",
+  "artist": "Paul Giordimaina & Georgina",
+  "song": "Could It Be",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jDyURFQs4ik",
+    "https://www.youtube-nocookie.com/embed/SIAm1qaLR10",
+    "https://www.youtube-nocookie.com/embed/piyODRtylD0"
+  ],
+  "bpm": 154,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Georgina Abela",
+    "Paul Giordimaina"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Abela"
+  ],
+  "conductor": "Paul Abela",
+  "lyricists": [
+    "Raymond Mahoney"
+  ],
+  "writers": null,
+  "broadcaster": "XM",
+  "commentators": [
+    "Toni Sant"
+  ],
+  "jury": null,
+  "spokesperson": "Dominic Micallef"
+}

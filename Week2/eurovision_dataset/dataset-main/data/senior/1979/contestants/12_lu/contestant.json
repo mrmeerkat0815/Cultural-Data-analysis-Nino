@@ -1,0 +1,36 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Jeane Manson",
+  "song": "J'ai déjà vu ça dans tes yeux",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xH7tCl1liAQ",
+    "https://www.youtube-nocookie.com/embed/CSJ4uHWaDZ0",
+    "https://www.youtube-nocookie.com/embed/p1GtzK_JGSI"
+  ],
+  "bpm": 137,
+  "tone": "F major",
+  "artistPeople": [
+    "Jeane Manson"
+  ],
+  "backings": [
+    "Catherine Bonnevay",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hervé Roy",
+  "lyricists": null,
+  "writers": [
+    "Jean Renard"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

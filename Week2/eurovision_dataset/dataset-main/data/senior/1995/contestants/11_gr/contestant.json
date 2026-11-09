@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "country": "GR",
+  "artist": "Elina Constantopoulou",
+  "song": "Pia prosefhi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SrTLEZZEChw",
+    "https://www.youtube-nocookie.com/embed/iUp8bcq-yMc",
+    "https://www.youtube-nocookie.com/embed/Mfkn45_0FLg"
+  ],
+  "bpm": 89,
+  "tone": "G minor",
+  "artistPeople": [
+    "Elina Konstantopoulou"
+  ],
+  "backings": [
+    "Marianta Pieridi",
+    "Stelios Zachariou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nikos Terzis"
+  ],
+  "conductor": "Haris Andreadis",
+  "lyricists": [
+    "Antonis Pappas"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

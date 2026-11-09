@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "CY",
+  "artist": "One",
+  "song": "Gimme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TLKfSIKDGMI",
+    "https://www.youtube-nocookie.com/embed/SIxaN0FQ6CE",
+    "https://www.youtube-nocookie.com/embed/nCZ9cACDXsw",
+    "https://www.youtube-nocookie.com/embed/EuBQYvgJm24"
+  ],
+  "bpm": 136,
+  "tone": "C minor",
+  "artistPeople": [
+    "Argyris Nastopoulos",
+    "Constantinos",
+    "Dimitris Koutsavlakis",
+    "Panos Tserpes",
+    "Philippos Constantinos"
+  ],
+  "backings": [
+    "Christina Argyri"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Giorgos Theophanous"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Melani Steliou"
+}

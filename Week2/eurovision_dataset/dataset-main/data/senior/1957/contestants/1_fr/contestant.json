@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "country": "FR",
+  "artist": "Paule Desjardins",
+  "song": "La Belle Amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g2-XDnBHEbc",
+    "https://www.youtube-nocookie.com/embed/wFLxQIt6MSs"
+  ],
+  "bpm": 100,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Paule Desjardins"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Guy Lafarge"
+  ],
+  "conductor": "Paul Durand",
+  "lyricists": [
+    "Francis Carco"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": "Claude Darget"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Nazar",
+  "song": "Sevince",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rpYYS8MV6jI",
+    "https://www.youtube-nocookie.com/embed/CNinGh5WwaI",
+    "https://www.youtube-nocookie.com/embed/_QNUN5oZ21c"
+  ],
+  "bpm": 147,
+  "tone": "C major",
+  "artistPeople": [
+    "Dağhan Baydur",
+    "Nilüfer Yumlu",
+    "Olcayto Ahmet Tuğsuz",
+    "Zeynep Tuğsuz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dağhan Baydur",
+    "Onno Tunç"
+  ],
+  "conductor": "Onno Tunç",
+  "lyricists": [
+    "Hulki Aktunç"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meral Savcı"
+}

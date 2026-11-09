@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "country": "SI",
+  "artist": "Darja Švajger",
+  "song": "For A Thousand Years",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qrQOTF10yP8",
+    "https://www.youtube-nocookie.com/embed/aBLOCXJiSXE",
+    "https://www.youtube-nocookie.com/embed/4f0fUlj0Ii8",
+    "https://www.youtube-nocookie.com/embed/1RovX_5G-wA",
+    "https://www.youtube-nocookie.com/embed/j3rroZVkDBU"
+  ],
+  "bpm": 128,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Darja Švajger"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sašo Fajon"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Primož Peterca"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mira Berginc"
+}

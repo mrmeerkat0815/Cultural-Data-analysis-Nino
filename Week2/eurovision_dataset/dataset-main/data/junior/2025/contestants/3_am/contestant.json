@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "country": "AM",
+  "artist": "Albert",
+  "song": "Brave Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C4vjpEQo9Po"
+  ],
+  "bpm": 104,
+  "tone": "A minor",
+  "artistPeople": [
+    "Albert Armenakyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lilit Navasardyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anita Hakhverdyan"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

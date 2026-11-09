@@ -1,0 +1,31 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Isea Çili",
+  "song": "Mikja ime fëmijëri",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mGJJ05aGU0Y",
+    "https://www.youtube-nocookie.com/embed/qM8niDyBIas",
+    "https://www.youtube-nocookie.com/embed/E8DONoWif4c"
+  ],
+  "bpm": 126,
+  "tone": "E minor",
+  "artistPeople": [
+    "Isea Çili"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Saimir Çili"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jorgo Papingji"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

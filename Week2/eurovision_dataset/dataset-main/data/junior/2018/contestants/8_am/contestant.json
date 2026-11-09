@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "country": "AM",
+  "artist": "L.E.V.O.N",
+  "song": "L.E.V.O.N",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/L4L3M3hwxI0",
+    "https://www.youtube-nocookie.com/embed/1OxIOGbjxJo"
+  ],
+  "bpm": 109,
+  "tone": "A major",
+  "artistPeople": [
+    "Levon Galstyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Artem Valter"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "country": "DE",
+  "artist": "Margot Hielscher",
+  "song": "Für zwei Groschen Musik",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A7tTpPcDjcc",
+    "https://www.youtube-nocookie.com/embed/be8w6fGX_XQ",
+    "https://www.youtube-nocookie.com/embed/kUDAoa_MCbk"
+  ],
+  "bpm": 164,
+  "tone": "F major",
+  "artistPeople": [
+    "Margot Hielscher"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Friedrich Meyer"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Fred Rauch",
+    "Walter Brandin"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Claudia Doren"
+}

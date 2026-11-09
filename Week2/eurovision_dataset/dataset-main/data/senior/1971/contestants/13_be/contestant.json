@@ -1,0 +1,36 @@
+{
+  "id": 13,
+  "country": "BE",
+  "artist": "Lily Castel & Jacques Raymond",
+  "song": "Goeie morgen, morgen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/60AdDd23NSI",
+    "https://www.youtube-nocookie.com/embed/EeP4EtKoTO8",
+    "https://www.youtube-nocookie.com/embed/QHWhGZ7-vpg",
+    "https://www.youtube-nocookie.com/embed/sW7uB9l0sEM"
+  ],
+  "bpm": 166,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Jozef Remon",
+    "Lily Castel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Quintens"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Phil van Cauwenbergh"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10,
+  "country": "NO",
+  "artist": "Anita Skorgan",
+  "song": "Oliver",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dz-BbMIm8JY",
+    "https://www.youtube-nocookie.com/embed/ImMef3dCMFw",
+    "https://www.youtube-nocookie.com/embed/8vjD48_py-A",
+    "https://www.youtube-nocookie.com/embed/XAk6eGwXCK4"
+  ],
+  "bpm": 127,
+  "tone": "C major",
+  "artistPeople": [
+    "Anita Skorgan"
+  ],
+  "backings": [
+    "George Keller",
+    "Helge Lindemann",
+    "Kari Gjærum",
+    "Kristian Lindemann",
+    "Wenche Hallan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Anita Skorgan"
+  ],
+  "conductor": "Sigurd Jansen",
+  "lyricists": [
+    "Philip A. Kruse"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Egil Teige"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "country": "GR",
+  "artist": "Sofia Vossou",
+  "song": "I Anixi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xh3jrdhgWyU",
+    "https://www.youtube-nocookie.com/embed/7HUBVaOezXU"
+  ],
+  "bpm": 138,
+  "tone": "G minor",
+  "artistPeople": [
+    "Sophia Vossou"
+  ],
+  "backings": [
+    "Andreas Mikroutsikos",
+    "Christos Lagos",
+    "Giannis Stavropoulos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Haris Andreadis",
+  "lyricists": null,
+  "writers": [
+    "Andreas Mikroutsikos"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

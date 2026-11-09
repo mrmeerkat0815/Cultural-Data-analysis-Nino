@@ -1,0 +1,31 @@
+{
+  "id": 10,
+  "country": "FR",
+  "artist": "Betty Mars",
+  "song": "Comé-comédie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GUwgrOmiodk",
+    "https://www.youtube-nocookie.com/embed/w7HU9-pOzzY",
+    "https://www.youtube-nocookie.com/embed/PNzA1pWHhto"
+  ],
+  "bpm": 129,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Yvette Baheux"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Franck Pourcel",
+  "lyricists": null,
+  "writers": [
+    "Frédéric Botton"
+  ],
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

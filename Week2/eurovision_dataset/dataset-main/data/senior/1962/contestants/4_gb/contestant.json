@@ -1,0 +1,32 @@
+{
+  "id": 4,
+  "country": "GB",
+  "artist": "Ronnie Carroll",
+  "song": "Ring-A-Ding Girl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ABJgaFnCn40",
+    "https://www.youtube-nocookie.com/embed/2Pfy82CNcrQ"
+  ],
+  "bpm": 112,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Ronald Cleghorn"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Syd Cordell"
+  ],
+  "conductor": "Wally Stott",
+  "lyricists": [
+    "Stan Butcher"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Alex Macintosh"
+}

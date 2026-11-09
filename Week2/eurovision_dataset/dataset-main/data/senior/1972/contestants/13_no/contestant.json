@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "country": "NO",
+  "artist": "Grethe Kausland & Benny Borg",
+  "song": "Småting",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EROlZbIbjH0",
+    "https://www.youtube-nocookie.com/embed/TgJl8J56zvU",
+    "https://www.youtube-nocookie.com/embed/aUu52zaLy9c"
+  ],
+  "bpm": 136,
+  "tone": "D major",
+  "artistPeople": [
+    "Benny Borg",
+    "Grethe Kausland"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Carsten Klouman",
+  "lyricists": null,
+  "writers": [
+    "Ivar Børsum",
+    "Kåre Grøttum"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Roald Øyen"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

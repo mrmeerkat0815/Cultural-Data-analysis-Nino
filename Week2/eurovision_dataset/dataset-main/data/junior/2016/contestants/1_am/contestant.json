@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "country": "AM",
+  "artist": "Anahit & Mary",
+  "song": "Tarber",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iJb9GDt19KU",
+    "https://www.youtube-nocookie.com/embed/FWr-gAW-2as"
+  ],
+  "bpm": 129,
+  "tone": "G major",
+  "artistPeople": [
+    "Anahit & Mary"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nick Egibyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Avet Barseghyan"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

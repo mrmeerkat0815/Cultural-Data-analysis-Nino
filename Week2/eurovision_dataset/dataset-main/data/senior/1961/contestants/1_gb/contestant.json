@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "The Allisons",
+  "song": "Are You Sure?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K1tw0zLcVEQ",
+    "https://www.youtube-nocookie.com/embed/_jgo__9dEyw",
+    "https://www.youtube-nocookie.com/embed/blm96qS8hXo"
+  ],
+  "bpm": 172,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Bernard Colin Day",
+    "Brian Henry John Alford"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry Robinson",
+  "lyricists": null,
+  "writers": [
+    "Bob Allison",
+    "John Allison"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Tom Sloan"
+  ],
+  "jury": null,
+  "spokesperson": "Michael Aspel"
+}

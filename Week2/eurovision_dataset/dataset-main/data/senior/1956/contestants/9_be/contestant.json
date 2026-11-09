@@ -1,0 +1,33 @@
+{
+  "id": 9,
+  "country": "BE",
+  "artist": "Mony Marc",
+  "song": "Le Plus Beau Jour de ma vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BkXU4JAvnks",
+    "https://www.youtube-nocookie.com/embed/cigjO4vaRa0"
+  ],
+  "bpm": 107,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Simone Hubertine Léa Marcotty"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claude Alix"
+  ],
+  "conductor": "Léo Souris",
+  "lyricists": [
+    "David Bee"
+  ],
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Piet te Nuyl Jr.",
+    "Raymond Colbert"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

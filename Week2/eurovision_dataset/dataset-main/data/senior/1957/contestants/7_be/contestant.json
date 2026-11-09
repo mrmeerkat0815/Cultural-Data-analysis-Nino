@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "BE",
+  "artist": "Bobbejaan Schoepen",
+  "song": "Straatdeuntje",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uReyESf0aV0",
+    "https://www.youtube-nocookie.com/embed/mIrK5vfyVXg",
+    "https://www.youtube-nocookie.com/embed/hGyLCmZjSAQ"
+  ],
+  "bpm": 185,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Modest Schoepen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Harry Frékin"
+  ],
+  "conductor": "Willy Berking",
+  "lyricists": [
+    "Eric Franssen"
+  ],
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Janine Lambotte",
+    "Nic Bal"
+  ],
+  "jury": null,
+  "spokesperson": "Bert Leysen"
+}

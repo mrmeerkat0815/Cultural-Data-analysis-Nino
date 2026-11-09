@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "country": "GE",
+  "artist": "Anastasia & Ranina",
+  "song": "Over The Sky",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c7q6U79yFjY",
+    "https://www.youtube-nocookie.com/embed/HRe2yHzinP8",
+    "https://www.youtube-nocookie.com/embed/8jBs4ylypCs"
+  ],
+  "bpm": 117,
+  "tone": "G major",
+  "artistPeople": [
+    "Anastasia Vasadze",
+    "Nikoloz Kharati",
+    "Oto Bazerashvili"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Betkho",
+    "Mebo Nutsubidze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mebo Nutsubidze"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

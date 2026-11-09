@@ -1,0 +1,41 @@
+{
+  "id": 15,
+  "country": "DK",
+  "artist": "Mabel",
+  "song": "Boom Boom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IilXVjX19Js",
+    "https://www.youtube-nocookie.com/embed/Ao4VbVBu_1o",
+    "https://www.youtube-nocookie.com/embed/hGcPghbl3CU",
+    "https://www.youtube-nocookie.com/embed/nOeXjDSafOQ",
+    "https://www.youtube-nocookie.com/embed/a-Nwc4cHZOw"
+  ],
+  "bpm": 113,
+  "tone": "G major",
+  "artistPeople": [
+    "Christian Have",
+    "Mike Tramp",
+    "Andy Kulmbak",
+    "Peter Nielsen"
+  ],
+  "backings": [
+    "Michael Elo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Helmer Olesen",
+  "lyricists": null,
+  "writers": [
+    "Christian Have",
+    "Michael Trempenau",
+    "Otto Kulmbak",
+    "Peter Nielsen"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

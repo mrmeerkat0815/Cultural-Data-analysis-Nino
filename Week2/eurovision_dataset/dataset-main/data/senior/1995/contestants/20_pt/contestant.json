@@ -1,0 +1,39 @@
+{
+  "id": 20,
+  "country": "PT",
+  "artist": "Tó Cruz",
+  "song": "Baunilha e chocolate",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JcEvZSxxU0I",
+    "https://www.youtube-nocookie.com/embed/1tc4WlVdZcE",
+    "https://www.youtube-nocookie.com/embed/hIxEVpHzPVU"
+  ],
+  "bpm": 91,
+  "tone": "G major",
+  "artistPeople": [
+    "António Cruz"
+  ],
+  "backings": [
+    "Ana Isabel",
+    "Ed Sant’ana",
+    "Maimuna Jalles",
+    "Maria de Deus",
+    "Susana Félix"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "António Vitorino de Almeida"
+  ],
+  "conductor": "Thilo Krasmann",
+  "lyricists": [
+    "Rosa Lobato de Faria"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Ana do Carmo"
+  ],
+  "jury": null,
+  "spokesperson": "Serenella Andrade"
+}

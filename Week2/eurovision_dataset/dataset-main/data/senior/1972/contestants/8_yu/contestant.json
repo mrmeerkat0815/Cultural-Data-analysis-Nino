@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "country": "YU",
+  "artist": "Tereza",
+  "song": "Muzika i ti",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ns24mfDkgWA",
+    "https://www.youtube-nocookie.com/embed/ELQZOZglYl0",
+    "https://www.youtube-nocookie.com/embed/n6OwpI8Awsw",
+    "https://www.youtube-nocookie.com/embed/ttMPRY0R1dw"
+  ],
+  "bpm": 108,
+  "tone": "F major",
+  "artistPeople": [
+    "Téréza"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nikica Kalogjera"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "lyricists": [
+    "Ivan Krajač"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

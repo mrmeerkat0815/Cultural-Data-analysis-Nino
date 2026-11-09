@@ -1,0 +1,34 @@
+{
+  "id": 3,
+  "country": "IL",
+  "artist": "Ilanit",
+  "song": "Ey Sham",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xrLS0pMuezQ",
+    "https://www.youtube-nocookie.com/embed/DT4KizDJ06I",
+    "https://www.youtube-nocookie.com/embed/tl5PpPzYcAA",
+    "https://www.youtube-nocookie.com/embed/J4W9ZV4fXYk",
+    "https://www.youtube-nocookie.com/embed/pVxLDoKV9-o",
+    "https://www.youtube-nocookie.com/embed/S0e-ZMWHtdY"
+  ],
+  "bpm": 91,
+  "tone": "G major",
+  "artistPeople": [
+    "Hanna Dresner-Tzakh (חנה דרזנר)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nurit Hirsh"
+  ],
+  "conductor": "Nurit Hirsh",
+  "lyricists": [
+    "Ehud Manor"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

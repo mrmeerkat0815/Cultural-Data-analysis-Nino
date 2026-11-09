@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "country": "RU",
+  "artist": "Tatyana Mezhentseva & Denberel Oorzhak",
+  "song": "A Time For Us",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kJMuUK9-_Gc",
+    "https://www.youtube-nocookie.com/embed/zCsT9zNi2-M",
+    "https://www.youtube-nocookie.com/embed/a7N7d25xh8k"
+  ],
+  "bpm": 174,
+  "tone": "F# major",
+  "artistPeople": [
+    "Tatyana Mezhentseva",
+    "Denberel Oorzhak"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alexander Andreev",
+    "Dmitry Nortman"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dmitry Nortman",
+    "Tatyana Mezhentseva"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 17,
+  "country": "IE",
+  "artist": "Lottie O'Driscoll Murray",
+  "song": "Rúin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/d50wOLiV6ng"
+  ],
+  "bpm": 178,
+  "tone": "A major",
+  "artistPeople": [
+    "Lottie O'Driscoll Murray"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ian James White",
+    "Nicky Brennan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ian James White",
+    "Jenny Ní Ruiséa",
+    "Nicky Brennan",
+    "Rob O'Connor"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

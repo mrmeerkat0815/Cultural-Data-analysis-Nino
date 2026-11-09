@@ -1,0 +1,42 @@
+{
+  "id": 0,
+  "country": "MC",
+  "artist": "Séverine",
+  "song": "Un banc, un arbre, une rue",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qjFe6NJ6-CA",
+    "https://www.youtube-nocookie.com/embed/izWZxNnnM5E",
+    "https://www.youtube-nocookie.com/embed/bbOYslkGIrk",
+    "https://www.youtube-nocookie.com/embed/FexK_rtjCcQ",
+    "https://www.youtube-nocookie.com/embed/UtdJFw_A05Q",
+    "https://www.youtube-nocookie.com/embed/pECv4MDE4EM",
+    "https://www.youtube-nocookie.com/embed/a9k1us2tW-A"
+  ],
+  "bpm": 178,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Josiane Grizeau"
+  ],
+  "backings": [
+    "Alain Legovic",
+    "Christian Padovan",
+    "Gerard Kawzinsky",
+    "Michel Pelay"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Pierre Bourtayre"
+  ],
+  "conductor": "Jean-Claude Petit",
+  "lyricists": [
+    "Yves Dessca"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": 14,
+  "country": "MK",
+  "artist": "Zana Aliu",
+  "song": "Vljubena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/s3M3EqSdipY"
+  ],
+  "bpm": 192,
+  "tone": "F major",
+  "artistPeople": [
+    "Zana Aliu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Zana Aliu"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

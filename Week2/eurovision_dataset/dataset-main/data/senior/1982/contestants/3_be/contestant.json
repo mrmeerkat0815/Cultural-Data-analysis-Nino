@@ -1,0 +1,37 @@
+{
+  "id": 3,
+  "country": "BE",
+  "artist": "Stella",
+  "song": "Si tu aimes ma musique",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KytpIajLsZc",
+    "https://www.youtube-nocookie.com/embed/URz95KxEvpA",
+    "https://www.youtube-nocookie.com/embed/Iq_jgnjjIsc",
+    "https://www.youtube-nocookie.com/embed/GWe81O2m8eE"
+  ],
+  "bpm": 128,
+  "tone": "B minor",
+  "artistPeople": [
+    "Stella Maessen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobott",
+    "Fred Bekky",
+    "Rony Brack"
+  ],
+  "conductor": "Jack Say",
+  "lyricists": [
+    "Jo May"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

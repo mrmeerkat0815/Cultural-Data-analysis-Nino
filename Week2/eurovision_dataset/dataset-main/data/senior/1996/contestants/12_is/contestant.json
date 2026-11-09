@@ -1,0 +1,37 @@
+{
+  "id": 12,
+  "country": "IS",
+  "artist": "Anna Mjöll",
+  "song": "Sjúbídú",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2K6OpOt-FR0",
+    "https://www.youtube-nocookie.com/embed/5_tCpMqwuOg",
+    "https://www.youtube-nocookie.com/embed/2gILlTmi7kU"
+  ],
+  "bpm": 102,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Anna Mjöll Ólafsdóttir"
+  ],
+  "backings": [
+    "Daniel O'Brien",
+    "Michael Maher",
+    "Rick Palombi",
+    "Ross Bolton"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ólafur Gaukur Þórhallsson",
+  "lyricists": null,
+  "writers": [
+    "Anna Mjöll Ólafsdóttir",
+    "Ólafur Gaukur Þórhallsson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "jury": null,
+  "spokesperson": "Svanhildur Konráðsdóttir"
+}

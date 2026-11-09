@@ -1,0 +1,39 @@
+{
+  "id": 15,
+  "country": "PT",
+  "artist": "Da Vinci",
+  "song": "Conquistador",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oEGexpUMwjk",
+    "https://www.youtube-nocookie.com/embed/ckZBmACkZfg",
+    "https://www.youtube-nocookie.com/embed/NIA8S7IIEgY",
+    "https://www.youtube-nocookie.com/embed/1ziHvmHx-eI"
+  ],
+  "bpm": 137,
+  "tone": "D major",
+  "artistPeople": [
+    "Dora Fidalgo",
+    "Maria Manuela Neves",
+    "Joaquim Andrade",
+    "Pedro Luís Neves",
+    "Sandra Fidalgo",
+    "Manuel António Rosa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ricardo"
+  ],
+  "conductor": "Luís Duarte",
+  "lyricists": [
+    "Pedro Luís"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Ana Zanatti"
+  ],
+  "jury": null,
+  "spokesperson": "Margarida Mercês de Mello"
+}

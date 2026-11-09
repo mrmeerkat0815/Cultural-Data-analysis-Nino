@@ -1,0 +1,33 @@
+{
+  "id": 7,
+  "country": "CH",
+  "artist": "Yovanna",
+  "song": "Non, à jamais sans toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1ZAtG50bhT4",
+    "https://www.youtube-nocookie.com/embed/XDrAQ16L-fg"
+  ],
+  "bpm": 112,
+  "tone": "D major",
+  "artistPeople": [
+    "Ioanna Fassou Kalpaxi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bob Calfati"
+  ],
+  "conductor": "Mario Robbiani",
+  "lyricists": [
+    "Jean Charles"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

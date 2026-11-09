@@ -1,0 +1,34 @@
+{
+  "id": 10,
+  "country": "BE",
+  "artist": "Robert Cogoi",
+  "song": "Près de ma rivière",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H7pUbwzHOcs",
+    "https://www.youtube-nocookie.com/embed/gA1LK1dwKFU",
+    "https://www.youtube-nocookie.com/embed/hY7NjLCQB8I",
+    "https://www.youtube-nocookie.com/embed/dmJgR8EZ8NI",
+    "https://www.youtube-nocookie.com/embed/6jLSedxx0Fg"
+  ],
+  "bpm": 96,
+  "tone": "E major",
+  "artistPeople": [
+    "Mirko Kogoj"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Henri Segers",
+  "lyricists": null,
+  "writers": [
+    "Robert Cogoi"
+  ],
+  "broadcaster": "RTB",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
+}

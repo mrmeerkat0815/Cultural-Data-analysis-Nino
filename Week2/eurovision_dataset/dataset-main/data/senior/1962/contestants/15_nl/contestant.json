@@ -1,0 +1,36 @@
+{
+  "id": 15,
+  "country": "NL",
+  "artist": "De Spelbrekers",
+  "song": "Katinka",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/67q3XNXcZ4g",
+    "https://www.youtube-nocookie.com/embed/DPzoydLh5YY",
+    "https://www.youtube-nocookie.com/embed/NHBpBTOdieY",
+    "https://www.youtube-nocookie.com/embed/sMpDkGTJrXY"
+  ],
+  "bpm": 141,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Hugo Kok",
+    "Theo Rekkers"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Joop Stokkermans"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Lodewijk Post",
+    "Henny Hamhuis"
+  ],
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Ger Lugtenburg"
+}

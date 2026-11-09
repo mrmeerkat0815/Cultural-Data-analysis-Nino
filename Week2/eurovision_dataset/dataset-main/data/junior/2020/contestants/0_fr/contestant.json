@@ -1,0 +1,30 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "Valentina",
+  "song": "J'imagine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3iIMGA0aUZE",
+    "https://www.youtube-nocookie.com/embed/Fzj2Daf1fhc",
+    "https://www.youtube-nocookie.com/embed/vEcEKt84TYo"
+  ],
+  "bpm": 114,
+  "tone": "C major",
+  "artistPeople": [
+    "Valentina Tronel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Barbara Pravi",
+    "Igit"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

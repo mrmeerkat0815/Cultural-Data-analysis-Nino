@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "country": "AL",
+  "artist": "Klesta Qehaja",
+  "song": "Besoj",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9HRL-svQNY4",
+    "https://www.youtube-nocookie.com/embed/jceBcWSgVmU",
+    "https://www.youtube-nocookie.com/embed/MFNbI1VRmt4"
+  ],
+  "bpm": 145,
+  "tone": "F minor",
+  "artistPeople": [
+    "Klesta Qehaja"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adrian Hila"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Pandi Laco"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

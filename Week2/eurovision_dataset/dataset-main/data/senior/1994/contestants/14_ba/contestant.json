@@ -1,0 +1,35 @@
+{
+  "id": 14,
+  "country": "BA",
+  "artist": "Alma & Dejan",
+  "song": "Ostani kraj mene",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9t-ptOfHvtQ",
+    "https://www.youtube-nocookie.com/embed/QkGwa3b8zEo",
+    "https://www.youtube-nocookie.com/embed/oe2kjLqlXYk",
+    "https://www.youtube-nocookie.com/embed/4qpJbJzc8QI"
+  ],
+  "bpm": 94,
+  "tone": "G major",
+  "artistPeople": [
+    "Alma Čardžić",
+    "Dejan Lazarević"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adi Mulahalilović"
+  ],
+  "conductor": "Sinan Alimanović",
+  "lyricists": [
+    "Edo Mulahalilović"
+  ],
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Diana Grković-Foretić"
+}

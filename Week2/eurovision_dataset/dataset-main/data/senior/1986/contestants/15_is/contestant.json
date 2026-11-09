@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "country": "IS",
+  "artist": "Icy",
+  "song": "Gleðibankinn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yliSZDpIx0g",
+    "https://www.youtube-nocookie.com/embed/ohB73YxWWXQ",
+    "https://www.youtube-nocookie.com/embed/Y7lTT4X4QkY"
+  ],
+  "bpm": 137,
+  "tone": "E major",
+  "artistPeople": [
+    "Eiríkur Hauksson",
+    "Helga Möller",
+    "Pálmi Gunnarsson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Gunnar Þórðarsson",
+  "lyricists": null,
+  "writers": [
+    "Magnús Eiríksson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Þorgeir Ástvaldsson"
+  ],
+  "jury": null,
+  "spokesperson": "Guðrún Skúladóttir"
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2,
+  "country": "DE",
+  "artist": "MeKaDo",
+  "song": "Wir geben 'ne Party",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ItE42off260",
+    "https://www.youtube-nocookie.com/embed/OCSUaM8a83g",
+    "https://www.youtube-nocookie.com/embed/VtQZ1Tm7yrw",
+    "https://www.youtube-nocookie.com/embed/e0usQZk_S1c",
+    "https://www.youtube-nocookie.com/embed/q2P7zLXC9fY"
+  ],
+  "bpm": 123,
+  "tone": "G major",
+  "artistPeople": [
+    "Dorkas Kiefer",
+    "Katharina Karney",
+    "Melanie Bender"
+  ],
+  "backings": [
+    "Barbara Margeth",
+    "Jerry Rix",
+    "Rhonda Heath"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Norbert Daum",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Jan Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Carmen Nebel"
+}

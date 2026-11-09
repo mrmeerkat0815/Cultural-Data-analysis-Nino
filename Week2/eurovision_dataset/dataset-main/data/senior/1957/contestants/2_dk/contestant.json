@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "country": "DK",
+  "artist": "Birthe Wilke & Gustav Winckler",
+  "song": "Skibet skal sejle i nat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1ITBDl33WFc",
+    "https://www.youtube-nocookie.com/embed/ETs6TpltT0Y",
+    "https://www.youtube-nocookie.com/embed/EZUcoSg07k0"
+  ],
+  "bpm": 97,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Birthe Wilke",
+    "Isgustav Frands Wilzeck Winckler"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Erik Fiehn"
+  ],
+  "conductor": "Kai Mortensen",
+  "lyricists": [
+    "Poul Sørensen"
+  ],
+  "writers": null,
+  "broadcaster": "DSR",
+  "commentators": [
+    "Gunnar Nu Hansen"
+  ],
+  "jury": null,
+  "spokesperson": "Svend Pedersen"
+}

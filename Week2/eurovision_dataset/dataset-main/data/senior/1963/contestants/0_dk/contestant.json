@@ -1,0 +1,37 @@
+{
+  "id": 0,
+  "country": "DK",
+  "artist": "Grethe & Jørgen Ingmann",
+  "song": "Dansevise",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fUoMUJKYhlA",
+    "https://www.youtube-nocookie.com/embed/olfd1Hin94s",
+    "https://www.youtube-nocookie.com/embed/J3AgMGAR8WQ",
+    "https://www.youtube-nocookie.com/embed/Ju5y4UnosEs",
+    "https://www.youtube-nocookie.com/embed/H51PXRSO2tA",
+    "https://www.youtube-nocookie.com/embed/Ghj-Y5HupjM"
+  ],
+  "bpm": 97,
+  "tone": "A minor",
+  "artistPeople": [
+    "Grethe Ingmann-Pedersen",
+    "Jørgen Ingmann-Pedersen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Otto Francker"
+  ],
+  "conductor": "Kai Mortensen",
+  "lyricists": [
+    "Sejr Volmer-Sørensen"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Mortensen"
+  ],
+  "jury": null,
+  "spokesperson": "Unknown"
+}

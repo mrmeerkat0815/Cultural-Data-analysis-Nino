@@ -1,0 +1,36 @@
+{
+  "id": 12,
+  "country": "GB",
+  "artist": "Precious",
+  "song": "Say It Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6KE6d8ld6H0",
+    "https://www.youtube-nocookie.com/embed/Ir3VG33EtVA",
+    "https://www.youtube-nocookie.com/embed/GMX5RExhcyM",
+    "https://www.youtube-nocookie.com/embed/vb-7sOdtrsE"
+  ],
+  "bpm": 89,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Anya Lahiri",
+    "Jenny Frost",
+    "Kalli Clark-Stemberg",
+    "Louise Rose",
+    "Sophie McDonnell"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Paul Varney"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

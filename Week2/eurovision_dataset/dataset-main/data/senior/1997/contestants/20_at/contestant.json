@@ -1,0 +1,37 @@
+{
+  "id": 20,
+  "country": "AT",
+  "artist": "Bettina Soriat",
+  "song": "One Step",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rpPOoZzKOcQ",
+    "https://www.youtube-nocookie.com/embed/YOC9riD_4Kc"
+  ],
+  "bpm": 111,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Bettina Soriat"
+  ],
+  "backings": [
+    "Ines Reiger",
+    "Karen Henry-Peterson",
+    "Monika Ballwein"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mark Berry"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mark Berry",
+    "Martina Siber"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Adriana Zartl"
+}

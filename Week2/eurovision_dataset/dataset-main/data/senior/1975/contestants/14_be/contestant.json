@@ -1,0 +1,38 @@
+{
+  "id": 14,
+  "country": "BE",
+  "artist": "Ann Christy",
+  "song": "Gelukkig zijn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UMgAM5LkDO4",
+    "https://www.youtube-nocookie.com/embed/Oc6XsS-xbn4",
+    "https://www.youtube-nocookie.com/embed/PgNh-8CzXRI",
+    "https://www.youtube-nocookie.com/embed/AHARrkvqfIY",
+    "https://www.youtube-nocookie.com/embed/kpggMzXx_28"
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "artistPeople": [
+    "Christiane Leenaerts"
+  ],
+  "backings": [
+    "Annica Risberg",
+    "Kerstin Bagge",
+    "Kerstin Dahl"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Francis Bay",
+  "lyricists": null,
+  "writers": [
+    "Mary Boduin"
+  ],
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jan Theys",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
+}

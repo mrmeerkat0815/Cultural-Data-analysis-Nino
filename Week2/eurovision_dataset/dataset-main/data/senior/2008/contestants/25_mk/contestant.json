@@ -1,0 +1,39 @@
+{
+  "id": 25,
+  "country": "MK",
+  "artist": "Tamara, Vrčak & Adrijan",
+  "song": "Let Me Love You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1MXMLTSR1Y4",
+    "https://www.youtube-nocookie.com/embed/7qVtoRMi6wU",
+    "https://www.youtube-nocookie.com/embed/LBBo630uAas",
+    "https://www.youtube-nocookie.com/embed/AKXqDoZDcOY",
+    "https://www.youtube-nocookie.com/embed/htisQHnww2s"
+  ],
+  "bpm": 102,
+  "tone": "A minor",
+  "artistPeople": [
+    "Adrian Gaxha",
+    "Tamara Todevska",
+    "Rade Vrčakovski"
+  ],
+  "backings": [
+    "Aleksa Raifović",
+    "Nade Talevska",
+    "Toma Đorđević"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Rade Vrčakovski"
+  ],
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "jury": null,
+  "spokesperson": "Ognen Janeski"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 11,
+  "country": "IS",
+  "artist": "Sigga",
+  "song": "Nætur",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pO5yJbkOr8A",
+    "https://www.youtube-nocookie.com/embed/9m6e2RFKS6I",
+    "https://www.youtube-nocookie.com/embed/luICrd2FxQQ",
+    "https://www.youtube-nocookie.com/embed/2t3ZVBfwJtM"
+  ],
+  "bpm": 106,
+  "tone": "A minor",
+  "artistPeople": [
+    "Sigga"
+  ],
+  "backings": [
+    "Edda Borg Ólafsdóttir",
+    "Erna Þórarinsdóttir",
+    "Eva Ásrún Albertsdóttir",
+    "Eyjólfur Kristjánsson",
+    "Ingi Gunnar Jóhannsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Friðrik Karlsson"
+  ],
+  "conductor": "Frank McNamara",
+  "lyricists": [
+    "Stefán Hilmarsson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "jury": null,
+  "spokesperson": "Sigríður Arnardóttir"
+}

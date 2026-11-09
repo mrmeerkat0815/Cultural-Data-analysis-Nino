@@ -1,0 +1,30 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Efi Gjika",
+  "song": "Barbie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nZeUcWZFiBE",
+    "https://www.youtube-nocookie.com/embed/SNbliBr97Dk"
+  ],
+  "bpm": 155,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Efi Gjika"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Efi Gjika"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Hristina Gjika"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 35,
+  "country": "MK",
+  "artist": "Vlatko Ilievski",
+  "song": "Rusinka",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JrCOhclzLbE",
+    "https://www.youtube-nocookie.com/embed/gJB-s-cMSgg",
+    "https://www.youtube-nocookie.com/embed/ymARnYJEv_8"
+  ],
+  "bpm": 87,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Vlatko Ilievski"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gilgor Koprov",
+    "Jovan Jovanov",
+    "Vladimir Dojcinovski"
+  ],
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Eli Tanaskovska"
+  ],
+  "jury": null,
+  "spokesperson": "Kristina Talevska"
+}

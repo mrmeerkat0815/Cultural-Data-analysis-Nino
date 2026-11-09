@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "country": "SM",
+  "artist": "Martina CRV",
+  "song": "Beyond the Stars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FkOLAQgOQS8"
+  ],
+  "bpm": 119,
+  "tone": "C major",
+  "artistPeople": [
+    "Martina Cervellin"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Elisa Gaiotto",
+    "Karin Amadori",
+    "Paolo Signanini",
+    "Valerio Carboni"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

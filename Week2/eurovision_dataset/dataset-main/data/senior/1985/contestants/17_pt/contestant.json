@@ -1,0 +1,38 @@
+{
+  "id": 17,
+  "country": "PT",
+  "artist": "Adelaide",
+  "song": "Penso em ti, eu sei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Q5PywI0zZ2E",
+    "https://www.youtube-nocookie.com/embed/xQEDaZoB9U0",
+    "https://www.youtube-nocookie.com/embed/C5BSEaVC2nE",
+    "https://www.youtube-nocookie.com/embed/claoYvPC4D8"
+  ],
+  "bpm": 80,
+  "tone": "C major",
+  "artistPeople": [
+    "Adelaide Ferreira"
+  ],
+  "backings": [
+    "Isabel Campelo",
+    "Luís Fernando"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tozé Brito"
+  ],
+  "conductor": "José Calvário",
+  "lyricists": [
+    "Adelaide",
+    "Luís Fernando"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Margarida Gaspar"
+}

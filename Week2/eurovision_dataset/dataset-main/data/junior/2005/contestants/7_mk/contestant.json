@@ -1,0 +1,27 @@
+{
+  "id": 7,
+  "country": "MK",
+  "artist": "Denis Dimoski",
+  "song": "Rodendeski baknež",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tqAXY72Q_PI"
+  ],
+  "bpm": 103,
+  "tone": "G# minor",
+  "artistPeople": [
+    "Denis Dimoski"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Stefan Krstevski"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": 9,
+  "country": "LU",
+  "artist": "Sophie Carle",
+  "song": "100% d'amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sEWnCqgmM6I",
+    "https://www.youtube-nocookie.com/embed/UXrFTm6q3ck",
+    "https://www.youtube-nocookie.com/embed/NxgV-8t1i6Q"
+  ],
+  "bpm": 71,
+  "tone": "F minor",
+  "artistPeople": [
+    "Sophie Carle"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Pierre Goussaud"
+  ],
+  "conductor": "Pascal Stive",
+  "lyricists": [
+    "Jean-Michel Beriat",
+    "Patrick James"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic",
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

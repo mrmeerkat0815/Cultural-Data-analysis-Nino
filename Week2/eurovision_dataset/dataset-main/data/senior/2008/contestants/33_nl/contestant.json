@@ -1,0 +1,42 @@
+{
+  "id": 33,
+  "country": "NL",
+  "artist": "Hind",
+  "song": "Your Heart Belongs To Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K6kl_8vFCZc",
+    "https://www.youtube-nocookie.com/embed/d3eY1L_S5dU",
+    "https://www.youtube-nocookie.com/embed/Ur7we7JLSik"
+  ],
+  "bpm": 94,
+  "tone": "C# major",
+  "artistPeople": [
+    "Hind Laroussi Tahiri"
+  ],
+  "backings": [
+    "Carolina Dijkhuizen",
+    "Deniz Kumas",
+    "Ellen Eeftink",
+    "Peggy Sandaal",
+    "Serge Dominique Monpellier"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bas van den Heuvel",
+    "Hind",
+    "Tjeerd van Zanen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Hind",
+    "Tjeerd van Zanen"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas"
+  ],
+  "jury": null,
+  "spokesperson": "Esther Hart"
+}

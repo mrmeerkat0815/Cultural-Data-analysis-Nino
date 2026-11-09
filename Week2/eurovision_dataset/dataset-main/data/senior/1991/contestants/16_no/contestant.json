@@ -1,0 +1,57 @@
+{
+  "id": 16,
+  "country": "NO",
+  "artist": "Just 4 Fun",
+  "song": "Mrs. Thompson",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hY_90Qil2Ns",
+    "https://www.youtube-nocookie.com/embed/1YvPWE4Ia4I",
+    "https://www.youtube-nocookie.com/embed/vzPp2ODaGd4"
+  ],
+  "bpm": 128,
+  "tone": "F major",
+  "artistPeople": [
+    "Eiríkur Hauksson",
+    "Hanne Krogh Sundbø",
+    "Jan Groth",
+    "Marianne Antonsen"
+  ],
+  "backings": [
+    "Kari Iveland",
+    "Per Øystein Sørensen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kaare Skevik Jr.",
+    "P.G. Roness"
+  ],
+  "conductor": "Pete Knutsen",
+  "lyricists": [
+    "Dag Kolsrud"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jahn Teigen",
+    "John Andreassen"
+  ],
+  "jury": [
+    "Christine Holm",
+    "Egil Storeide",
+    "Erik Wesseltoft",
+    "Gustavo Pollastri",
+    "Jan Paul Brekke",
+    "Jean-Paul Choukroun",
+    "Kari Olstad",
+    "Knut Reiersrud",
+    "Kristin Skaare",
+    "Nils Einar Vinjor",
+    "Ragnhild Vaaler",
+    "Reidun Hansen",
+    "Rune Arnesen",
+    "Tine Smith",
+    "Vibeke Wesenlund"
+  ],
+  "spokesperson": "Sverre Christophersen"
+}

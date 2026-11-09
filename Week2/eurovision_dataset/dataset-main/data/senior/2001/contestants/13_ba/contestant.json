@@ -1,0 +1,31 @@
+{
+  "id": 13,
+  "country": "BA",
+  "artist": "Nino",
+  "song": "Hano",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HOUDfrjSbUQ",
+    "https://www.youtube-nocookie.com/embed/ICW7Eda6QsI",
+    "https://www.youtube-nocookie.com/embed/KrIQfnqqo2U"
+  ],
+  "bpm": 87,
+  "tone": "D major",
+  "artistPeople": [
+    "Vahidin Pršeš"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Nino Pršeš"
+  ],
+  "broadcaster": "PBSBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Segmedina Srna"
+}

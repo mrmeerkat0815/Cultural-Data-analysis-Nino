@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "LV",
+  "artist": "Sarlote & Sea Stones",
+  "song": "Viva la Dance (Dejo tā)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/splCSKK8jVQ",
+    "https://www.youtube-nocookie.com/embed/WieegtZfkEY"
+  ],
+  "bpm": 121,
+  "tone": "D major",
+  "artistPeople": [
+    "Šarlote Lēnmane"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Arturs Palkkevics",
+    "Šarlote Lēnmane"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Guntars Racs"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

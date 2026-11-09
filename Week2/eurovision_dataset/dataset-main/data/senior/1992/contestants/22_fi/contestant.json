@@ -1,0 +1,38 @@
+{
+  "id": 22,
+  "country": "FI",
+  "artist": "Pave",
+  "song": "Yamma yamma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/04wdmE1l20k",
+    "https://www.youtube-nocookie.com/embed/XC6U4AYR8HA",
+    "https://www.youtube-nocookie.com/embed/8oDa7LX2NsE"
+  ],
+  "bpm": 121,
+  "tone": "D major",
+  "artistPeople": [
+    "Pekka Juhani Maijanen"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Pirjo Aittomäki",
+    "Sini Heinilä"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pave Maijanen"
+  ],
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": [
+    "Hector"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Kati Bergman"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

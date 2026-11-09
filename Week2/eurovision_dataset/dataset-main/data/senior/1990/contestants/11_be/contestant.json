@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "country": "BE",
+  "artist": "Philippe Lafontaine",
+  "song": "Macédomienne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zDBo1S0ZDnQ",
+    "https://www.youtube-nocookie.com/embed/kwf7V8ZsJI0"
+  ],
+  "bpm": 127,
+  "tone": "A minor",
+  "artistPeople": [
+    "Philippe Lafontaine"
+  ],
+  "backings": [
+    "Barry Mc Neese",
+    "Christophe Vervoort",
+    "Philippe 'Moby' Mobers",
+    "Pierre Van Dormael"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rony Brack",
+  "lyricists": null,
+  "writers": [
+    "Philippe Lafontaine"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Claude Delacroix",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

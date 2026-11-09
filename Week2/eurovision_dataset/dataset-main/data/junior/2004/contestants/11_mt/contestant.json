@@ -1,0 +1,31 @@
+{
+  "id": 11,
+  "country": "MT",
+  "artist": "Young Talent Team",
+  "song": "Power of a Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kVr_RVPiXIc",
+    "https://www.youtube-nocookie.com/embed/uXNRqRFYZEo"
+  ],
+  "bpm": 171,
+  "tone": "F minor",
+  "artistPeople": [
+    "Marilena Gauci",
+    "Charlotte Debattista"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marilena Gauci"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Charlotte Debattista"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

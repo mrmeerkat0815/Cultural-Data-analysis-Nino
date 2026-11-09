@@ -1,0 +1,35 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "Zoé Clauzure",
+  "song": "Cœur",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iYsEvSLQJro",
+    "https://www.youtube-nocookie.com/embed/lZvv1q3hNBg",
+    "https://www.youtube-nocookie.com/embed/tjyALei1yio",
+    "https://www.youtube-nocookie.com/embed/j1neRQrs13o",
+    "https://www.youtube-nocookie.com/embed/nUhqg9AeLao",
+    "https://www.youtube-nocookie.com/embed/xbbN5_Fsp8U"
+  ],
+  "bpm": 120,
+  "tone": "A major",
+  "artistPeople": [
+    "Zoé Clauzure"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Julien Comblat",
+    "Jérémy Chapron"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Noée Francheteau"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

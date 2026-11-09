@@ -1,0 +1,38 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Cadillac",
+  "song": "Valentino",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oUeSKjfrJVs",
+    "https://www.youtube-nocookie.com/embed/3cjIDIP3xSM",
+    "https://www.youtube-nocookie.com/embed/xXQ-ojgV5bs",
+    "https://www.youtube-nocookie.com/embed/o98hQfZeKdw"
+  ],
+  "bpm": 139,
+  "tone": "G major",
+  "artistPeople": [
+    "Daniel Jacques Louis",
+    "José María Guzmán",
+    "Pedro Agustín Sánchez"
+  ],
+  "backings": [
+    "Adolfo Rodríguez",
+    "Maisa Hens",
+    "Mary Jamison"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Eduardo Leiva",
+  "lyricists": null,
+  "writers": [
+    "José María Guzmán"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Antonio Gómez"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

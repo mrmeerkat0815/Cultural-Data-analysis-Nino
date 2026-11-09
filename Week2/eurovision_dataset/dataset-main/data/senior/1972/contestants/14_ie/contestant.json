@@ -1,0 +1,34 @@
+{
+  "id": 14,
+  "country": "IE",
+  "artist": "Sandie Jones",
+  "song": "Ceol an Ghrá",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Kvtj9wE6C3I",
+    "https://www.youtube-nocookie.com/embed/HE0TpTKvhzY",
+    "https://www.youtube-nocookie.com/embed/urIeBUNCSu8",
+    "https://www.youtube-nocookie.com/embed/adij7BcyCOs"
+  ],
+  "bpm": 81,
+  "tone": "C minor",
+  "artistPeople": [
+    "Sandie Jones"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Joe Burkett"
+  ],
+  "conductor": "Colman Pearce",
+  "lyricists": [
+    "Liam MacUistín"
+  ],
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

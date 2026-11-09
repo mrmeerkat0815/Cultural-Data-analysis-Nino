@@ -1,0 +1,34 @@
+{
+  "id": 0,
+  "country": "AM",
+  "artist": "Maléna",
+  "song": "Qami Qami",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IEqRlYCxPHw",
+    "https://www.youtube-nocookie.com/embed/1RG_qhN4e3M",
+    "https://www.youtube-nocookie.com/embed/LWh3927tVhU"
+  ],
+  "bpm": 118,
+  "tone": "A major",
+  "artistPeople": [
+    "Arpine Martoyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tokionine"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Arpine Martoyan",
+    "David Tserunyan",
+    "Tokionine",
+    "Vahram Petrosyan"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

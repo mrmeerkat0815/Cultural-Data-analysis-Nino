@@ -1,0 +1,41 @@
+{
+  "id": 19,
+  "country": "PT",
+  "artist": "Nucha",
+  "song": "Há sempre alguém",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/n-UJicNjoFg",
+    "https://www.youtube-nocookie.com/embed/Y8b3IMQaRh4",
+    "https://www.youtube-nocookie.com/embed/DSLsSGbDRWI"
+  ],
+  "bpm": 115,
+  "tone": "D major",
+  "artistPeople": [
+    "Cristina Baldaia"
+  ],
+  "backings": [
+    "Carla Burity",
+    "Fernanda Lopes",
+    "José Carvalho",
+    "Octávio de Sousa",
+    "Paula Monteiro"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jan van Dijck",
+    "Luís Filipe"
+  ],
+  "conductor": "Carlos Alberto Moniz",
+  "lyricists": [
+    "Francisco Teotónio Pereira",
+    "Frederico Teotónio Pereira"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Ana do Carmo"
+  ],
+  "jury": null,
+  "spokesperson": "João Abel da Fonseca"
+}

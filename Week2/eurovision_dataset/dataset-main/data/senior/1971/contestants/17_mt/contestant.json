@@ -1,0 +1,34 @@
+{
+  "id": 17,
+  "country": "MT",
+  "artist": "Joe Grech",
+  "song": "Marija l-Maltija",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ve-Cy4kIZrQ",
+    "https://www.youtube-nocookie.com/embed/N0AL3Qcqcow",
+    "https://www.youtube-nocookie.com/embed/xZUuhMMRPlo",
+    "https://www.youtube-nocookie.com/embed/cEV-roVIPYM"
+  ],
+  "bpm": 96,
+  "tone": "C major",
+  "artistPeople": [
+    "Joe Grech"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Joe Grech"
+  ],
+  "conductor": "Anthony Chircop",
+  "lyricists": [
+    "Charles Mifsud"
+  ],
+  "writers": null,
+  "broadcaster": "MBA",
+  "commentators": [
+    "Victor Aquilina"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": 13,
+  "country": "PT",
+  "artist": "Pedro Madeira",
+  "song": "Deixa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xILIDv-_6ys",
+    "https://www.youtube-nocookie.com/embed/4VDcJbXfmPc",
+    "https://www.youtube-nocookie.com/embed/dwtizUIo8l8"
+  ],
+  "bpm": 202,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Pedro Madeira"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Telmo Falcão"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Pedro Madeira"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

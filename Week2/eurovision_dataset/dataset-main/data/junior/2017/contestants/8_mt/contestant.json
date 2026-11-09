@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "country": "MT",
+  "artist": "Gianluca Cilia",
+  "song": "Dawra Tond",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eWU_PfOqeX0",
+    "https://www.youtube-nocookie.com/embed/l-6DOHhfEks"
+  ],
+  "bpm": 130,
+  "tone": "D major",
+  "artistPeople": [
+    "Gianluca Cilia"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dominic Cini"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Emil Calleja Bayliss"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

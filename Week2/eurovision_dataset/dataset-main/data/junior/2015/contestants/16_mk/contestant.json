@@ -1,0 +1,30 @@
+{
+  "id": 16,
+  "country": "MK",
+  "artist": "Ivana Petkovska & Magdalena Aleksovska",
+  "song": "Pletenka – Braid of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jlJsth-ESuI",
+    "https://www.youtube-nocookie.com/embed/p_1DZFRWb94"
+  ],
+  "bpm": 120,
+  "tone": "G major",
+  "artistPeople": [
+    "Ivana Petkovska & Magdalena Aleksovska"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Magdalena Aleksovska"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ivana Petkovska"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}
