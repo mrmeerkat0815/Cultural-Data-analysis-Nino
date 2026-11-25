@@ -1,0 +1,6 @@
+# API keys and passwords stay on your own machine
+.env
+# Local clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

@@ -1,0 +1,11 @@
+# Packages for the group miniproject. Works with Python 3.11+ locally and with Colab.
+# Add a line here when you import something new, so everyone's environment stays the same.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+scikit-image
+pillow
+requests
